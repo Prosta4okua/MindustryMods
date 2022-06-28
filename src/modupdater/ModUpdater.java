@@ -36,6 +36,8 @@ public class ModUpdater{
     }
 
     {
+//        getLanguages("Sharlottes/Informatis");
+
         //register colors to facilitate their removal
         Colors.put("accent", Color.white);
         Colors.put("unlaunched",  Color.white);
@@ -124,7 +126,11 @@ public class ModUpdater{
 
                         Jval meta = ghmeta.get(name);
                         String branch = meta.getString("default_branch");
-                        Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
+                        Jval modjson = tryList(
+                                name + "/" + branch + "/mod.json",
+                                name + "/" + branch + "/mod.hjson",
+                                name + "/" + branch + "/assets/mod.json",
+                                name + "/" + branch + "/assets/mod.hjson");
 
                         if(modjson == null){
                             print(buffer, "&lc| &lySkipping, no meta found.");
@@ -219,20 +225,24 @@ public class ModUpdater{
     public String getLanguages(String name) {
         Jval[] result = {null};
         Seq<String> languages = Seq.with();
-        Http.get("https://api.github.com/repos/" + name + "/contents/bundles")
-                .error(this::simpleError)
-                .block(out -> result[0] = Jval.read(out.getResultAsString()));
-        if (result[0] == null) {
-            System.err.println("[ERROR] " + name);
-        }
-        if (result[0] != null) {
-            Http.get("https://api.github.com/repos/" + name + "/bundles")
-                    .error(this::simpleError)
-                    .block(out -> result[0] = Jval.read(out.getResultAsString()));
-        }
-        if (result[0] == null)
-            return "";
-        Jval.JsonArray array = result[0].asArray();
+        Jval value = tryList(
+                "repos/" + name + "/contents/bundles",
+                "repos/" + name + "/contents/assets/bundles"
+        );// https://api.github.com/repos/superwibr/etigeox-mod/contents/assets/bundles
+//        Http.get("https://api.github.com/repos/" + name + "/contents/bundles")
+//                .error(this::simpleError)
+//                .block(out -> result[0] = Jval.read(out.getResultAsString()));
+//        if (result[0] == null) {
+//            System.err.println("[ERROR] " + name);
+//        }
+//        if (result[0] != null) {
+//            Http.get("https://api.github.com/repos/" + name + "/contents/assets/bundles")
+//                    .error(this::simpleError)
+//                    .block(out -> result[0] = Jval.read(out.getResultAsString()));
+//        }
+//        if (result[0] == null)
+//            return "";
+        Jval.JsonArray array = value.asArray();
         for (int i = 0; i < array.size; i++) {
 //            System.out.println("[" + (i+1) + "]" + array.get(i).get("name"));
             if (array.get(i).get("name").toString().equals("bundle.properties"))

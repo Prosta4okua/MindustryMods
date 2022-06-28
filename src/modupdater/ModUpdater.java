@@ -191,6 +191,7 @@ public class ModUpdater{
                     if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
                         continue;
                     }
+                    String langs = getLanguages(name);
 
                     obj.add("repo", name);
                     obj.add("name", metaName);
@@ -201,6 +202,7 @@ public class ModUpdater{
                     obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                     obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                     obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
+                    obj.add("languages", (langs.equals("") ? "english" : langs));
                     array.asArray().add(obj);
                 }catch(Exception e){
                     //ignore horribly malformed json
@@ -212,6 +214,35 @@ public class ModUpdater{
 
             Log.info("&lcDone. Found @ valid mods.", array.asArray().size);
         });
+    }
+
+    public String getLanguages(String name) {
+        Jval[] result = {null};
+        Seq<String> languages = Seq.with();
+        Http.get("https://api.github.com/repos/" + name + "/contents/bundles")
+                .error(this::simpleError)
+                .block(out -> result[0] = Jval.read(out.getResultAsString()));
+        if (result[0] == null) {
+            System.err.println("[ERROR] " + name);
+        }
+        if (result[0] != null) {
+            Http.get("https://api.github.com/repos/" + name + "/bundles")
+                    .error(this::simpleError)
+                    .block(out -> result[0] = Jval.read(out.getResultAsString()));
+        }
+        if (result[0] == null)
+            return "";
+        Jval.JsonArray array = result[0].asArray();
+        for (int i = 0; i < array.size; i++) {
+//            System.out.println("[" + (i+1) + "]" + array.get(i).get("name"));
+            if (array.get(i).get("name").toString().equals("bundle.properties"))
+                languages.add("en");
+            else
+                languages.add(array.get(i).get("name").toString().replace("bundle_", "").replace(".properties", ""));
+        }
+        System.out.println("[" + name + "]" + "Languages: " + languages);
+
+        return languages.toString();
     }
 
     void print(StringBuilder buffer, String text, Object... args){

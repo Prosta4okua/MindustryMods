@@ -28,5 +28,5 @@ jobs:
         git add mods.json
         git add icons/*
         git commit --allow-empty -m "[auto-update]"
-        git push https://Anuken:${{ secrets.API_TOKEN_GITHUB }}@github.com/Anuken/MindustryMods
+        git push https://Prosta4okua:${{ secrets.API_TOKEN_GITHUB }}@github.com/Prosta4okua/MindustryMods
 

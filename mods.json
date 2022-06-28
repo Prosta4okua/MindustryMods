@@ -477,7 +477,7 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!",
-    "languages": "[en, pt_BR, uk_UA]"
+    "languages": "english"
   },
   {
     "repo": "p101q/uni",
@@ -7032,18 +7032,6 @@
     "languages": "english"
   },
   {
-    "repo": "swirek3331/alt-core",
-    "name": "Alt-core",
-    "author": "Swirek3331",
-    "lastUpdated": "2022-06-27T13:26:54Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Debile są niczym sezonowa grypa. Cały czas wracają i niemiłosiernie trują dupę",
-    "languages": "english"
-  },
-  {
     "repo": "nikisos/thebattlemod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -7437,18 +7425,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds adamantium to the game.",
-    "languages": "english"
-  },
-  {
-    "repo": "awaheart/golden-duo",
-    "name": "Golden Duo",
-    "author": "dogecoin",
-    "lastUpdated": "2021-05-02T00:42:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a golden duo",
     "languages": "english"
   },
   {

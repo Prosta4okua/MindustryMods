@@ -23,3 +23,10 @@ task run(dependsOn: classes, type: JavaExec){
     standardInput = System.in
     systemProperties System.properties
 }
+
+task ukr(dependsOn: classes, type: JavaExec){
+    mainClass = "modupdater.Langs"
+    classpath = sourceSets.main.runtimeClasspath
+    standardInput = System.in
+    systemProperties System.properties
+}

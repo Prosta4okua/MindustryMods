@@ -132,6 +132,8 @@ public class ModUpdater{
                                 name + "/" + branch + "/assets/mod.json",
                                 name + "/" + branch + "/assets/mod.hjson");
 
+
+
                         if(modjson == null){
                             print(buffer, "&lc| &lySkipping, no meta found.");
                             return;
@@ -197,7 +199,7 @@ public class ModUpdater{
                     if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
                         continue;
                     }
-                    String langs = getLanguages(name);
+//                    String langs = getLanguages(name);
 
                     obj.add("repo", name);
                     obj.add("name", metaName);
@@ -208,7 +210,7 @@ public class ModUpdater{
                     obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                     obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                     obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
-                    obj.add("languages", (langs.equals("") ? "english" : langs));
+//                    obj.add("languages", (langs.equals("") ? "english" : langs));
                     array.asArray().add(obj);
                 }catch(Exception e){
                     //ignore horribly malformed json
@@ -228,7 +230,16 @@ public class ModUpdater{
         Jval value = tryList(
                 "repos/" + name + "/contents/bundles",
                 "repos/" + name + "/contents/assets/bundles"
-        );// https://api.github.com/repos/superwibr/etigeox-mod/contents/assets/bundles
+        );
+        System.out.println("repos/" + name + "/contents/assets/bundles\n");
+        System.out.println("value=" + value);
+
+        if(value == null){
+            System.err.println("[ERROR] no bundles found, skipping `" + name + "`");
+//            print(new StringBuilde"&lc| &lySkipping, no meta found.");
+            return "";
+        }
+        // https://api.github.com/repos/sk7725/BetaMindy/contents/assets/bundles
 //        Http.get("https://api.github.com/repos/" + name + "/contents/bundles")
 //                .error(this::simpleError)
 //                .block(out -> result[0] = Jval.read(out.getResultAsString()));
@@ -259,7 +270,7 @@ public class ModUpdater{
         buffer.append(Strings.format(text, args)).append("\n");
     }
 
-    Jval tryList(String... queries){
+    public Jval tryList(String... queries){
         Jval[] result = {null};
         for(String str : queries){
             //try to get mod.json instead

@@ -7940,5 +7940,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
+  },
+  {
+    "repo": "cristian-blackture/cridoms-chaotic-mod",
+    "name": "Cridoms-Chaotic-Mod",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-07-31T20:37:53Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
   }
 ]

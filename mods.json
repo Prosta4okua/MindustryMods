@@ -256,7 +256,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-08-01T01:32:05Z",
+    "lastUpdated": "2022-08-01T12:57:45Z",
     "stars": 35,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-01T12:20:58Z",
+    "lastUpdated": "2022-08-01T13:27:14Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -630,7 +630,7 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-01T10:07:16Z",
+    "lastUpdated": "2022-08-01T13:21:39Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -652,7 +652,7 @@
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-01T08:29:11Z",
+    "lastUpdated": "2022-08-01T12:35:08Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1301,7 +1301,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-01T01:27:23Z",
+    "lastUpdated": "2022-08-01T12:29:10Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -5764,6 +5764,17 @@
     "description": "The very culmination of everyone's dumb ideas."
   },
   {
+    "repo": "notmeepoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
+  },
+  {
     "repo": "jhdreemurr/bruh-mod",
     "name": "jh dreemurr's mod",
     "author": "jh_dreemurr",
@@ -6444,28 +6455,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Made in Russia."
-  },
-  {
-    "repo": "rakagit/littleboost",
-    "name": "Little Boost",
-    "author": "MCPC",
-    "lastUpdated": "2022-06-01T07:04:23Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Little coding, Add more items and blocks from Easy to build until Advanced machine"
-  },
-  {
-    "repo": "rakagit/littlemachinecore",
-    "name": "Little Machine Code [LMC]",
-    "author": "MCPC",
-    "lastUpdated": "2022-06-02T12:24:23Z",
-    "stars": 1,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "LMC - addons for other Mods"
   },
   {
     "repo": "trrestghgytcftgbcxszd/cheatdustry",
@@ -7945,11 +7934,11 @@
     "repo": "936338156/mindustry-interplanetary-industries-mod",
     "name": "Interplanetary_Industries",
     "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-01T11:25:22Z",
+    "lastUpdated": "2022-08-01T13:41:47Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "啥时候我需要一个新的东西帮助我轻松游玩Mindustry的时候再添加吧,至于那些可能严重破坏平衡性的添加我会慎重，导致其状态和属性波动巨大"
+    "description": "当我需要一个新的东西帮助我轻松游玩Mindustry的时候再添加吧,至于那些可能严重破坏平衡性的添加我会慎重，导致其状态和属性波动巨大"
   }
 ]

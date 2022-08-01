@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-01T19:23:04Z",
+    "lastUpdated": "2022-08-01T21:38:10Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -295,6 +295,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
+    "repo": "nickname73/gravillaso",
+    "name": "GRavillaso",
+    "author": "NickName73 (NiTiS-Dev)",
+    "lastUpdated": "2022-05-27T09:34:09Z",
+    "stars": 32,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "younggam/multi-lib",
@@ -878,6 +889,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "slotterleet/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-07-30T16:52:53Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
   },
   {
     "repo": "gdeft/bleach",
@@ -2354,6 +2376,17 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
+    "repo": "mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-05-24T12:07:04Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
     "repo": "karlsonvive/a-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "author": "Rhoo",
@@ -2937,6 +2970,17 @@
     "description": "Makes you sandbox."
   },
   {
+    "repo": "jhrushbe/moardustry",
+    "name": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2022-07-25T05:23:51Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
+  },
+  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -3001,6 +3045,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
+  },
+  {
+    "repo": "qmelz/loading",
+    "name": "Loading...",
+    "author": "QmelZ",
+    "lastUpdated": "2020-12-07T14:28:56Z",
+    "stars": 3,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "qmelz/hackustry-java",
@@ -3245,6 +3300,17 @@
     "description": "Vanguard"
   },
   {
+    "repo": "ahrumjungle/fast-duo",
+    "name": "Fast Duo",
+    "author": "OCRumjungle",
+    "lastUpdated": "2021-08-12T04:46:59Z",
+    "stars": 3,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a faster Duo (and other stuff)"
+  },
+  {
     "repo": "l0615t1c5-216ac-9437/automaticmodupdator",
     "name": "automatic mod updater",
     "author": "L0615T1C5.216AC#9437",
@@ -3375,6 +3441,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my mod, special works, now on java because i'm learning it"
+  },
+  {
+    "repo": "freezemandu/qa-schemic",
+    "name": "Q&A Schemic",
+    "author": "Qwertynoob&Anchovy&Mandu",
+    "lastUpdated": "2021-12-12T14:44:19Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
     "repo": "vernaon/mindustry-admin-button",
@@ -3564,6 +3641,17 @@
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
+    "repo": "deltanedas/tracker",
+    "name": "Tracker",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:15:25Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Create easily visible markers to track a position or player.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "lepisma-0/extended-tech",
     "name": "Extended Tech",
     "author": "Lepisma & Manezoid",
@@ -3743,7 +3831,7 @@
     "repo": "rylid-umil/new-units",
     "name": "New Units",
     "author": "Cle",
-    "lastUpdated": "2022-08-01T20:05:30Z",
+    "lastUpdated": "2022-08-01T21:03:21Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3925,6 +4013,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Replaces images on displays with a nice gradient"
+  },
+  {
+    "repo": "reborntrack970/moreservers",
+    "name": "More Servers!!!",
+    "author": "RTOmega",
+    "lastUpdated": "2021-03-08T09:28:22Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do you have a server you want to add to the community list but you cant? Or simply you just want to test your servers? Maybe you are bored of the public servers and you want more servers? This is the mod for YOU! This is a simple Mindustry mod that adds more servers to the global server list. All you gotta do is to install the mod. You can also pr to this mod to add more servers!"
   },
   {
     "repo": "joshwelyt/hardmode-remade",
@@ -5203,6 +5302,17 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2022-07-31T08:49:43Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "- 全新ui\n- 修复一些bug"
+  },
+  {
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
@@ -5214,17 +5324,6 @@
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "cristian-blackture/cridoms-chaotic-mod",
-    "name": "Cridoms-Chaotic-Mod",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-01T10:56:46Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
-  },
-  {
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
@@ -5234,6 +5333,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
+  },
+  {
+    "repo": "cristian-blackture/acm",
+    "name": "ACM",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-01T20:54:13Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OOOOOOOOOOOOOOOOF was hard.\nImagine Amog Us. "
+  },
+  {
+    "repo": "cristian-blackture/cridoms-chaotic-mod",
+    "name": "ACM",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-01T20:54:13Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OOOOOOOOOOOOOOOOF was hard.\nImagine Amog Us. "
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7835,7 +7956,7 @@
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
-    "lastUpdated": "2022-08-01T17:30:01Z",
+    "lastUpdated": "2022-08-01T20:36:41Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": true,

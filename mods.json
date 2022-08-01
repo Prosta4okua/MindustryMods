@@ -641,7 +641,7 @@
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-30T09:50:27Z",
+    "lastUpdated": "2022-08-01T08:06:57Z",
     "stars": 17,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1100,6 +1100,17 @@
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
+    "repo": "wmf-industries/expandedindustries",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-06-20T15:04:12Z",
+    "stars": 10,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
+  },
+  {
     "repo": "mnemotechnician/ckat",
     "name": "Скат [kotlin]",
     "author": "Мнемотехник",
@@ -1197,6 +1208,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
+  },
+  {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 9,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1991,6 +2013,17 @@
     "description": "A bag of content."
   },
   {
+    "repo": "zerocore-salamander/hackforall",
+    "name": "HackForAll",
+    "author": "zeroCore",
+    "lastUpdated": "2020-11-14T10:58:09Z",
+    "stars": 5,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
+  },
+  {
     "repo": "1qwaka/dps-meter",
     "name": "DPS-meter",
     "author": "Qwaka",
@@ -2154,6 +2187,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "random ideas"
+  },
+  {
+    "repo": "freezemandu/siriuschem",
+    "name": "Siriuschem",
+    "author": "Sirius&NothingToDo&Mandu",
+    "lastUpdated": "2021-09-22T04:26:22Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -3069,6 +3113,17 @@
     "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
   },
   {
+    "repo": "sisit135/extendedgroundunit",
+    "name": "Extended ground unit mod",
+    "author": "sisit135 + passive engineer",
+    "lastUpdated": "2021-03-04T09:39:00Z",
+    "stars": 3,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "High maneuverability land unit"
+  },
+  {
     "repo": "nyancat1234/water-god-mod",
     "name": "Water God Mod",
     "author": "nyancat1234",
@@ -3432,6 +3487,17 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
+    "repo": "error-in-code/relics-mod",
+    "name": "Relics",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-02-12T17:48:53Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
     "repo": "timshh/mbt",
     "name": "MBT",
     "author": "Timshh",
@@ -3540,6 +3606,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack."
+  },
+  {
+    "repo": "rexaliis/quality-implementations-mod",
+    "name": "Quality Implementations",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-05-06T19:45:15Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
     "repo": "deltanedas/tracker",
@@ -5181,6 +5258,17 @@
     "description": "My very first mod! credit to: MaxSmoke"
   },
   {
+    "repo": "driftheque/thenewwave",
+    "name": "The New Wave",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-01T08:11:04Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
+  },
+  {
     "repo": "sirmachinegun/ebm",
     "name": "Experimental Blocks",
     "author": "SirMachinegun (EMPEROR#5403)",
@@ -6554,17 +6642,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not to be confused with Techfish Industries, the (scrapped) json version of this mod\nA Remaster of all of my previous mods in one package and for v6.\n\nCurrent Problems:\n- Maybe not multiplayer compatible, not tested\n- Plastanium drills reset depth after reload"
-  },
-  {
-    "repo": "driftheque/thenewwave",
-    "name": "The New Wave",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-01T06:27:34Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
   },
   {
     "repo": "nikisos/thebattlemod",

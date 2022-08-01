@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-21T06:06:30Z",
-    "stars": 241,
+    "stars": 242,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -25,8 +25,8 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-07-29T19:26:54Z",
-    "stars": 170,
+    "lastUpdated": "2022-08-01T18:58:03Z",
+    "stars": 171,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-07-24T08:28:17Z",
-    "stars": 156,
+    "stars": 157,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -48,7 +48,7 @@
     "name": "reVision",
     "author": "Slava0135",
     "lastUpdated": "2022-04-06T08:14:34Z",
-    "stars": 115,
+    "stars": 116,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-07-24T23:15:21Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -70,7 +70,7 @@
     "name": "Hackustry",
     "author": "QmelZ",
     "lastUpdated": "2022-05-12T05:23:40Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-01T03:24:59Z",
+    "lastUpdated": "2022-08-01T19:23:04Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -92,7 +92,7 @@
     "name": "Diamond Ore Mod",
     "author": "z0mbiesrock",
     "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
@@ -114,7 +114,7 @@
     "name": "Gold Mod",
     "author": "The Slaylord",
     "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -136,7 +136,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-07-29T06:14:20Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -220,6 +220,17 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "sharlottes/examplemod",
+    "name": "Example Mod",
+    "author": "Sharlotte",
+    "lastUpdated": "2021-08-21T09:35:11Z",
+    "stars": 43,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
+  },
+  {
     "repo": "aerongreva/aeromindustry",
     "name": "AeroMindustry",
     "author": "AeronGreva",
@@ -229,17 +240,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
-  },
-  {
-    "repo": "sharlottes/examplemod",
-    "name": "Example Mod",
-    "author": "Sharlotte",
-    "lastUpdated": "2021-08-21T09:35:11Z",
-    "stars": 42,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -295,17 +295,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "nickname73/gravillaso",
-    "name": "GRavillaso",
-    "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-27T09:34:09Z",
-    "stars": 32,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
   },
   {
     "repo": "younggam/multi-lib",
@@ -396,6 +385,17 @@
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
+    "repo": "xzxadixzx/scheme-size",
+    "name": "Scheme Size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-07-31T10:53:17Z",
+    "stars": 28,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "xeloboyo/pvp-notifs",
     "name": "PvP notifs",
     "author": "Xelo",
@@ -405,17 +405,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alerts you to enemy tech progression and unit production"
-  },
-  {
-    "repo": "xzxadixzx/scheme-size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-31T10:53:17Z",
-    "stars": 27,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -889,17 +878,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
-  },
-  {
-    "repo": "slotterleet/fictional-octo-system",
-    "name": "fictional-octo-system",
-    "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-07-30T16:52:53Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A space-related mod."
   },
   {
     "repo": "gdeft/bleach",
@@ -2376,17 +2354,6 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
-    "repo": "mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-05-24T12:07:04Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "karlsonvive/a-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "author": "Rhoo",
@@ -2970,17 +2937,6 @@
     "description": "Makes you sandbox."
   },
   {
-    "repo": "jhrushbe/moardustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2022-07-25T05:23:51Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
-  },
-  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -3045,17 +3001,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
-  },
-  {
-    "repo": "qmelz/loading",
-    "name": "Loading...",
-    "author": "QmelZ",
-    "lastUpdated": "2020-12-07T14:28:56Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "qmelz/hackustry-java",
@@ -3300,17 +3245,6 @@
     "description": "Vanguard"
   },
   {
-    "repo": "ahrumjungle/fast-duo",
-    "name": "Fast Duo",
-    "author": "OCRumjungle",
-    "lastUpdated": "2021-08-12T04:46:59Z",
-    "stars": 3,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a faster Duo (and other stuff)"
-  },
-  {
     "repo": "l0615t1c5-216ac-9437/automaticmodupdator",
     "name": "automatic mod updater",
     "author": "L0615T1C5.216AC#9437",
@@ -3441,17 +3375,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "my mod, special works, now on java because i'm learning it"
-  },
-  {
-    "repo": "freezemandu/qa-schemic",
-    "name": "Q&A Schemic",
-    "author": "Qwertynoob&Anchovy&Mandu",
-    "lastUpdated": "2021-12-12T14:44:19Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
   },
   {
     "repo": "vernaon/mindustry-admin-button",
@@ -3641,17 +3564,6 @@
     "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
   },
   {
-    "repo": "deltanedas/tracker",
-    "name": "Tracker",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:15:25Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Create easily visible markers to track a position or player.\nRequires deltanedas/ui-lib."
-  },
-  {
     "repo": "lepisma-0/extended-tech",
     "name": "Extended Tech",
     "author": "Lepisma & Manezoid",
@@ -3828,6 +3740,17 @@
     "description": "JSON mod for multiplayer pvp. Discord(suggestions, polls, news): https://discord.gg/mQptHacVEG"
   },
   {
+    "repo": "rylid-umil/new-units",
+    "name": "New Units",
+    "author": "Cle",
+    "lastUpdated": "2022-08-01T20:05:30Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My very first mod! credit to: MaxSmoke"
+  },
+  {
     "repo": "2938137849/mindustrymod",
     "name": "MyMod",
     "author": "bin",
@@ -4002,17 +3925,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Replaces images on displays with a nice gradient"
-  },
-  {
-    "repo": "reborntrack970/moreservers",
-    "name": "More Servers!!!",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-08T09:28:22Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you have a server you want to add to the community list but you cant? Or simply you just want to test your servers? Maybe you are bored of the public servers and you want more servers? This is the mod for YOU! This is a simple Mindustry mod that adds more servers to the global server list. All you gotta do is to install the mod. You can also pr to this mod to add more servers!"
   },
   {
     "repo": "joshwelyt/hardmode-remade",
@@ -5291,17 +5203,6 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2022-07-31T08:49:43Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "- 全新ui\n- 修复一些bug"
-  },
-  {
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
@@ -5313,6 +5214,17 @@
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
+    "repo": "cristian-blackture/cridoms-chaotic-mod",
+    "name": "Cridoms-Chaotic-Mod",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-01T10:56:46Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
+  },
+  {
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
@@ -5322,17 +5234,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
-  },
-  {
-    "repo": "rylid-umil/new-units",
-    "name": "New Units",
-    "author": "Cle",
-    "lastUpdated": "2022-08-01T16:50:11Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My very first mod! credit to: MaxSmoke"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7918,17 +7819,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
-    "repo": "cristian-blackture/cridoms-chaotic-mod",
-    "name": "Cridoms-Chaotic-Mod",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-01T10:56:46Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod. Adds A Drill And Conveyor.\nNew update made it lol "
   },
   {
     "repo": "936338156/mindustry-interplanetary-industries-mod",

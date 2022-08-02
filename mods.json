@@ -11,6 +11,17 @@
     "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
   },
   {
+    "repo": "aureusstratus/exogenesis",
+    "name": "Exogenesis",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-08-01T18:58:03Z",
+    "stars": 174,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds in a butt load of content"
+  },
+  {
     "repo": "xeloboyo/factoriodustry",
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
@@ -20,17 +31,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
-  },
-  {
-    "repo": "aureusstratus/exogenesis",
-    "name": "Exogenesis",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-08-01T18:58:03Z",
-    "stars": 172,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds in a butt load of content"
   },
   {
     "repo": "yuria-shikibe/newhorizonmod",
@@ -1221,6 +1221,17 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 9,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "name": "Game Info Imager",
     "author": "Yuria",
@@ -1265,6 +1276,17 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "mnemotechnician/new-controls-public",
+    "name": "New controls",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-22T18:24:40Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "cynthion21x/prismatic",
     "name": "Prismatic",
     "author": "ice100k, thecrisperson",
@@ -1279,7 +1301,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-01T12:29:10Z",
+    "lastUpdated": "2022-08-02T01:47:27Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2981,17 +3003,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "yesc48/erekirbundles",
-    "name": "Erekir Bundles",
-    "author": "yesC48",
-    "lastUpdated": "2022-07-31T02:05:34Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds descriptions for the new Erekir content."
-  },
-  {
     "repo": "routerxdd/erekir-extended",
     "name": "Erekir Extended",
     "author": "RouterXdd",
@@ -3001,6 +3012,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "yesc48/erekirbundles",
+    "name": "Erekir Bundles",
+    "author": "yesC48",
+    "lastUpdated": "2022-08-02T03:43:12Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds descriptions for the new Erekir content."
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -3809,7 +3831,7 @@
     "repo": "rylid-umil/new-units",
     "name": "New Units",
     "author": "Cle",
-    "lastUpdated": "2022-08-01T21:03:21Z",
+    "lastUpdated": "2022-08-02T03:26:35Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -3969,6 +3991,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "txomon/mindustryclienthostpausemod",
+    "name": "Client host pause mod",
+    "author": "Javier Domingo Cansino",
+    "lastUpdated": "2021-03-04T20:24:02Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod to allow the host to pause the game."
   },
   {
     "repo": "leyn-pl/no-displays",
@@ -4818,6 +4851,17 @@
     "description": "a small mod"
   },
   {
+    "repo": "goobrr/debugproc",
+    "name": "Debug Processor",
+    "author": "You",
+    "lastUpdated": "2022-05-01T05:07:01Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Step by step processor for debugging"
+  },
+  {
     "repo": "rly4498/shardprogression",
     "name": "Shard's Progression",
     "author": "Rly4498",
@@ -4838,6 +4882,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "ka4ok52/f-mod",
+    "name": "F-MOD",
+    "author": "Ka4ok52_",
+    "lastUpdated": "2022-05-08T21:00:16Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "wedro023/frestorm",
@@ -5324,6 +5379,17 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
+    "repo": "a-soulspark/cakedustry",
+    "name": "Cakedustry",
+    "author": "a-soulspark",
+    "lastUpdated": "2020-12-01T15:23:57Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Celebrate v6's release with Cake!"
+  },
+  {
     "repo": "svan9/svgmods",
     "name": "SVGmods",
     "author": "svan9",
@@ -5641,6 +5707,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Bigger versions of basic blocks. Because I can."
+  },
+  {
+    "repo": "delourians/mindustry-mod",
+    "name": "Mindustry-mod",
+    "author": "Gab??... and AZU",
+    "lastUpdated": "2021-06-09T00:33:53Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Finish the campaign....NOW"
   },
   {
     "repo": "kerbalboy/mindustry-test-mod",
@@ -7040,6 +7117,17 @@
     "description": "Adds a golden duo"
   },
   {
+    "repo": "kotmilkmeow/milkmod",
+    "name": "MilkMod",
+    "author": "KotMilkMeoW",
+    "lastUpdated": "2021-05-14T05:34:51Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod for Mindustry"
+  },
+  {
     "repo": "memedustry/generic-mod",
     "name": "Generic Mod",
     "author": "Memedustry",
@@ -7874,5 +7962,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Idk"
+  },
+  {
+    "repo": "ark-source/project-subnautic-",
+    "name": "Project Subnautic",
+    "author": "Arkanic, Vector and FordRazer",
+    "lastUpdated": "2022-08-02T03:05:13Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Tantros extended mod"
   }
 ]

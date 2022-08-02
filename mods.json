@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-21T06:06:30Z",
-    "stars": 242,
+    "stars": 243,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-01T21:38:10Z",
+    "lastUpdated": "2022-08-02T06:05:32Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1430,6 +1430,17 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "zelaux/gaslibrary",
+    "name": "GasLibrary",
+    "author": "Zelaux",
+    "lastUpdated": "2022-06-04T13:44:58Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
+  },
+  {
     "repo": "thcworkshopcn/thc-industry",
     "name": "THC-Industry",
     "author": "THC Workshop CN. uujuju",
@@ -1527,6 +1538,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
+  },
+  {
+    "repo": "p101q/snowdustry",
+    "name": "Snowydustry",
+    "author": "Mindustry [RU] inc.",
+    "lastUpdated": "2021-12-30T12:54:28Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "pixecoz/maps-pack",
@@ -1901,6 +1923,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
+    "repo": "zeniku/heavymachineryjava",
+    "name": "HeavyMachineryJava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-05-25T05:34:10Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "ark-source/project-paradox-public",
@@ -2948,17 +2981,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-07-25T15:53:14Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "aawwaaa/aimclient",
     "name": "AimClient",
     "author": "awa",
@@ -2990,6 +3012,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds descriptions for the new Erekir content."
+  },
+  {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-08-02T05:22:28Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -3562,6 +3595,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod which has a few lines of contents and some ugly sprites."
+  },
+  {
+    "repo": "mintustry/duonrouter",
+    "name": "inception duo",
+    "author": "mintustry",
+    "lastUpdated": "2022-04-12T05:15:18Z",
+    "stars": 3,
+    "minGameVersion": "112",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "router,  stuff and thongs, god my brain hurts"
   },
   {
     "repo": "bend-n/experience",
@@ -5907,17 +5951,6 @@
     "description": "this is gonna be something"
   },
   {
-    "repo": "ixgamerxl/chipcompiler",
-    "name": "Chip Compiler",
-    "author": "IxGamerXL#6306",
-    "lastUpdated": "2021-12-13T20:19:12Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows you to make instant instructions of whatever you want to input. Chip Reader schematic code may be copied from inside the GUI. \n\n(Required DeltaNedas/ui-lib (aka UI Lib) mod, found in Mod Browser.)"
-  },
-  {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
     "name": "scrapdustry",
     "author": "initiate",
@@ -6048,6 +6081,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
+  },
+  {
+    "repo": "xenoforce/use-tomorrow-units",
+    "name": "Use Tomorrow Units",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-15T18:32:46Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Make use of New Horizon units."
   },
   {
     "repo": "xenoforce/use-exobegin-units",
@@ -6862,6 +6906,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is a mod adding multiple tiers of more powerful batteries"
+  },
+  {
+    "repo": "memfacego/mod",
+    "name": "mod",
+    "author": "",
+    "lastUpdated": "2021-01-31T01:42:24Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "mmt007/dustry-verse",
@@ -7890,7 +7945,7 @@
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
-    "lastUpdated": "2022-08-02T03:05:13Z",
+    "lastUpdated": "2022-08-02T05:42:23Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": false,

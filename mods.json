@@ -256,7 +256,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-08-01T12:57:45Z",
+    "lastUpdated": "2022-08-02T09:09:21Z",
     "stars": 35,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-01T13:27:14Z",
+    "lastUpdated": "2022-08-02T09:45:36Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2002,17 +2002,6 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "r-omnom/z.p.g.m._mod",
-    "name": "Z.P.G.M._Mod",
-    "author": "r_omnom7",
-    "lastUpdated": "2022-07-31T14:43:58Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
-  },
-  {
     "repo": "mythril382/bagofcontent",
     "name": "Bag Of Content",
     "author": "Mythril",
@@ -2022,6 +2011,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A bag of content."
+  },
+  {
+    "repo": "r-omnom/z.p.g.m._mod",
+    "name": "Z.P.G.M._Mod",
+    "author": "r_omnom7",
+    "lastUpdated": "2022-08-02T10:07:25Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3773,17 +3773,6 @@
     "description": "Similar to NeonNights, but actually updated."
   },
   {
-    "repo": "nilederg/galactustry",
-    "name": "Galactustry",
-    "author": "NileDerg",
-    "lastUpdated": "2022-07-24T09:44:27Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
     "repo": "yellowafterlife/mindustry-tiny-things",
     "name": "Tiny Things",
     "author": "YellowAfterlife",
@@ -3837,6 +3826,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "nilederg/galactustry",
+    "name": "Galactustry",
+    "author": "NileDerg",
+    "lastUpdated": "2022-08-02T10:00:27Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds many new features, drastically altering the endgame."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -7909,17 +7909,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "cynthion21x/prismaticexperimental",
-    "name": "Prismatic",
-    "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-07-30T18:44:28Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
-  },
-  {
     "repo": "swirek3331/altanic-v7",
     "name": "Altanic-v7",
     "author": "swirek3331",
@@ -7962,5 +7951,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Idk"
+  },
+  {
+    "repo": "cynthion21x/prismaticexperimental",
+    "name": "Prismatic",
+    "author": "ice100k & thecrisperson",
+    "lastUpdated": "2022-08-02T09:29:55Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
   }
 ]

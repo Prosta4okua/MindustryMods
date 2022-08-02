@@ -1430,17 +1430,6 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "zelaux/gaslibrary",
-    "name": "GasLibrary",
-    "author": "Zelaux",
-    "lastUpdated": "2022-06-04T13:44:58Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
-  },
-  {
     "repo": "thcworkshopcn/thc-industry",
     "name": "THC-Industry",
     "author": "THC Workshop CN. uujuju",
@@ -1538,17 +1527,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
-  },
-  {
-    "repo": "p101q/snowdustry",
-    "name": "Snowydustry",
-    "author": "Mindustry [RU] inc.",
-    "lastUpdated": "2021-12-30T12:54:28Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "pixecoz/maps-pack",
@@ -1923,17 +1901,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "zeniku/heavymachineryjava",
-    "name": "HeavyMachineryJava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-05-25T05:34:10Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "ark-source/project-paradox-public",
@@ -3597,17 +3564,6 @@
     "description": "A simple mod which has a few lines of contents and some ugly sprites."
   },
   {
-    "repo": "mintustry/duonrouter",
-    "name": "inception duo",
-    "author": "mintustry",
-    "lastUpdated": "2022-04-12T05:15:18Z",
-    "stars": 3,
-    "minGameVersion": "112",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "router,  stuff and thongs, god my brain hurts"
-  },
-  {
     "repo": "bend-n/experience",
     "name": "experience",
     "author": "bendn",
@@ -4972,17 +4928,6 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
-    "repo": "mythril382/multi-shooter",
-    "name": "Multi Shooter",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-24T12:57:25Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows modification of shots and shot delays.\n\nMay cause lag!"
-  },
-  {
     "repo": "mythril382/u-r-a-i-c",
     "name": "U. R. A. I. C.",
     "author": "Mythril",
@@ -6105,17 +6050,6 @@
     "description": "Mod with nice weapons"
   },
   {
-    "repo": "xenoforce/use-tomorrow-units",
-    "name": "Use Tomorrow Units",
-    "author": "XenoTale",
-    "lastUpdated": "2022-02-15T18:32:46Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Make use of New Horizon units."
-  },
-  {
     "repo": "xenoforce/use-exobegin-units",
     "name": "Use ExoBegin Units",
     "author": "XenoTale",
@@ -6928,17 +6862,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is a mod adding multiple tiers of more powerful batteries"
-  },
-  {
-    "repo": "memfacego/mod",
-    "name": "mod",
-    "author": "",
-    "lastUpdated": "2021-01-31T01:42:24Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "mmt007/dustry-verse",

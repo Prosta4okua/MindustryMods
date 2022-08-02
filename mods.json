@@ -2805,17 +2805,6 @@
     "description": "Work in progress (not working)"
   },
   {
-    "repo": "6666dustry/separator-hell",
-    "name": "separator-HELL",
-    "author": "many bear",
-    "lastUpdated": "2022-04-03T04:40:18Z",
-    "stars": 4,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "welcome to separator HELL this mod add many separator"
-  },
-  {
     "repo": "rlccj/logic-completion",
     "name": "LogicCompletion",
     "author": "miner",
@@ -2992,17 +2981,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "routerxdd/erekir-extended",
-    "name": "Erekir Extended",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-07-31T15:54:35Z",
-    "stars": 4,
-    "minGameVersion": "22910",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
-  },
-  {
     "repo": "yesc48/erekirbundles",
     "name": "Erekir Bundles",
     "author": "yesC48",
@@ -3023,6 +3001,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
+    "repo": "routerxdd/erekir-extended",
+    "name": "Erekir Extended",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-08-02T10:23:14Z",
+    "stars": 4,
+    "minGameVersion": "22910",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "6666dustry/separator-hell",
+    "name": "separator-HELL",
+    "author": "many bear",
+    "lastUpdated": "2022-08-02T11:44:29Z",
+    "stars": 4,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "welcome to separator HELL this mod add many separator"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -3831,7 +3831,7 @@
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "NileDerg",
-    "lastUpdated": "2022-08-02T10:00:27Z",
+    "lastUpdated": "2022-08-02T11:58:33Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5313,17 +5313,6 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
-    "repo": "driftheque/thenewwave",
-    "name": "The New Wave",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-02T07:11:35Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
-  },
-  {
     "repo": "cristian-blackture/acm",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
@@ -5344,6 +5333,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OOOOOOOOOOOOOOOOF was hard.\nImagine Amog Us. "
+  },
+  {
+    "repo": "driftheque/thenewwave",
+    "name": "The New Wave",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-02T11:22:20Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7909,17 +7909,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "swirek3331/altanic-v7",
-    "name": "Altanic-v7",
-    "author": "swirek3331",
-    "lastUpdated": "2022-07-31T15:04:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
     "repo": "936338156/mindustry-interplanetary-industries-mod",
     "name": "Interplanetary_Industries",
     "author": "羊叫兽OwO",
@@ -7962,5 +7951,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n \n - Made in Java -\n  "
+  },
+  {
+    "repo": "swirek3331/altanic-v7",
+    "name": "Altanic-v7",
+    "author": "swirek3331",
+    "lastUpdated": "2022-08-02T10:57:22Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   }
 ]

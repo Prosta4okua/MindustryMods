@@ -1122,6 +1122,17 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "sk7725/immundustry",
+    "name": "Immundustry",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-21T17:51:55Z",
+    "stars": 9,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The immune system in Mindustry. WIP!\nSprites and content helped by EyeofDarkness; temporary!"
+  },
+  {
     "repo": "qmelz/mainstreamdustry",
     "name": "mainstreamdustry",
     "author": "QmelZdustry",
@@ -1142,6 +1153,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "spmlk/dreamscapemod",
+    "name": "Dreamscape Mod",
+    "author": "smk",
+    "lastUpdated": "2021-06-24T05:26:08Z",
+    "stars": 9,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Harness the power of dreams in this content mod."
   },
   {
     "repo": "solokil/v6adventureu",
@@ -1186,6 +1208,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
+  },
+  {
+    "repo": "deltanedas/anuke-logic",
+    "name": "Anuke Logic",
+    "author": "DeltaNedas",
+    "lastUpdated": "2022-01-24T16:44:09Z",
+    "stars": 9,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1496,6 +1529,17 @@
     "description": "aaaaa"
   },
   {
+    "repo": "mak992/future-technologies-mod",
+    "name": "Future technologies mod",
+    "author": "mak_",
+    "lastUpdated": "2021-12-26T20:00:58Z",
+    "stars": 7,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
+  },
+  {
     "repo": "p101q/snowdustry",
     "name": "Snowydustry",
     "author": "Mindustry [RU] inc.",
@@ -1626,6 +1670,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Download this Mindustry Mod NOW!"
+  },
+  {
+    "repo": "evo04taser/super-cheat",
+    "name": "Super Cheat",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-07-25T03:49:08Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
     "repo": "fabizocker456/test",
@@ -2486,6 +2541,17 @@
     "description": "A simple mod. Demonstrates how to make wack  and stuff."
   },
   {
+    "repo": "pixaxeofpixie/azureflaretech",
+    "name": "Azure Flare Technologies",
+    "author": "PixaxeOfPixie",
+    "lastUpdated": "2021-04-18T17:20:34Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that targets on visual effects and sprites."
+  },
+  {
     "repo": "mindustryinside/classicmusic",
     "name": "Mindustry Classic Music",
     "author": "Summet, A Drop A Day (music)",
@@ -2882,6 +2948,17 @@
     "description": "Makes you sandbox."
   },
   {
+    "repo": "jhrushbe/moardustry",
+    "name": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2022-07-25T05:23:51Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
+  },
+  {
     "repo": "aawwaaa/aimclient",
     "name": "AimClient",
     "author": "awa",
@@ -2891,6 +2968,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for Aim"
+  },
+  {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-08-02T05:22:28Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -3353,6 +3441,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
+  },
+  {
+    "repo": "vernaon/mindustry-admin-button",
+    "name": "Admin button",
+    "author": "NothingImportant",
+    "lastUpdated": "2021-12-29T22:30:41Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
   },
   {
     "repo": "alexander397172yt/alex39-mod",
@@ -4510,6 +4609,17 @@
     "description": "Adds a LOT of stuff related to the Bloons Tower Defence series and the grand-slam-hit 'Minecraft clone' Terraria. the Bloons TD series is a series by Ninja Kiwi and Terraria is a game by Re-Logic. No copyright Infringement intended. "
   },
   {
+    "repo": "smolkeys/random-stuff",
+    "name": "Random Stuff",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-16T01:11:52Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "something and nothing"
+  },
+  {
     "repo": "mrduck557/hersysprites",
     "name": "Heresy Sprites",
     "author": "MrDuck557",
@@ -4596,6 +4706,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A factional mod focused on fortifaction, units and unit equipment.\r\n\r\nThis mod also includes the content of Unit Equipment Stand Alone."
+  },
+  {
+    "repo": "goobrr/easy-modo",
+    "name": "Easy Modo",
+    "author": "Goobrr",
+    "lastUpdated": "2022-03-13T03:54:15Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\"Eeeeh? Easy modo?\""
   },
   {
     "repo": "pap6/aum",
@@ -5049,6 +5170,17 @@
     "description": "  Adds some stuff I made using JavaScript:\n  'Potok' (Rus: flow) - Artillery cannon using electricity to shoot liquid capsules\n  'Serp' (Rus: sickle) - Spider unit that automatically mines titanium, lead and copper and defends with the mining laser\n  'Uley' (Rus: beehive) - Spore-infested mega with a new artillery turret\n  'Mycorisa' (Rus: mycoris) - Convers vanilla units to spore-infested units with completely different abilities"
   },
   {
+    "repo": "srotaku/modnathilha-v6",
+    "name": "NathilhaMod",
+    "author": "RedGame",
+    "lastUpdated": "2022-07-19T17:27:03Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
+  },
+  {
     "repo": "reborntrack970/destroyer",
     "name": "Destroyer",
     "author": "RebornTrack970",
@@ -5212,6 +5344,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
+  },
+  {
+    "repo": "a-soulspark/cakedustry",
+    "name": "Cakedustry",
+    "author": "a-soulspark",
+    "lastUpdated": "2020-12-01T15:23:57Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Celebrate v6's release with Cake!"
   },
   {
     "repo": "svan9/svgmods",
@@ -5588,6 +5731,17 @@
     "description": "Better logic blocks and some random things"
   },
   {
+    "repo": "sonnicon/mindustry-newhorizons",
+    "name": "New Horizons",
+    "author": "[#8738ff]Sonnicon[]",
+    "lastUpdated": "2021-07-08T21:44:54Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Epic mindustry mod"
+  },
+  {
     "repo": "memedustry/heresydustry",
     "name": "HeresyDustry",
     "author": "Memedustry \n\nIdeas: \n[A Literal Pie - Reversed liquid stats]\n[Mothy - Veladustry]\n[susvocado - Cannabis]\n[Strange Noises - Memedustry]\n\nContribute by DMing me your hilariously stupid ideas! @KingOfMemes#2183",
@@ -5597,6 +5751,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The very culmination of everyone's dumb ideas."
+  },
+  {
+    "repo": "notmeepoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "jhdreemurr/bruh-mod",
@@ -5762,6 +5927,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "this is gonna be something"
+  },
+  {
+    "repo": "ixgamerxl/chipcompiler",
+    "name": "Chip Compiler",
+    "author": "IxGamerXL#6306",
+    "lastUpdated": "2021-12-13T20:19:12Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows you to make instant instructions of whatever you want to input. Chip Reader schematic code may be copied from inside the GUI. \n\n(Required DeltaNedas/ui-lib (aka UI Lib) mod, found in Mod Browser.)"
   },
   {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
@@ -6061,6 +6237,17 @@
     "description": "All this does is let you pause in multiplayer. Both the host and the person pausing the game need the mod, the person pausing must be an admin."
   },
   {
+    "repo": "zadr0tic/sciencedustry-javafromexpamle",
+    "name": "Sciencedustry",
+    "author": "Zaksen",
+    "lastUpdated": "2022-04-13T19:53:47Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Do you need more?"
+  },
+  {
     "repo": "routerxdd/hellfraction-industries",
     "name": "HFI",
     "author": "Router Xdd",
@@ -6314,6 +6501,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "blockzilla101/bomberman-disable-flying",
+    "name": "Bomberman - disable flying",
+    "author": "Blockzilla",
+    "lastUpdated": "2022-06-08T11:49:24Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables flying in bomberman maps"
+  },
+  {
     "repo": "schedarian/scalamodtemplate",
     "name": "Scala Mod Template",
     "author": "7tySeven",
@@ -6512,6 +6710,17 @@
     "description": "Just a mod to add displays without borders, for more logic shenanigans."
   },
   {
+    "repo": "techfish3000/techfish-industrial",
+    "name": "Techfish Industrial",
+    "author": "Main Dev: Techfish3000\nSprites: stolen from random people, mainly example mod and EyeOfDarkness",
+    "lastUpdated": "2022-07-28T08:54:59Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not to be confused with Techfish Industries, the (scrapped) json version of this mod\nA Remaster of all of my previous mods in one package and for v6.\n\nCurrent Problems:\n- Maybe not multiplayer compatible, not tested\n- Plastanium drills reset depth after reload"
+  },
+  {
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
@@ -6655,6 +6864,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "emanuelg-gaming/big-numbers-funi",
+    "name": "BigNumbersFuni",
+    "author": "Emanuel G",
+    "lastUpdated": "2021-01-02T09:41:42Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes almost everything have tons of value. Happy new year xD"
+  },
+  {
     "repo": "amateurpotion/crystal",
     "name": "Crystal edition",
     "author": "AmateurPotion",
@@ -6752,6 +6972,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This JSON mod adds a bunch of new, armored variants of vanilla blocks for use on the frontlines."
+  },
+  {
+    "repo": "skydraco-8bit/mindustry-sector-alteraa",
+    "name": "Sector Alteraa",
+    "author": "SkyDraco",
+    "lastUpdated": "2021-03-27T14:31:53Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for mindustry"
   },
   {
     "repo": "reborntrack970/moonmod",
@@ -7049,6 +7280,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod expands the possibilities for the transfer of energy"
+  },
+  {
+    "repo": "stonemcyt/firstmindustrymod",
+    "name": "Stones Mod",
+    "author": "StoneMc",
+    "lastUpdated": "2021-09-15T23:43:13Z",
+    "stars": 0,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My First mod"
   },
   {
     "repo": "pietro303hd/esoterum-solutions",
@@ -7689,15 +7931,15 @@
     "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary maybe) content to the game."
   },
   {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-03T04:38:50Z",
+    "repo": "swirek3331/altanic",
+    "name": "Altanic",
+    "author": "swirek3331",
+    "lastUpdated": "2022-08-03T09:48:53Z",
     "stars": 0,
-    "minGameVersion": "136.1",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Idk"
+    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
     "repo": "swirek3331/altanic-v7",
@@ -7711,14 +7953,14 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic",
-    "name": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-08-03T09:48:53Z",
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-03T16:04:03Z",
     "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "136.1",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
+    "description": "Idk"
   }
 ]

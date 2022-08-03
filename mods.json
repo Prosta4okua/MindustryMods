@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-03T10:17:22Z",
+    "lastUpdated": "2022-08-03T20:33:14Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-03T18:20:25Z",
+    "lastUpdated": "2022-08-03T22:05:30Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -630,7 +630,7 @@
     "repo": "ballgamer56/vanillaextended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
-    "lastUpdated": "2022-08-02T22:13:37Z",
+    "lastUpdated": "2022-08-03T21:10:04Z",
     "stars": 18,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -1298,6 +1298,17 @@
     "description": "Leet speak localisator."
   },
   {
+    "repo": "kayyayeare/dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-08-03T13:23:07Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "deltanedas/override-lib",
     "name": "Override Lib",
     "author": "DeltaNedas",
@@ -1450,17 +1461,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Terradustry reworked for v7 introducing content from both Terraria and one of Terraria's most popular mods, Calamity. (Units currently have placeholder AI)"
-  },
-  {
-    "repo": "kayyayeare/dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-08-03T13:23:07Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "lottievixen/2xconveyors",
@@ -7956,7 +7956,7 @@
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
-    "lastUpdated": "2022-08-03T18:46:25Z",
+    "lastUpdated": "2022-08-03T21:16:41Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": true,

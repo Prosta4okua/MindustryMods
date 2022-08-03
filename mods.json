@@ -3817,10 +3817,21 @@
     "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
   },
   {
+    "repo": "sh1penfire/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-08-03T04:43:40Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "NileDerg",
-    "lastUpdated": "2022-08-03T02:51:55Z",
+    "lastUpdated": "2022-08-03T05:01:53Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3831,23 +3842,12 @@
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-03T03:55:26Z",
+    "lastUpdated": "2022-08-03T06:13:53Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
-  },
-  {
-    "repo": "sh1penfire/welcome-to-the-frostscape",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-08-03T04:43:40Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
   },
   {
     "repo": "2938137849/mindustrymod",

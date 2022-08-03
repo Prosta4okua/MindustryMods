@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-02T18:20:12Z",
+    "lastUpdated": "2022-08-03T18:09:03Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -894,7 +894,7 @@
     "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-08-02T16:55:25Z",
+    "lastUpdated": "2022-08-03T18:06:20Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -6724,7 +6724,7 @@
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
-    "lastUpdated": "2022-08-03T00:28:08Z",
+    "lastUpdated": "2022-08-03T17:35:34Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -7931,7 +7931,7 @@
     "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary maybe) content to the game."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-03T09:48:53Z",
@@ -7942,7 +7942,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-03T09:48:53Z",
@@ -7956,7 +7956,7 @@
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
-    "lastUpdated": "2022-08-03T16:04:03Z",
+    "lastUpdated": "2022-08-03T16:53:54Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": true,

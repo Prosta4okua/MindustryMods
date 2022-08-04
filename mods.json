@@ -352,6 +352,17 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
+    "repo": "pixecoz/mindustryschematics",
+    "name": "Schematics Pack",
+    "author": "pixecoz",
+    "lastUpdated": "2022-07-28T10:58:37Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "gdeft/substructure",
     "name": "Substructure",
     "author": "Gdeft",
@@ -383,17 +394,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
-  },
-  {
-    "repo": "pixecoz/mindustryschematics",
-    "name": "Schematics Pack",
-    "author": "pixecoz",
-    "lastUpdated": "2022-07-28T10:58:37Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
   },
   {
     "repo": "xzxadixzx/scheme-size",
@@ -616,17 +616,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "sporrus/randommindustry",
-    "name": "Random Mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-01T16:21:28Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "ballgamer56/vanillaextended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
@@ -636,6 +625,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "sporrus/randommindustry",
+    "name": "Random Mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-08-04T07:16:47Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "eclipsetheoldone/project-eclipse",
@@ -3014,17 +3014,6 @@
     "description": "welcome to separator HELL this mod add many separator"
   },
   {
-    "repo": "driftheque/thenewwave",
-    "name": "The New Wave",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-03T11:24:02Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
-  },
-  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -3056,6 +3045,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds descriptions for the new Erekir content."
+  },
+  {
+    "repo": "driftheque/thenewwave",
+    "name": "The New Wave",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-04T06:44:15Z",
+    "stars": 4,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
   },
   {
     "repo": "slotterleet/crazy-militaries",

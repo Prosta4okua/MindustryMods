@@ -649,6 +649,17 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "uujuju1/project-oblivion",
+    "name": "Project Oblivion",
+    "author": "Uujuju",
+    "lastUpdated": "2022-07-21T04:30:08Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The technology of the oblivion awaits you..."
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
@@ -669,17 +680,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-07-21T04:30:08Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "paulieg626/cheat",
@@ -3014,17 +3014,6 @@
     "description": "welcome to separator HELL this mod add many separator"
   },
   {
-    "repo": "yesc48/erekirbundles",
-    "name": "Erekir Bundles",
-    "author": "yesC48",
-    "lastUpdated": "2022-08-03T01:31:34Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds descriptions for the new Erekir content."
-  },
-  {
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
@@ -3050,12 +3039,23 @@
     "repo": "liplum/bottledliquid",
     "name": "Bottled Liquid",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-04T04:35:19Z",
+    "lastUpdated": "2022-08-04T04:37:59Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
+    "repo": "yesc48/erekirbundles",
+    "name": "Erekir Bundles",
+    "author": "yesC48",
+    "lastUpdated": "2022-08-04T04:49:06Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds descriptions for the new Erekir content."
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -7964,7 +7964,7 @@
     "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary maybe) content to the game."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-03T09:48:53Z",
@@ -7975,7 +7975,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-03T09:48:53Z",

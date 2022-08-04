@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-03T23:38:46Z",
+    "lastUpdated": "2022-08-04T02:27:10Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -979,6 +979,17 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "rlccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2022-08-04T02:02:35Z",
+    "stars": 12,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "author": "tcookiem, Ski12345",
@@ -1021,17 +1032,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "rlccj/minertools",
-    "name": "MinerTools",
-    "author": "miner",
-    "lastUpdated": "2022-08-03T08:39:13Z",
-    "stars": 11,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "slotterleet/basic-schematics",
@@ -1287,17 +1287,6 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-03T12:29:18Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
@@ -1307,6 +1296,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-04T01:23:30Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -3003,6 +3003,17 @@
     "description": "Adds descriptions for the new Erekir content."
   },
   {
+    "repo": "driftheque/thenewwave",
+    "name": "The New Wave",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-03T11:24:02Z",
+    "stars": 4,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
+  },
+  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -3826,17 +3837,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
-    "repo": "driftheque/thenewwave",
-    "name": "The New Wave",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-03T11:24:02Z",
-    "stars": 3,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4860,6 +4860,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Step by step processor for debugging"
+  },
+  {
+    "repo": "rly4498/shardprogression",
+    "name": "Shard's Progression",
+    "author": "Rly4498",
+    "lastUpdated": "2022-05-04T15:23:09Z",
+    "stars": 2,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
   },
   {
     "repo": "deltanedas/item-grabber",
@@ -5993,6 +6004,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to break mindustry"
+  },
+  {
+    "repo": "auseawesome/mindustryplus-agricultureaddon",
+    "name": "Mindustry+ Agriculture Addon",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-02-02T16:41:48Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made to add more plants into Mindustry"
   },
   {
     "repo": "radio-silence-1/cursedunits",

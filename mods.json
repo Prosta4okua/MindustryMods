@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-03T20:33:14Z",
+    "lastUpdated": "2022-08-03T23:38:46Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -321,13 +321,13 @@
   {
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-03T22:05:30Z",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
+    "lastUpdated": "2022-08-03T22:15:29Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\nA fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& custom ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
+    "description": "\nA fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "goobrr/amogus",
@@ -630,7 +630,7 @@
     "repo": "ballgamer56/vanillaextended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
-    "lastUpdated": "2022-08-03T21:10:04Z",
+    "lastUpdated": "2022-08-03T22:22:11Z",
     "stars": 18,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -4862,17 +4862,6 @@
     "description": "Step by step processor for debugging"
   },
   {
-    "repo": "rly4498/shardprogression",
-    "name": "Shard's Progression",
-    "author": "Rly4498",
-    "lastUpdated": "2022-05-04T15:23:09Z",
-    "stars": 2,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
-  },
-  {
     "repo": "deltanedas/item-grabber",
     "name": "Item Grabber",
     "author": "deltanedas",
@@ -6006,17 +5995,6 @@
     "description": "A mod made to break mindustry"
   },
   {
-    "repo": "auseawesome/mindustryplus-agricultureaddon",
-    "name": "Mindustry+ Agriculture Addon",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T16:41:48Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made to add more plants into Mindustry"
-  },
-  {
     "repo": "radio-silence-1/cursedunits",
     "name": "Weird Textures",
     "author": "Radio Silence",
@@ -6724,7 +6702,7 @@
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
-    "lastUpdated": "2022-08-03T17:35:34Z",
+    "lastUpdated": "2022-08-04T00:38:20Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -7956,7 +7934,7 @@
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
-    "lastUpdated": "2022-08-03T21:16:41Z",
+    "lastUpdated": "2022-08-04T00:55:18Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": true,

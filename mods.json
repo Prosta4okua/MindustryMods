@@ -1708,7 +1708,7 @@
     "repo": "evo04taser/super-cheat",
     "name": "Super Cheat",
     "author": "Evo04Taser",
-    "lastUpdated": "2022-08-05T02:35:18Z",
+    "lastUpdated": "2022-08-05T04:21:58Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2816,7 +2816,7 @@
     "description": "Work in progress (not working)"
   },
   {
-    "repo": "riccj/logic-completion",
+    "repo": "rlccj/logic-completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -2827,7 +2827,7 @@
     "description": "A mindustry mod for logic"
   },
   {
-    "repo": "rlccj/logic-completion",
+    "repo": "riccj/logic-completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -3050,7 +3050,7 @@
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-04T15:11:44Z",
+    "lastUpdated": "2022-08-05T04:06:27Z",
     "stars": 4,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -6983,17 +6983,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is my first mod."
-  },
-  {
-    "repo": "oguh43/quantumreactor",
-    "name": "Quantum Reactor ",
-    "author": "oguh43/ Len_Luk",
-    "lastUpdated": "2021-03-01T16:56:30Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reactor based on quantum mechanics."
   },
   {
     "repo": "martycagas/mindustry-mod-some-more-armor",

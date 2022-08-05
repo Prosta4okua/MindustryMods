@@ -630,7 +630,7 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-05T15:43:08Z",
+    "lastUpdated": "2022-08-05T17:07:41Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5795,6 +5795,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The very culmination of everyone's dumb ideas."
+  },
+  {
+    "repo": "notmeepoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "jhdreemurr/bruh-mod",

@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-04T20:05:47Z",
+    "lastUpdated": "2022-08-04T23:55:34Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -812,17 +812,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
-  },
-  {
-    "repo": "theangelurd/additional-content",
-    "name": " Additional  Content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-07-20T19:52:26Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "sk7725/exp-lib",
@@ -5360,7 +5349,7 @@
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
-    "lastUpdated": "2022-08-04T19:15:59Z",
+    "lastUpdated": "2022-08-05T00:02:13Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -7964,7 +7953,7 @@
     "description": "Idk"
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-04T16:11:38Z",
@@ -7975,7 +7964,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-04T16:11:38Z",

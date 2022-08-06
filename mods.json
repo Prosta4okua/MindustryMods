@@ -1323,7 +1323,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-06T01:10:42Z",
+    "lastUpdated": "2022-08-06T12:23:13Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -3003,6 +3003,17 @@
     "description": "welcome to separator HELL this mod add many separator"
   },
   {
+    "repo": "sh1penfire/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-08-03T04:43:40Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -3050,7 +3061,7 @@
     "repo": "yesc48/erekirbundles",
     "name": "Erekir Bundles",
     "author": "yesC48",
-    "lastUpdated": "2022-08-05T12:54:34Z",
+    "lastUpdated": "2022-08-06T12:38:06Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3067,6 +3078,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
+  },
+  {
+    "repo": "lottievixen/1-tile-drills",
+    "name": "1 Tile Drills",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-06T23:48:03Z",
+    "stars": 3,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
   },
   {
     "repo": "qmelz/loading",
@@ -3298,6 +3320,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
+  },
+  {
+    "repo": "bluetechnocat/galaxite-mod",
+    "name": "Galaxite Mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-07-03T22:21:16Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "After conquering Serpulo and unable to leave the planet, you decide to search for new materials and technologies. Soon you find a brand new and unestable material, now is just figuring out what to do with it..."
   },
   {
     "repo": "newestgithubber/vanguard",
@@ -3828,17 +3861,6 @@
     "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
   },
   {
-    "repo": "sh1penfire/welcome-to-the-frostscape",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-08-03T04:43:40Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
-  },
-  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "Nilederg",
@@ -3991,6 +4013,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry jar mod that add powercell, a form of direct energy generation and transportation."
+  },
+  {
+    "repo": "qmelz/rgbdustry",
+    "name": "RGBdustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-03-01T13:59:49Z",
+    "stars": 2,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "txomon/mindustryclienthostpausemod",
@@ -5236,17 +5269,6 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "uujuju1/monolith",
-    "name": "Monolith",
-    "author": "Uujuju",
-    "lastUpdated": "2022-07-31T00:45:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Can this be considered a 'vanilla' mod?"
-  },
-  {
     "repo": "rexaliis/colorful-darkness-mod",
     "name": "Colorful Darkness",
     "author": "RexHm (Discord ID: 612122239428722720)",
@@ -5311,6 +5333,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "- 全新ui\n- 修复一些bug"
+  },
+  {
+    "repo": "uujuju1/monolith",
+    "name": "Monolith",
+    "author": "Uujuju",
+    "lastUpdated": "2022-08-06T13:48:24Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Can this be considered a 'vanilla' mod?"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7621,6 +7654,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nAureus#6109 for lending me a hand with some of the status effect icons, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
+  },
+  {
+    "repo": "charliegregg314/mindustry-mod-test",
+    "name": "test",
+    "author": "CharlieGregg",
+    "lastUpdated": "2022-02-14T00:36:11Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "test"
   },
   {
     "repo": "sebmeister2077/advanced-refinement",

@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-05T22:06:26Z",
+    "lastUpdated": "2022-08-05T23:16:12Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3886,7 +3886,7 @@
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "Nilederg",
-    "lastUpdated": "2022-08-05T20:48:56Z",
+    "lastUpdated": "2022-08-05T23:08:58Z",
     "stars": 3,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -4519,17 +4519,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information ingame, such as unit/building, wave, core, tile, item/unit total info etc"
-  },
-  {
-    "repo": "theefficientinefficient/progressivetech",
-    "name": "Progressive Tech",
-    "author": "TheEfficientInefficient",
-    "lastUpdated": "2021-10-10T13:44:12Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
   },
   {
     "repo": "stacktrace-error/lithium-texture-pack",
@@ -5311,17 +5300,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Dark-Mode Texture pack for Mindustry!"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2022-07-31T08:49:43Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "- 全新ui\n- 修复一些bug"
   },
   {
     "repo": "cluet-op/green-technology",

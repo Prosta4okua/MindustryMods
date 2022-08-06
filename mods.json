@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-06T10:14:32Z",
+    "lastUpdated": "2022-08-06T17:51:26Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-05T14:04:25Z",
+    "lastUpdated": "2022-08-06T18:06:30Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2016,7 +2016,7 @@
     "repo": "r-omnom/z.p.g.m._mod",
     "name": "Z.P.G.M._Mod",
     "author": "r_omnom7",
-    "lastUpdated": "2022-08-06T10:16:48Z",
+    "lastUpdated": "2022-08-06T16:53:03Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3674,17 +3674,6 @@
     "description": "OP Things which game more easy, but isn't a hack."
   },
   {
-    "repo": "rexaliis/quality-implementations-mod",
-    "name": "Quality Implementations",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-05-06T19:45:15Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
-  },
-  {
     "repo": "deltanedas/tracker",
     "name": "Tracker",
     "author": "deltanedas",
@@ -4233,17 +4222,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Help your mod-making-mood with this motivational mod!"
-  },
-  {
-    "repo": "thebabinator/toaster",
-    "name": "Toaster",
-    "author": "TheBabinator",
-    "lastUpdated": "2021-05-22T07:54:10Z",
-    "stars": 2,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
   },
   {
     "repo": "willoizcitron/the-spaceship-mindustry",
@@ -6897,17 +6875,6 @@
     "description": "Makes almost everything have tons of value. Happy new year xD"
   },
   {
-    "repo": "amateurpotion/crystal",
-    "name": "Crystal edition",
-    "author": "AmateurPotion",
-    "lastUpdated": "2021-01-04T12:47:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
     "repo": "ghvtv/music-mod-mindustry",
     "name": "Music Mod1.0",
     "author": "Chen Rhong",
@@ -7964,7 +7931,7 @@
     "description": "Yet another attempt at making a satire mod. Most content needs payload sources to access."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",
@@ -7975,7 +7942,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",

@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-07-24T23:15:21Z",
-    "stars": 108,
+    "stars": 109,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -3061,7 +3061,7 @@
     "repo": "yesc48/erekirbundles",
     "name": "Erekir Bundles",
     "author": "yesC48",
-    "lastUpdated": "2022-08-06T12:38:06Z",
+    "lastUpdated": "2022-08-06T15:20:33Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5338,7 +5338,7 @@
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
-    "lastUpdated": "2022-08-06T13:48:24Z",
+    "lastUpdated": "2022-08-06T14:35:37Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6721,6 +6721,17 @@
     "description": "Not to be confused with Techfish Industries, the (scrapped) json version of this mod\nA Remaster of all of my previous mods in one package and for v6.\n\nCurrent Problems:\n- Maybe not multiplayer compatible, not tested\n- Plastanium drills reset depth after reload"
   },
   {
+    "repo": "cyanronan/randomthings",
+    "name": "MechanicalEra",
+    "author": "[#FBC02D]Cyan;[]",
+    "lastUpdated": "2022-08-04T15:28:39Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A b0r1ng m0d."
+  },
+  {
     "repo": "cyanronan/mechanical-era",
     "name": "MechanicalEra",
     "author": "[#FBC02D]Cyan;[]",
@@ -7953,7 +7964,7 @@
     "description": "Yet another attempt at making a satire mod. Most content needs payload sources to access."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",
@@ -7964,7 +7975,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",

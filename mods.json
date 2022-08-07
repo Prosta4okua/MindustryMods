@@ -399,7 +399,7 @@
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-31T10:53:17Z",
+    "lastUpdated": "2022-08-07T18:49:08Z",
     "stars": 28,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -883,7 +883,7 @@
     "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-08-03T18:06:20Z",
+    "lastUpdated": "2022-08-07T19:46:22Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -5327,7 +5327,7 @@
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
-    "lastUpdated": "2022-08-06T14:35:37Z",
+    "lastUpdated": "2022-08-07T19:07:32Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7953,7 +7953,7 @@
     "description": "Yet another attempt at making a satire mod. Most content needs payload sources to access."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",
@@ -7964,7 +7964,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",
@@ -7986,17 +7986,6 @@
     "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
-    "repo": "theee145/the-new-tech-mod",
-    "name": "< The new tech mod >",
-    "author": "TheEE145",
-    "lastUpdated": "2022-08-07T14:32:33Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "mod that add more technologies"
-  },
-  {
     "repo": "xxxuan42/coreunloader",
     "name": "核心装卸器[v471]",
     "author": "XXXUAN   Bug测试员：皇甫2y",
@@ -8006,5 +7995,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "群:606757250"
+  },
+  {
+    "repo": "theee145/the-new-tech-mod",
+    "name": "< The new tech mod >",
+    "author": "TheEE145",
+    "lastUpdated": "2022-08-07T19:52:23Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "mod that add more technologies"
   }
 ]

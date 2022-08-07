@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-07T04:56:32Z",
+    "lastUpdated": "2022-08-07T10:54:37Z",
     "stars": 72,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -982,7 +982,7 @@
     "repo": "rlccj/minertools",
     "name": "MinerTools",
     "author": "miner",
-    "lastUpdated": "2022-08-06T07:48:46Z",
+    "lastUpdated": "2022-08-07T12:13:35Z",
     "stars": 12,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -993,7 +993,7 @@
     "repo": "riccj/minertools",
     "name": "MinerTools",
     "author": "miner",
-    "lastUpdated": "2022-08-06T07:48:46Z",
+    "lastUpdated": "2022-08-07T12:13:35Z",
     "stars": 12,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2286,17 +2286,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Our first mod, we finally have a spriter  (We have a discord server, https://discord.gg/EEn5nWactX) Most recent update: Tank tree T1-T3 for combat and support are complete"
-  },
-  {
-    "repo": "uujuju1/creatiive-mod",
-    "name": "creatiive mod.",
-    "author": "Uujuju",
-    "lastUpdated": "2021-12-22T00:37:46Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "creative stuff"
   },
   {
     "repo": "xzxadixzx/justmod",
@@ -3903,17 +3892,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "coldankles/mindustry-trade-terminals",
-    "name": "Trade Terminals",
-    "author": "ColdAnkles",
-    "lastUpdated": "2020-12-24T15:53:04Z",
-    "stars": 2,
-    "minGameVersion": "120.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod allowing trading one metal for the next"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -7984,5 +7962,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "添加更多逻辑条：打印缓存处理逻辑"
+  },
+  {
+    "repo": "theee145/the-new-tech-mod",
+    "name": "< The new tech mod >",
+    "author": "TheEE145",
+    "lastUpdated": "2022-08-07T11:58:33Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "mod that add more technologies"
   }
 ]

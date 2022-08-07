@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-07T18:07:36Z",
+    "lastUpdated": "2022-08-07T21:44:09Z",
     "stars": 72,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -399,7 +399,7 @@
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-07T18:49:08Z",
+    "lastUpdated": "2022-08-07T21:48:10Z",
     "stars": 28,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2022,17 +2022,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that is trying to be fun"
-  },
-  {
-    "repo": "zerocore-salamander/hackforall",
-    "name": "HackForAll",
-    "author": "zeroCore",
-    "lastUpdated": "2020-11-14T10:58:09Z",
-    "stars": 5,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod just gives you a chance to hack all the things.\r\nWhit this mod you can kill all birds with one stone or you can get everything you need.\r\nMade by a new mod maker so there can be problems some times. If happens write me from - taklaya.gelicek@gmail.com -"
   },
   {
     "repo": "1qwaka/dps-meter",
@@ -4906,17 +4895,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "ka4ok52/f-mod",
-    "name": "F-MOD",
-    "author": "Ka4ok52_",
-    "lastUpdated": "2022-05-08T21:00:16Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "wedro023/frestorm",
     "name": "Frestorm",
     "author": "Wedro, Darkness",
@@ -5302,17 +5280,6 @@
     "description": "Tantros extended mod"
   },
   {
-    "repo": "tippierpark8961/green-void",
-    "name": "Green Void",
-    "author": "TippierPark8961",
-    "lastUpdated": "2022-08-05T01:54:20Z",
-    "stars": 2,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -5327,7 +5294,7 @@
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
-    "lastUpdated": "2022-08-07T19:07:32Z",
+    "lastUpdated": "2022-08-07T21:12:05Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6125,17 +6092,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
-  },
-  {
-    "repo": "stacktrace-error/master-chief",
-    "name": "Master chief? Do you mind telling me why you're in that...",
-    "author": "NullPointerException/stacktrace-error",
-    "lastUpdated": "2022-02-27T17:27:08Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sir, *mines copper*"
   },
   {
     "repo": "mindouser/extendedmind",
@@ -7954,17 +7910,6 @@
   },
   {
     "repo": "swirek3331/altanic-v7",
-    "name": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-08-05T11:15:08Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
-    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-05T11:15:08Z",

@@ -81,7 +81,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-08-08T21:43:49Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-08T18:38:33Z",
+    "lastUpdated": "2022-08-09T07:58:46Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -440,6 +440,17 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
+    "repo": "flintyx/animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-04-25T21:33:14Z",
+    "stars": 24,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "p101q/uni",
     "name": "UNI",
     "author": "code: Qwaka\nsprites: plolq",
@@ -473,17 +484,6 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
-    "repo": "flintyx/animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-04-25T21:33:14Z",
-    "stars": 23,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
@@ -495,6 +495,17 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "abomb4/dimension-shard",
+    "name": "Dimension Shard",
+    "author": "滞人",
+    "lastUpdated": "2022-06-18T13:24:22Z",
+    "stars": 23,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
+  },
+  {
     "repo": "xstabux/omaloon-mod-public",
     "name": "Omaloon-Mod",
     "author": "StaBU",
@@ -504,17 +515,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
-  },
-  {
-    "repo": "abomb4/dimension-shard",
-    "name": "Dimension Shard",
-    "author": "滞人",
-    "lastUpdated": "2022-06-18T13:24:22Z",
-    "stars": 22,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -572,6 +572,17 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "therealivyx/moredefences",
+    "name": "MoreDefences Classic",
+    "author": "IvyX",
+    "lastUpdated": "2022-07-06T15:41:13Z",
+    "stars": 20,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
     "repo": "anuken/wind3",
     "name": "wind3",
     "author": "Anuke (real)",
@@ -592,17 +603,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that expands apon vanilla"
-  },
-  {
-    "repo": "therealivyx/moredefences",
-    "name": "MoreDefences Classic",
-    "author": "IvyX",
-    "lastUpdated": "2022-07-06T15:41:13Z",
-    "stars": 19,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -1697,7 +1697,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-09T06:07:43Z",
+    "lastUpdated": "2022-08-09T06:32:29Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2970,6 +2970,17 @@
     "description": "A mod that adds a few items and liquids, and a whole new tier of upgrades, along with arc. Made by Chickenloser and Oreo with help from Duvent.\n\nAdds 95 new blocks, 5 items, 2 liquids, and 31 units, with plans to add even more."
   },
   {
+    "repo": "wmf-industries/terios",
+    "name": "Terios",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-07-17T07:08:34Z",
+    "stars": 4,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Similar to NeonNights, but actually updated."
+  },
+  {
     "repo": "als39175/infinity-cheat",
     "name": "Infinity Cheat",
     "author": "SMIPE444",
@@ -3036,17 +3047,6 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "sh1penfire/welcome-to-the-frostscape",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-08-08T01:33:24Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
-  },
-  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "Nilederg",
@@ -3067,6 +3067,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "sh1penfire/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-08-09T08:01:12Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -3815,17 +3826,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
-  },
-  {
-    "repo": "wmf-industries/terios",
-    "name": "Terios",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-07-17T07:08:34Z",
-    "stars": 3,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Similar to NeonNights, but actually updated."
   },
   {
     "repo": "yellowafterlife/mindustry-tiny-things",

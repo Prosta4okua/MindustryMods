@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-09T01:00:56Z",
+    "lastUpdated": "2022-08-09T02:29:11Z",
     "stars": 174,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -297,17 +297,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "nickname73/gravillaso",
-    "name": "GRavillaso",
-    "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-27T09:34:09Z",
-    "stars": 32,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
     "repo": "younggam/multi-lib",
     "name": "Multi Lib",
     "author": "younggam",
@@ -372,17 +361,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JavaScript only mindustry mod."
-  },
-  {
-    "repo": "xamionex/opore-mod",
-    "name": "Opore-Mod",
-    "author": "amione#0663",
-    "lastUpdated": "2021-03-09T21:35:24Z",
-    "stars": 28,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
     "repo": "flintyx/diversetech",
@@ -1312,7 +1290,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-08T12:27:58Z",
+    "lastUpdated": "2022-08-09T01:24:09Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -4741,17 +4719,6 @@
     "description": "This mod is no more useless!"
   },
   {
-    "repo": "creation6969/extrastuff",
-    "name": "ExtraStuff",
-    "author": "CEO Of Beijing Corn",
-    "lastUpdated": "2022-03-20T14:49:28Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of stuff to play with."
-  },
-  {
     "repo": "laok233/h",
     "name": "h",
     "author": "end",
@@ -5036,17 +5003,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod written in Clojure!"
-  },
-  {
-    "repo": "mythril382/goldensilicon",
-    "name": "Golden Silicon",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-05T13:57:58Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Includes nothing about gold or silicon. I just didn't have any mod name ideas."
   },
   {
     "repo": "weathercold/extralogging",
@@ -6886,17 +6842,6 @@
     "description": "Makes almost everything have tons of value. Happy new year xD"
   },
   {
-    "repo": "amateurpotion/crystal",
-    "name": "Crystal edition",
-    "author": "AmateurPotion",
-    "lastUpdated": "2021-01-04T12:47:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A jar mod."
-  },
-  {
     "repo": "ghvtv/music-mod-mindustry",
     "name": "Music Mod1.0",
     "author": "Chen Rhong",
@@ -7181,17 +7126,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Because you can't have too much convinience"
-  },
-  {
-    "repo": "chinhonnang/mindustry-mod-abcde-whiteplanet",
-    "name": "abcde",
-    "author": "initiate",
-    "lastUpdated": "2021-07-10T14:56:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "planet test"
   },
   {
     "repo": "luihum/bigschematics",
@@ -7599,17 +7533,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more bullets to mindustry mods."
-  },
-  {
-    "repo": "aeddlinges/zxc-mod",
-    "name": "ZxcMod",
-    "author": "ZxcYebok(Aeddlinges)",
-    "lastUpdated": "2022-01-27T13:50:48Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Наааайс демедж,найс балаааанс...Балааааааааааанс...БАЛААААААААААААНС!!!!!!\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "gamestuffoffical/mindustrymowermod",

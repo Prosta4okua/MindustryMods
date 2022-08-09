@@ -11,26 +11,26 @@
     "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
   },
   {
+    "repo": "xeloboyo/factoriodustry",
+    "name": "FactoryDustry - TexturePack",
+    "author": "Xelo",
+    "lastUpdated": "2022-05-10T05:23:03Z",
+    "stars": 174,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
+  },
+  {
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-09T19:15:41Z",
+    "lastUpdated": "2022-08-09T20:30:57Z",
     "stars": 174,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in a butt load of content"
-  },
-  {
-    "repo": "xeloboyo/factoriodustry",
-    "name": "FactoryDustry - TexturePack",
-    "author": "Xelo",
-    "lastUpdated": "2022-05-10T05:23:03Z",
-    "stars": 173,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
   },
   {
     "repo": "yuria-shikibe/newhorizonmod",
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T19:39:35Z",
+    "lastUpdated": "2022-08-09T20:28:30Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2002,6 +2002,17 @@
     "description": "A mindustry mod that is trying to be fun"
   },
   {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-08-08T14:20:55Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
     "repo": "r-omnom/z.p.g.m._mod",
     "name": "Z.P.G.M._Mod",
     "author": "r_omnom7",
@@ -2440,17 +2451,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
-    "repo": "teamneiaron/ion",
-    "name": "Ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-08T14:20:55Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -5379,6 +5379,17 @@
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "lottievixen/example-resprite-mod",
+    "name": "Resprite Example",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-17T06:47:19Z",
+    "stars": 1,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An example to help respriting"
+  },
+  {
     "repo": "reborntrack970/autocapture",
     "name": "AutoCapture",
     "author": "RTOmega",
@@ -5641,6 +5652,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "vote him out"
+  },
+  {
+    "repo": "thebestkillertbk/cheatingutils",
+    "name": "Cheating Utilities",
+    "author": "TBK",
+    "lastUpdated": "2021-06-05T02:41:48Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cheat in MINDUSTRY"
   },
   {
     "repo": "azhurniybaklan/big-blocks",
@@ -7731,6 +7753,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod with All Things in the World"
+  },
+  {
+    "repo": "antlrr/bitches",
+    "name": "Getting Bitches",
+    "author": "Antlrr",
+    "lastUpdated": "2022-05-26T14:57:43Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds bitches"
   },
   {
     "repo": "knacko/mindustrymods",

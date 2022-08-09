@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-09T13:16:22Z",
+    "lastUpdated": "2022-08-09T16:03:13Z",
     "stars": 76,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T14:09:41Z",
+    "lastUpdated": "2022-08-09T16:11:03Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -361,17 +361,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
-  },
-  {
-    "repo": "gdeft/substructure",
-    "name": "Substructure",
-    "author": "Gdeft",
-    "lastUpdated": "2021-01-07T15:01:12Z",
-    "stars": 28,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "JavaScript only mindustry mod."
   },
   {
     "repo": "xamionex/opore-mod",
@@ -2035,17 +2024,6 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
-    "repo": "spaceearthex/letter-sound-effect",
-    "name": "Letter sound effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
     "repo": "reborntrack970/multiplayerntnt",
     "name": "Multiplayern'tn't",
     "author": "RTOmega",
@@ -3072,7 +3050,7 @@
     "repo": "aawwaaa/aimclient",
     "name": "AimClient",
     "author": "awa",
-    "lastUpdated": "2022-08-09T13:58:07Z",
+    "lastUpdated": "2022-08-09T15:58:50Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3333,17 +3311,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "adenator0/saphatax",
-    "name": "Saphatax",
-    "author": "aden8r",
-    "lastUpdated": "2021-06-27T15:36:10Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds brand new and unique blocks, items, and units. Also adds remakes of some things from an abandoned mod of mine."
-  },
-  {
     "repo": "bluetechnocat/galaxite-mod",
     "name": "Galaxite Mod",
     "author": "BlueTechno",
@@ -3375,17 +3342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a faster Duo (and other stuff)"
-  },
-  {
-    "repo": "l0615t1c5-216ac-9437/automaticmodupdator",
-    "name": "automatic mod updater",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2021-09-08T07:05:35Z",
-    "stars": 3,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically checks for updates everytime you start the game"
   },
   {
     "repo": "freezemandu/siriuschem-v7",
@@ -3870,17 +3826,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My very first mod! credit to: MaxSmoke"
-  },
-  {
-    "repo": "rintadev/wisp",
-    "name": "Wisp",
-    "author": "RintaDev",
-    "lastUpdated": "2022-08-02T23:02:02Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4499,17 +4444,6 @@
     "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
   },
   {
-    "repo": "stacktrace-error/lithium-texture-pack",
-    "name": "Lithium Pack",
-    "author": "null/stacktrace-error",
-    "lastUpdated": "2021-10-18T11:18:39Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Texture pack that mimics the style of an older iteration of Mindustry's logic system. I've provided a couple alternative sprites in the mod's files and encourage you to PR your own ones if you'd like."
-  },
-  {
     "repo": "ilya246/quotestrings",
     "name": "Quoted Strings",
     "author": "[USMP]Ilya246",
@@ -4761,17 +4695,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of stuff to play with."
-  },
-  {
-    "repo": "laok233/h",
-    "name": "h",
-    "author": "end",
-    "lastUpdated": "2022-03-27T10:20:00Z",
-    "stars": 2,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "h"
   },
   {
     "repo": "explerhd/enerlect-tech",
@@ -5390,17 +5313,6 @@
     "description": "An example to help respriting"
   },
   {
-    "repo": "reborntrack970/autocapture",
-    "name": "AutoCapture",
-    "author": "RTOmega",
-    "lastUpdated": "2020-12-18T08:59:25Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "h"
-  },
-  {
     "repo": "tenser43/random-mod",
     "name": "Random Mod",
     "author": "Tenser",
@@ -5432,17 +5344,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
-  },
-  {
-    "repo": "sky4ce09/hikarudustry",
-    "name": "Hikarudustry",
-    "author": "Sky4ce09",
-    "lastUpdated": "2021-01-13T08:31:39Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds juice."
   },
   {
     "repo": "meepoffaith/mindustry-modding-docs-examples",
@@ -5564,17 +5465,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A test mod"
-  },
-  {
-    "repo": "sk7725/safetyproc",
-    "name": "Safety Processors",
-    "author": "sk7725",
-    "lastUpdated": "2021-04-16T08:16:30Z",
-    "stars": 1,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry mod that disables logic displays in multiplayer, except displays you have last placed/edited. Useful for keeping seizure-inducing, nsfw, or other displays made with malicious intent."
   },
   {
     "repo": "anukenn/the-best-mod",
@@ -6699,17 +6589,6 @@
     "description": "Not to be confused with Techfish Industries, the (scrapped) json version of this mod\nA Remaster of all of my previous mods in one package and for v6.\n\nCurrent Problems:\n- Maybe not multiplayer compatible, not tested\n- Plastanium drills reset depth after reload"
   },
   {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-04T04:26:52Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
-  },
-  {
     "repo": "skycraft78/oreplusmod",
     "name": "Ore Plus Mod",
     "author": "ItsTheSky#1234",
@@ -6741,6 +6620,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Rand0m m0d."
+  },
+  {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-09T15:25:20Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7989,7 +7879,7 @@
     "repo": "theee145/the-new-tech-mod",
     "name": "The New Tech Mod",
     "author": "TheEE145",
-    "lastUpdated": "2022-08-09T11:39:48Z",
+    "lastUpdated": "2022-08-09T15:46:39Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,

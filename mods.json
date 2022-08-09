@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-08T21:43:49Z",
+    "lastUpdated": "2022-08-09T10:03:51Z",
     "stars": 75,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T07:58:46Z",
+    "lastUpdated": "2022-08-09T09:50:15Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1697,7 +1697,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-09T06:32:29Z",
+    "lastUpdated": "2022-08-09T08:57:21Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2431,28 +2431,6 @@
     "description": "A mod that contains an OP yet super expensive weapon."
   },
   {
-    "repo": "cristian-blackture/acm",
-    "name": "ACM",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-04T11:31:05Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
-  },
-  {
-    "repo": "cristian-blackture/cridoms-chaotic-mod",
-    "name": "ACM",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-04T11:31:05Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
-  },
-  {
     "repo": "i-hope1/mod.make",
     "name": "mod.make",
     "author": "I hope...",
@@ -2495,6 +2473,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
+  },
+  {
+    "repo": "cristian-blackture/acm",
+    "name": "ACM",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-09T09:50:08Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
+  },
+  {
+    "repo": "cristian-blackture/cridoms-chaotic-mod",
+    "name": "ACM",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-09T09:50:08Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -7964,17 +7964,6 @@
     "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
-    "repo": "xxxuan42/coreunloader",
-    "name": "核心装卸器[v472]",
-    "author": "XXXUAN   Bug测试员：皇甫2y",
-    "lastUpdated": "2022-08-08T10:45:32Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "群:606757250"
-  },
-  {
     "repo": "electronicsarchiver/the-new-tech-mod",
     "name": "< The new tech mod >",
     "author": "TheEE145",
@@ -7986,13 +7975,24 @@
     "description": "mod that add more technologies"
   },
   {
+    "repo": "xxxuan42/coreunloader",
+    "name": "核心装卸器[v472]",
+    "author": "XXXUAN   Bug测试员：皇甫2y",
+    "lastUpdated": "2022-08-09T08:23:22Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "群:606757250"
+  },
+  {
     "repo": "theee145/the-new-tech-mod",
     "name": "The New Tech Mod",
     "author": "TheEE145",
-    "lastUpdated": "2022-08-08T20:37:07Z",
+    "lastUpdated": "2022-08-09T10:11:53Z",
     "stars": 0,
     "minGameVersion": "136",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
   }

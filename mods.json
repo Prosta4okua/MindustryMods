@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-09T17:41:37Z",
+    "lastUpdated": "2022-08-09T19:15:41Z",
     "stars": 174,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-09T16:11:03Z",
+    "lastUpdated": "2022-08-09T19:39:35Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -5379,17 +5379,6 @@
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "lottievixen/example-resprite-mod",
-    "name": "Resprite Example",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-17T06:47:19Z",
-    "stars": 1,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An example to help respriting"
-  },
-  {
     "repo": "reborntrack970/autocapture",
     "name": "AutoCapture",
     "author": "RTOmega",
@@ -5652,17 +5641,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "vote him out"
-  },
-  {
-    "repo": "thebestkillertbk/cheatingutils",
-    "name": "Cheating Utilities",
-    "author": "TBK",
-    "lastUpdated": "2021-06-05T02:41:48Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Cheat in MINDUSTRY"
   },
   {
     "repo": "azhurniybaklan/big-blocks",
@@ -7753,17 +7731,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod with All Things in the World"
-  },
-  {
-    "repo": "antlrr/bitches",
-    "name": "Getting Bitches",
-    "author": "Antlrr",
-    "lastUpdated": "2022-05-26T14:57:43Z",
-    "stars": 0,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds bitches"
   },
   {
     "repo": "knacko/mindustrymods",

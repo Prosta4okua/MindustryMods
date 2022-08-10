@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-10T14:10:38Z",
+    "lastUpdated": "2022-08-10T19:46:19Z",
     "stars": 177,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -44,6 +44,17 @@
     "description": "Warning: Unfinished For V7"
   },
   {
+    "repo": "slava0135/revision",
+    "name": "reVision",
+    "author": "Slava0135",
+    "lastUpdated": "2022-04-06T08:14:34Z",
+    "stars": 116,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The other way around"
+  },
+  {
     "repo": "bluewolf3682/exotic-mod",
     "name": "Exotic Mod",
     "author": "BlueWolf",
@@ -58,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-09T16:03:13Z",
+    "lastUpdated": "2022-08-10T18:38:17Z",
     "stars": 76,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -234,7 +245,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-08-10T09:38:34Z",
+    "lastUpdated": "2022-08-10T20:08:46Z",
     "stars": 36,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -520,7 +531,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-10T05:38:04Z",
+    "lastUpdated": "2022-08-10T19:16:05Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -836,6 +847,17 @@
     "description": "EXP Library for 6.0!"
   },
   {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-03-13T01:12:30Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
+  },
+  {
     "repo": "eclipsetheoldone/project-tvakot",
     "name": "Project Tvakot",
     "author": "Eclipse",
@@ -1144,6 +1166,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "sk7725/immundustry",
+    "name": "Immundustry",
+    "author": "sk7725",
+    "lastUpdated": "2020-10-21T17:51:55Z",
+    "stars": 9,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The immune system in Mindustry. WIP!\nSprites and content helped by EyeofDarkness; temporary!"
+  },
+  {
     "repo": "qmelz/mainstreamdustry",
     "name": "mainstreamdustry",
     "author": "QmelZdustry",
@@ -1153,6 +1186,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
+  },
+  {
+    "repo": "spmlk/dreamscapemod",
+    "name": "Dreamscape Mod",
+    "author": "smk",
+    "lastUpdated": "2021-06-24T05:26:08Z",
+    "stars": 9,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Harness the power of dreams in this content mod."
   },
   {
     "repo": "solokil/v6adventureu",
@@ -1890,6 +1934,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
+    "repo": "reborntrack970/infinicampaign",
+    "name": "InfiniCampaign",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:55:53Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "deltanedas/modding-toolbox",
@@ -2926,6 +2981,17 @@
     "description": "Makes you sandbox."
   },
   {
+    "repo": "jhrushbe/moardustry",
+    "name": "MOARdustry",
+    "author": "Jhrushbe",
+    "lastUpdated": "2022-07-25T05:23:51Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
+  },
+  {
     "repo": "edwardbrok/jdst-mod",
     "name": "Joey Drew Studios Technologies",
     "author": "Edward_Brok, JacobG0712 and Lev Zaycev ",
@@ -3353,6 +3419,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "ax-nikita/uranium-mod",
+    "name": "Uranium Global Survival Mod.",
+    "author": "AX",
+    "lastUpdated": "2021-10-26T16:27:33Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
     "repo": "antlrr/seitumbra",
@@ -4233,6 +4310,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
+  },
+  {
+    "repo": "freezemandu/infinite-processor",
+    "name": "Infinite Processor",
+    "author": "Mandu",
+    "lastUpdated": "2021-07-14T08:20:20Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "austin5003/mohole",
@@ -5674,6 +5762,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The very culmination of everyone's dumb ideas."
+  },
+  {
+    "repo": "notmeepoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "jhdreemurr/bruh-mod",
@@ -7896,5 +7995,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "yaminox7/mindustryneworesmod",
+    "name": "Ores mod",
+    "author": "Yaminox7",
+    "lastUpdated": "2022-08-10T19:15:38Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New ores added."
   }
 ]

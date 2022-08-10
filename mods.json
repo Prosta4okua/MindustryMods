@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-08-06T10:23:30Z",
-    "stars": 244,
+    "stars": 243,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -696,7 +696,7 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-08-08T10:14:06Z",
+    "lastUpdated": "2022-08-10T07:48:50Z",
     "stars": 16,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1846,6 +1846,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "l0615t1c5-216ac-9437/maxratecalculatorv6",
@@ -3212,6 +3223,17 @@
     "description": "this mod allows us to extract all materials in water"
   },
   {
+    "repo": "qwerytty/more-walls",
+    "name": "More Walls",
+    "author": "Qweryt",
+    "lastUpdated": "2021-05-08T00:53:22Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few more resources and walls. I can't draw so no sprites for some blocks"
+  },
+  {
     "repo": "mrduck557/homebrewmindustry",
     "name": "Duck Homebrew",
     "author": "MrDuck557",
@@ -3287,6 +3309,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a description."
+  },
+  {
+    "repo": "thebestkillertbk/anukenmod",
+    "name": "Anuken mod",
+    "author": "TBK",
+    "lastUpdated": "2021-05-26T11:34:55Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Anuken"
   },
   {
     "repo": "freezemandu/minzoom",
@@ -4367,6 +4400,17 @@
     "description": "New units and defenses for  all stages of the game.  Not complete also Looking for spriter!"
   },
   {
+    "repo": "smolkeys/animebundles",
+    "name": "Anime Bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-09-08T15:52:16Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "death awaits me"
+  },
+  {
     "repo": "farmerthanos/music-replacer",
     "name": "Music Replacer",
     "author": "Farmer Thanos",
@@ -4409,6 +4453,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds colored walls and conveyors."
+  },
+  {
+    "repo": "uujuju1/soulfuelmod",
+    "name": "Soul Fuel Mod",
+    "author": "Uujuju",
+    "lastUpdated": "2021-09-26T00:09:07Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "totallylemon/improved-core-units",
@@ -4719,6 +4774,17 @@
     "description": "h"
   },
   {
+    "repo": "explerhd/enerlect-tech",
+    "name": "EnerLect Industries",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-03-28T01:03:04Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mods that provides an content"
+  },
+  {
     "repo": "6666dustry/beautiful-bullet",
     "name": "beautiful-bullet",
     "author": "many bear",
@@ -5027,6 +5093,17 @@
     "description": "This mod make this game difficult."
   },
   {
+    "repo": "youngterror3/mindustryjavamod",
+    "name": "Mindustry Java Mod",
+    "author": "youngterror3",
+    "lastUpdated": "2022-06-26T13:25:55Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new features."
+  },
+  {
     "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
@@ -5047,6 +5124,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "What the oh no mod doin?\n\nuh im bored can i download the mod pls\n\n\nTuri ip ip ip\nIp ip ip sho ik\nIp tua o ip ip\nTeri teri ip ik sho ip ik\n"
+  },
+  {
+    "repo": "maxsmokeskaarj/smoa-modpack",
+    "name": "SMoke of Anarchy New",
+    "author": "MaxSMoke, Snake",
+    "lastUpdated": "2022-07-10T04:17:23Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enjoy which a lot of content, includes:\nADC(Sapphirium), \nUnits Mod, \nTurrets Mod\nAttention! All copyrights are reserved for the creators of mods. I am NOT the owner of these mods!"
   },
   {
     "repo": "boolmano/bombermod",
@@ -5137,6 +5225,17 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
+    "repo": "rexaliis/colorful-darkness-mod",
+    "name": "Colorful Darkness",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-07-31T03:53:22Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dark-Mode Texture pack for Mindustry!"
+  },
+  {
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
@@ -5179,6 +5278,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Mod"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-06T04:14:13Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "- 全新ui\n- 修复一些bug"
   },
   {
     "repo": "uujuju1/monolith",
@@ -5863,6 +5973,17 @@
     "description": "Future curse the enemy and help them stronger,somehow...."
   },
   {
+    "repo": "mrduck557/esoterum2",
+    "name": "Esoterum2",
+    "author": "MrDuck557",
+    "lastUpdated": "2022-01-19T15:22:45Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A casual recode of Goobrr/Esoterum that I hope is more stable"
+  },
+  {
     "repo": "danteslr/shaders",
     "name": "Shaders-DaNtesLr",
     "author": "DaNtesLr",
@@ -5995,6 +6116,17 @@
     "description": "Thx to CarSickKhan for some pre V7 help. This mod is inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working."
   },
   {
+    "repo": "stacktrace-error/master-chief",
+    "name": "Master chief? Do you mind telling me why you're in that...",
+    "author": "NullPointerException/stacktrace-error",
+    "lastUpdated": "2022-02-27T17:27:08Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sir, *mines copper*"
+  },
+  {
     "repo": "mindouser/extendedmind",
     "name": "ExtendedMind",
     "author": "lol02",
@@ -6004,6 +6136,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
+  },
+  {
+    "repo": "gamestuffoffical/balancingideasfromdiscord",
+    "name": "BalancingIdeasFromdiscord",
+    "author": "GameStuffOffical",
+    "lastUpdated": "2022-03-05T19:37:16Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "regrettabledanger21/rise-of-the-ancients",
@@ -6136,6 +6279,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a menu which easily allows you to reuse commands"
+  },
+  {
+    "repo": "tezlm/jskebox",
+    "name": "Jskebox",
+    "author": "ZestyLemonade",
+    "lastUpdated": "2022-04-21T04:06:54Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds a Jukebox"
   },
   {
     "repo": "vaniko5265/mindustry-mod",
@@ -6875,6 +7029,17 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
+    "repo": "abrasmag3/creeper-crawlers",
+    "name": "Creeper Crawlers",
+    "author": "AbrasMage",
+    "lastUpdated": "2021-04-03T16:56:08Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Turns crawlers into creepers from Minecraft."
+  },
+  {
     "repo": "qwertyq1234-programming/qq-mod",
     "name": "QQ-Mod",
     "author": "QwertyQ1234",
@@ -7436,6 +7601,17 @@
     "description": "IRC Mod for Mindustry"
   },
   {
+    "repo": "gamestuffoffical/morebulletsmodforhjson",
+    "name": "More Bullets Extension",
+    "author": "GameStuff",
+    "lastUpdated": "2022-01-25T02:46:52Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more bullets to mindustry mods."
+  },
+  {
     "repo": "aeddlinges/zxc-mod",
     "name": "ZxcMod",
     "author": "ZxcYebok(Aeddlinges)",
@@ -7687,6 +7863,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "alpha 0.1"
+  },
+  {
+    "repo": "blackdeluxecat/vanillatoolkittexturepack",
+    "name": "VanillaToolkitTexturePack",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-07-21T14:17:53Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Texture Pack For Better Vanilla Gameplay."
   },
   {
     "repo": "smolkeys/experiments",

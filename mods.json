@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-10T03:44:29Z",
+    "lastUpdated": "2022-08-10T14:09:55Z",
     "stars": 177,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-07T14:23:59Z",
-    "stars": 158,
+    "stars": 159,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-07-24T23:15:21Z",
-    "stars": 109,
+    "stars": 110,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -322,8 +322,8 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-10T11:55:27Z",
-    "stars": 31,
+    "lastUpdated": "2022-08-10T13:18:31Z",
+    "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
@@ -528,6 +528,17 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-08-10T05:38:04Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "mindustryinside/mindustryclassicified",
     "name": "Mindustry Classicified",
     "author": "BasedUser, Félix Córvus",
@@ -548,17 +559,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-10T05:38:04Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "aureusstratus/advancements",
@@ -1312,12 +1312,23 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-10T01:15:57Z",
+    "lastUpdated": "2022-08-10T12:28:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-10T13:43:34Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1461,17 +1472,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-10T11:47:24Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "lottievixen/2xconveyors",
@@ -5313,6 +5313,17 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-09T15:25:20Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
+  },
+  {
     "repo": "mythril382/mobilemapshot",
     "name": "Mobile Map-Shot",
     "author": "Mythril",
@@ -6708,17 +6719,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod that add some new basics ores and machine to work with in Mindustry."
-  },
-  {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-09T15:25:20Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
   },
   {
     "repo": "cyanronan/randomthings",

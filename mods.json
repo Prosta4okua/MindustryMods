@@ -1037,7 +1037,7 @@
     "repo": "eb-wilson/universecore",
     "name": "Universe Core",
     "author": "EBwilson",
-    "lastUpdated": "2022-07-23T03:29:04Z",
+    "lastUpdated": "2022-08-11T04:12:07Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1309,17 +1309,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-10T15:29:52Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1329,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-11T04:17:33Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2011,17 +2011,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "xjamiex/creativecores",
-    "name": "Creative Cores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-11T03:05:56Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that is trying to be fun"
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -2904,6 +2893,17 @@
     "description": "the music for project abyss"
   },
   {
+    "repo": "cry0flu1d/project-frost-in-java",
+    "name": "Project Frost in a Jar",
+    "author": "Cry0flu1d & 2356",
+    "lastUpdated": "2022-06-04T04:40:28Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
+  },
+  {
     "repo": "toriwake/kannadustry",
     "name": "Kannadustry",
     "author": "Toriwake/Kanna",
@@ -3749,17 +3749,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
-  },
-  {
-    "repo": "cry0flu1d/project-frost-in-java",
-    "name": "Project Frost in a Jar",
-    "author": "Cry0flu1d & 2356",
-    "lastUpdated": "2022-06-04T04:40:28Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
     "repo": "wshon/minertools135",

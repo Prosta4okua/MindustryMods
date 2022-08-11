@@ -1661,17 +1661,6 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
-    "repo": "eclipsetheoldone/avkott",
-    "name": "Avkott",
-    "author": "Eclipse & Liplum",
-    "lastUpdated": "2022-07-20T08:21:14Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Erekir mod moment"
-  },
-  {
     "repo": "reborntrack970/multiplayernt",
     "name": "Multiplayern't",
     "author": "RTOmega",
@@ -3083,7 +3072,7 @@
     "repo": "spaceearthex/factroundustry",
     "name": "Factroundustry",
     "author": "SpaceEarthEX",
-    "lastUpdated": "2022-08-11T19:22:12Z",
+    "lastUpdated": "2022-08-11T20:19:13Z",
     "stars": 4,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -6017,17 +6006,6 @@
     "description": "Ru:\n Мод-Текстур-Пак изменяет внешний жидкостей. Был вырезан из мода FactoryDustry. Специално для канала Mindustry - Рестор.\n()Мой Дискорд DaNtEsLr#2520() \n\nEn:\n The Mod-Texture-Pack Changes the appearance of the liquid. It was cut from the FactoryDustry-TexturePack Mod. Especially for the channel Mindustry - Рестор.\n\n()My Discord DaNtEsLr#2520()"
   },
   {
-    "repo": "auseawesome/mindustry-gamebreaker",
-    "name": "Mindustry Gamebreaker",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T16:41:22Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to break mindustry"
-  },
-  {
     "repo": "auseawesome/mindustryplus-agricultureaddon",
     "name": "Mindustry+ Agriculture Addon",
     "author": "Auseawesome",
@@ -7159,17 +7137,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "just a mod for mindustry by anook. Dont play with this mod on 3 am. Very Kazakh, though"
-  },
-  {
-    "repo": "freezemandu/mintchocotexture",
-    "name": "Mint Choco Texture",
-    "author": "Mandu",
-    "lastUpdated": "2021-06-05T11:29:19Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "nerdydarkassassin/aa",

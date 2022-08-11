@@ -531,9 +531,9 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-10T19:16:05Z",
+    "lastUpdated": "2022-08-11T01:56:21Z",
     "stars": 22,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
@@ -1309,17 +1309,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-10T12:28:31Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -1329,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-11T01:11:36Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1980,17 +1980,6 @@
     "description": "Old Era Revival + Enerlect Tech + Binary0011 + Codename: Windstorm = This Mod.\n\nmade by Driftheque."
   },
   {
-    "repo": "xjamiex/creativecores",
-    "name": "Creative Cores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-07T15:18:08Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that is trying to be fun"
-  },
-  {
     "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "TeamNeiaron",
@@ -2022,6 +2011,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "xjamiex/creativecores",
+    "name": "Creative Cores",
+    "author": "xjammuux",
+    "lastUpdated": "2022-08-11T03:05:56Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that is trying to be fun"
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3047,17 +3047,6 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "wmf-industries/terios",
-    "name": "Terios",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-09T12:12:21Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Similar to NeonNights, but actually updated."
-  },
-  {
     "repo": "aawwaaa/aimclient",
     "name": "AimClient",
     "author": "awa",
@@ -3078,6 +3067,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "wmf-industries/terios",
+    "name": "Terios",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-08-11T01:22:53Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Similar to NeonNights, but actually updated."
   },
   {
     "repo": "slotterleet/crazy-militaries",

@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-10T22:27:16Z",
-    "stars": 177,
+    "stars": 178,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -531,7 +531,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-11T01:56:21Z",
+    "lastUpdated": "2022-08-11T05:19:17Z",
     "stars": 22,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1323,7 +1323,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-11T04:17:33Z",
+    "lastUpdated": "2022-08-11T05:53:38Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1903,6 +1903,17 @@
     "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
   },
   {
+    "repo": "deltanedas/waisa",
+    "name": "WAISA",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:47Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "riccj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
@@ -2341,17 +2352,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
-  },
-  {
-    "repo": "deltanedas/waisa",
-    "name": "WAISA",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:28:47Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "k103908/defense-array",
@@ -2924,6 +2924,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Добавляет полезные блоки(Adds useful blocks). Мод создан в одиночку, я русский(The mod was created alone, I'm russian)"
+  },
+  {
+    "repo": "a5tr0spud/astro-additions",
+    "name": "Astronomical Additions [pre alpha]",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-07-07T00:00:55Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds various things  "
   },
   {
     "repo": "liplum/mdt-dst",
@@ -3793,17 +3804,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
-    "repo": "a5tr0spud/astro-additions",
-    "name": "Astronomical Additions [pre alpha]",
-    "author": "A5TR0spud",
-    "lastUpdated": "2022-07-07T00:00:55Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds various things  "
   },
   {
     "repo": "mythril382/rainpuddles",

@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-11T18:38:30Z",
+    "lastUpdated": "2022-08-12T07:53:46Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -531,7 +531,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-11T05:19:17Z",
+    "lastUpdated": "2022-08-12T05:35:40Z",
     "stars": 22,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1045,6 +1045,17 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "wmf-industries/expandedindustries",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-08-12T04:56:17Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lots of crazy stuff :>"
+  },
+  {
     "repo": "slotterleet/basic-schematics",
     "name": "Basic Schematics for Mindustry",
     "author": "The Slaylord",
@@ -1153,17 +1164,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "wmf-industries/expandedindustries",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-12T02:11:05Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
   },
   {
     "repo": "sk7725/immundustry",
@@ -2016,7 +2016,7 @@
     "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-12T04:24:53Z",
+    "lastUpdated": "2022-08-12T06:56:39Z",
     "stars": 6,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2027,7 +2027,7 @@
     "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-12T04:24:53Z",
+    "lastUpdated": "2022-08-12T06:56:39Z",
     "stars": 6,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2484,6 +2484,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds descriptions for the new Erekir content."
+  },
+  {
+    "repo": "wmf-industries/terios",
+    "name": "Terios",
+    "author": "WMF Industries",
+    "lastUpdated": "2022-08-11T01:22:53Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Similar to NeonNights, but actually updated."
   },
   {
     "repo": "spaceearthex/factroundustry",
@@ -3080,17 +3091,6 @@
     "description": "for Aim"
   },
   {
-    "repo": "wmf-industries/terios",
-    "name": "Terios",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-11T01:22:53Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Similar to NeonNights, but actually updated."
-  },
-  {
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
@@ -3243,6 +3243,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod allows us to extract all materials in water"
+  },
+  {
+    "repo": "glennfolker/enumodify-mod",
+    "name": "Enumodify",
+    "author": "GlennFolker",
+    "lastUpdated": "2021-05-06T09:00:32Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "qwerytty/more-walls",
@@ -4156,17 +4167,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds every unit weapon to oct"
-  },
-  {
-    "repo": "glennfolker/enumodify-mod",
-    "name": "Enumodify",
-    "author": "GlennFolker",
-    "lastUpdated": "2021-05-06T09:00:32Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "crowdev0/oilprocessing",
@@ -5335,6 +5335,17 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
+    "repo": "mythril382/loudustry",
+    "name": "Loudustry",
+    "author": "Mythril",
+    "lastUpdated": "2022-08-11T16:52:39Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING!"
+  },
+  {
     "repo": "xjamiex/creativecores",
     "name": "Creative Cores",
     "author": "xjammuux",
@@ -5410,6 +5421,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "lottievixen/example-resprite-mod",
+    "name": "Resprite Example",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-17T06:47:19Z",
+    "stars": 1,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An example to help respriting"
   },
   {
     "repo": "reborntrack970/autocapture",
@@ -6292,17 +6314,6 @@
     "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
   },
   {
-    "repo": "gavitsra/tsr-easy-reusable-commands",
-    "name": "TSR Easy Reusable Commands",
-    "author": "GaviTSRA",
-    "lastUpdated": "2022-04-19T13:17:51Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds a menu which easily allows you to reuse commands"
-  },
-  {
     "repo": "tezlm/jskebox",
     "name": "Jskebox",
     "author": "ZestyLemonade",
@@ -6752,17 +6763,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nAttributions:\n- TheGamer1002"
-  },
-  {
-    "repo": "mythril382/loudustry",
-    "name": "Loudustry",
-    "author": "Mythril",
-    "lastUpdated": "2022-08-11T16:52:39Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING!"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7909,17 +7909,6 @@
     "description": "A Mindustry Mod that attempts to make the game as easy as possible."
   },
   {
-    "repo": "936338156/mindustry-interplanetary-industries-mod",
-    "name": "Interplanetary_Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-01T13:41:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "当我需要一个新的东西帮助我轻松游玩Mindustry的时候再添加吧,至于那些可能严重破坏平衡性的添加我会慎重，导致其状态和属性波动巨大"
-  },
-  {
     "repo": "cynthion21x/prismaticexperimental",
     "name": "Prismatic",
     "author": "ice100k & thecrisperson",
@@ -8061,5 +8050,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "此MOD对两个星球T3核心单位添加了动态效果皮肤，可以在多人服务器上使用"
+  },
+  {
+    "repo": "936338156/mindustry-interplanetary-industries-mod",
+    "name": "Interplanetary_Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-08-12T07:14:31Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "当我需要一个新的东西帮助我轻松游玩Mindustry的时候再添加吧"
   }
 ]

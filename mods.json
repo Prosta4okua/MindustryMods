@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-13T07:37:27Z",
+    "lastUpdated": "2022-08-13T10:01:38Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1323,7 +1323,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-13T07:20:09Z",
+    "lastUpdated": "2022-08-13T09:11:01Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1549,6 +1549,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
+  },
+  {
+    "repo": "p101q/snowdustry",
+    "name": "Snowydustry",
+    "author": "Mindustry [RU] inc.",
+    "lastUpdated": "2021-12-30T12:54:28Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "pixecoz/maps-pack",
@@ -2002,10 +2013,10 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-13T08:11:47Z",
+    "lastUpdated": "2022-08-13T08:36:32Z",
     "stars": 6,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2013,10 +2024,10 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-13T08:11:47Z",
+    "lastUpdated": "2022-08-13T08:36:32Z",
     "stars": 6,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -3883,6 +3894,17 @@
     "description": "for plague\n\nit is a cool mod"
   },
   {
+    "repo": "mythril382/loudustry",
+    "name": "Loudustry",
+    "author": "Mythril",
+    "lastUpdated": "2022-08-12T15:15:29Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING! SERIOUSLY!"
+  },
+  {
     "repo": "xjamiex/creativecores",
     "name": "Creative Cores",
     "author": "xjammuux",
@@ -5335,17 +5357,6 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
-    "repo": "mythril382/loudustry",
-    "name": "Loudustry",
-    "author": "Mythril",
-    "lastUpdated": "2022-08-12T15:15:29Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING! SERIOUSLY!"
-  },
-  {
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
@@ -6732,28 +6743,6 @@
     "description": "Simple mod that add some new basics ores and machine to work with in Mindustry."
   },
   {
-    "repo": "cyanronan/randomthings",
-    "name": "RandomThings",
-    "author": "[#FBC02D]Cyan;[]",
-    "lastUpdated": "2022-08-10T03:46:44Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Rand0m m0d."
-  },
-  {
-    "repo": "cyanronan/mechanical-era",
-    "name": "RandomThings",
-    "author": "[#FBC02D]Cyan;[]",
-    "lastUpdated": "2022-08-10T03:46:44Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Rand0m m0d."
-  },
-  {
     "repo": "beanzilla/mindustry-hacked",
     "name": "M1N3DU5TRY H4CK3D",
     "author": "ApolloX",
@@ -6765,10 +6754,32 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nAttributions:\n- TheGamer1002"
   },
   {
+    "repo": "cyanronan/randomthings",
+    "name": "RandomThings",
+    "author": "[#FBC02D]Cyan;[]",
+    "lastUpdated": "2022-08-13T09:11:25Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Rand0m m0d."
+  },
+  {
+    "repo": "cyanronan/mechanical-era",
+    "name": "RandomThings",
+    "author": "[#FBC02D]Cyan;[]",
+    "lastUpdated": "2022-08-13T09:11:25Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Rand0m m0d."
+  },
+  {
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-13T03:06:09Z",
+    "lastUpdated": "2022-08-13T10:09:12Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,

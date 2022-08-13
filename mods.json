@@ -616,17 +616,6 @@
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
   },
   {
-    "repo": "sporrus/randommindustry",
-    "name": "Random Mindustry",
-    "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-08-06T05:05:54Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "ballgamer56/vanillaextended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
@@ -636,6 +625,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "sporrus/randommindustry",
+    "name": "Random Mindustry",
+    "author": "gorodmi & Mythril",
+    "lastUpdated": "2022-08-13T04:07:16Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "eclipsetheoldone/project-eclipse",
@@ -2002,7 +2002,7 @@
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-12T12:37:54Z",
@@ -2013,7 +2013,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-12T12:37:54Z",
@@ -8066,7 +8066,7 @@
     "repo": "no9527dada/skin",
     "name": "本地皮肤",
     "author": "9527",
-    "lastUpdated": "2022-08-12T08:15:45Z",
+    "lastUpdated": "2022-08-13T03:33:38Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,

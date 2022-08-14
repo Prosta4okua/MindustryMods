@@ -198,6 +198,17 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
+    "repo": "petruchiorus/lead_ind",
+    "name": "Lead Industries",
+    "author": "PetruCHIOrus",
+    "lastUpdated": "2021-01-17T18:21:16Z",
+    "stars": 46,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "sharlottes/sharustry",
     "name": "Sharustry",
     "author": "Sharlottes",
@@ -526,6 +537,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
+  },
+  {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-07-19T17:52:54Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "ferlern/extended-ui",
@@ -1287,17 +1309,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-13T12:23:52Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -1307,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-14T01:18:14Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1527,6 +1549,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
+  },
+  {
+    "repo": "p101q/snowdustry",
+    "name": "Snowydustry",
+    "author": "Mindustry [RU] inc.",
+    "lastUpdated": "2021-12-30T12:54:28Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "pixecoz/maps-pack",
@@ -1980,7 +2013,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -1991,7 +2024,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2992,17 +3025,6 @@
     "description": "welcome to separator HELL this mod add many separator"
   },
   {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-03T19:47:48Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "Nilederg",
@@ -3067,6 +3089,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-08-14T02:03:23Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -4444,6 +4477,17 @@
     "description": "A mod that adds colored walls and conveyors."
   },
   {
+    "repo": "uujuju1/soulfuelmod",
+    "name": "Soul Fuel Mod",
+    "author": "Uujuju",
+    "lastUpdated": "2021-09-26T00:09:07Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "totallylemon/improved-core-units",
     "name": "Improved Core Units",
     "author": "TotallyLemon",
@@ -5058,6 +5102,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod make this game difficult."
+  },
+  {
+    "repo": "youngterror3/mindustryjavamod",
+    "name": "Mindustry Java Mod",
+    "author": "youngterror3",
+    "lastUpdated": "2022-06-26T13:25:55Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new features."
   },
   {
     "repo": "cluet0304/more-processing",
@@ -5951,6 +6006,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "unionofsovietsocialistrepublics/cursedmod",
+    "name": "Curse of the future",
+    "author": "Fallen Future",
+    "lastUpdated": "2021-12-27T11:23:20Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Future curse the enemy and help them stronger,somehow...."
+  },
+  {
     "repo": "mrduck557/esoterum2",
     "name": "Esoterum2",
     "author": "MrDuck557",
@@ -6713,7 +6779,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-13T21:16:44Z",
+    "lastUpdated": "2022-08-14T02:31:57Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8006,5 +8072,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New ores added."
+  },
+  {
+    "repo": "him-python/mindustry-mod",
+    "name": "mindustry-mod",
+    "author": "Him-Mod",
+    "lastUpdated": "2022-08-14T01:05:15Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is my first mod, please be kind."
   }
 ]

@@ -1309,17 +1309,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-14T07:09:53Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1329,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-14T17:52:48Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2002,7 +2002,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2013,7 +2013,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2033,6 +2033,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-08-14T13:21:54Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superiour to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -2495,17 +2506,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-14T13:21:54Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superiour to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -3094,7 +3094,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-14T02:03:23Z",
+    "lastUpdated": "2022-08-14T18:01:53Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -5687,6 +5687,17 @@
     "description": "Everything that shoots bullet becomes shotgun"
   },
   {
+    "repo": "smolkeys/bundles-amogus",
+    "name": "bundles amogus",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-05-21T14:22:02Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "vote him out"
+  },
+  {
     "repo": "thebestkillertbk/cheatingutils",
     "name": "Cheating Utilities",
     "author": "TBK",
@@ -5894,17 +5905,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
-  },
-  {
-    "repo": "serg230/overdustry",
-    "name": "Overdustry",
-    "author": "Serg230",
-    "lastUpdated": "2021-11-16T18:53:17Z",
-    "stars": 1,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "7.0 vanila-like mod"
   },
   {
     "repo": "blerp23/totally-balanced-mod",

@@ -36,7 +36,7 @@
     "repo": "yuria-shikibe/newhorizonmod",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-08-13T14:02:27Z",
+    "lastUpdated": "2022-08-14T07:30:58Z",
     "stars": 160,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1309,17 +1309,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-13T13:49:32Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1329,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-14T07:09:53Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -2013,7 +2013,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2024,7 +2024,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -4675,17 +4675,6 @@
     "description": "Texture pack that makes some blocks look cursed"
   },
   {
-    "repo": "freezemandu/invisibleblocks",
-    "name": "Invisible Blocks",
-    "author": "Mandu",
-    "lastUpdated": "2021-12-20T17:26:27Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
-  },
-  {
     "repo": "dryehm/build-buff",
     "name": "Build Buff (BB)",
     "author": "Dryehm",
@@ -6779,7 +6768,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-14T04:20:00Z",
+    "lastUpdated": "2022-08-14T07:59:54Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7863,17 +7852,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I like sand. It's coarse and rough and irritating and it's everywhere. Wish I could shoot sand at my enemies, or build stuff with it. Huh."
-  },
-  {
-    "repo": "kapzduke/publicmod",
-    "name": "Public Mod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-08T22:12:28Z",
-    "stars": 0,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "routerxdd/drift-units",

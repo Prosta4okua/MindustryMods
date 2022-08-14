@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-14T14:48:23Z",
+    "lastUpdated": "2022-08-14T19:16:23Z",
     "stars": 77,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -245,7 +245,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-08-13T07:15:23Z",
+    "lastUpdated": "2022-08-14T19:06:04Z",
     "stars": 39,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -399,7 +399,7 @@
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-13T20:44:46Z",
+    "lastUpdated": "2022-08-14T19:25:48Z",
     "stars": 28,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1323,7 +1323,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-14T17:52:48Z",
+    "lastUpdated": "2022-08-14T19:16:56Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3094,7 +3094,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-14T18:01:53Z",
+    "lastUpdated": "2022-08-14T18:37:00Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -5291,17 +5291,6 @@
     "description": "- 全新ui\n- 修复一些bug"
   },
   {
-    "repo": "uujuju1/monolith",
-    "name": "Monolith",
-    "author": "Uujuju",
-    "lastUpdated": "2022-08-07T21:12:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Can this be considered a 'vanilla' mod?"
-  },
-  {
     "repo": "willoizcitron/mindustry-devilish-mod",
     "name": "Devilish Mode Shitass edition",
     "author": "[THREAT LEVEL: HIGH] Plays",
@@ -5366,6 +5355,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
+  },
+  {
+    "repo": "uujuju1/monolith",
+    "name": "Monolith",
+    "author": "Uujuju",
+    "lastUpdated": "2022-08-14T20:08:20Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Can this be considered a 'vanilla' mod?"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5905,6 +5905,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wort wort wort."
+  },
+  {
+    "repo": "serg230/overdustry",
+    "name": "Overdustry",
+    "author": "Serg230",
+    "lastUpdated": "2021-11-16T18:53:17Z",
+    "stars": 1,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "7.0 vanila-like mod"
   },
   {
     "repo": "blerp23/totally-balanced-mod",
@@ -6757,7 +6768,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-14T11:35:43Z",
+    "lastUpdated": "2022-08-14T19:56:48Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8074,17 +8085,6 @@
     "description": "This is my first mod, please be kind."
   },
   {
-    "repo": "konkitoman/speedctlman",
-    "name": "Speed Ctl Man",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-14T09:01:52Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
-  },
-  {
     "repo": "routerxdd/decaling",
     "name": "Decaling",
     "author": "RouterXdd",
@@ -8094,5 +8094,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Decaling is destroying all thing. Or not?"
+  },
+  {
+    "repo": "konkitoman/speedctlman",
+    "name": "Speed Ctl Man",
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-14T19:16:51Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
   }
 ]

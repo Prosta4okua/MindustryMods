@@ -242,17 +242,6 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
-    "repo": "3snake3/sapphirium",
-    "name": "Sapphirium",
-    "author": "Snake",
-    "lastUpdated": "2022-08-14T19:06:04Z",
-    "stars": 39,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Adds several new factions that include their own unique content. Uses some java classes."
-  },
-  {
     "repo": "abomb4/super-cheat",
     "name": "(v6) Invincible Cheat 无敌作弊",
     "author": "滞人",
@@ -300,7 +289,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-14T13:11:36Z",
+    "lastUpdated": "2022-08-14T20:22:29Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1045,17 +1034,6 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "wmf-industries/expandedindustries",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-08-13T00:02:26Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lots of crazy stuff :>"
-  },
-  {
     "repo": "slotterleet/basic-schematics",
     "name": "Basic Schematics for Mindustry",
     "author": "The Slaylord",
@@ -1323,7 +1301,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-14T19:16:56Z",
+    "lastUpdated": "2022-08-14T20:22:03Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1936,17 +1914,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "def-try/parkour-mod",
-    "name": "Parkour mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-07-22T13:46:52Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
     "repo": "reborntrack970/infinicampaign",
     "name": "InfiniCampaign",
     "author": "RTOmega",
@@ -2002,7 +1969,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2013,7 +1980,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2431,17 +2398,6 @@
     "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
   },
   {
-    "repo": "solarph/mindustry-crystal-pack",
-    "name": "Mindustry-Crystal-Pack",
-    "author": "SolarPH",
-    "lastUpdated": "2022-07-25T12:02:01Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that contains an OP yet super expensive weapon."
-  },
-  {
     "repo": "i-hope1/mod.make",
     "name": "mod.make",
     "author": "I hope...",
@@ -2528,17 +2484,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Buffs Gamma"
-  },
-  {
-    "repo": "qmelz/v5dustry",
-    "name": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 4,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
   },
   {
     "repo": "nuclear-bomb/inverse",
@@ -2849,17 +2794,6 @@
     "description": "Work in progress (not working)"
   },
   {
-    "repo": "riccj/logic-completion",
-    "name": "LogicCompletion",
-    "author": "miner",
-    "lastUpdated": "2022-04-09T08:33:05Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod for logic"
-  },
-  {
     "repo": "staticalliam7/mindustryplusplus",
     "name": "MindustryPlusPlus",
     "author": "Staticalliam7",
@@ -3094,7 +3028,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-14T18:37:00Z",
+    "lastUpdated": "2022-08-14T21:51:15Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -3652,28 +3586,6 @@
     "description": "Adds some magic to mindustry... soon"
   },
   {
-    "repo": "cry0flu1d/project-frost",
-    "name": "Project Frost",
-    "author": "Cry0flu1d & 2356",
-    "lastUpdated": "2022-03-29T12:08:23Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla expansion mod that add a new system"
-  },
-  {
-    "repo": "shocktrain/sorterdustry",
-    "name": "Sorterdustry - TexturePack",
-    "author": "Shocktrain",
-    "lastUpdated": "2022-03-30T02:49:22Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made from my sorter art of the game. Thanks to Raccoon for help on pixel art"
-  },
-  {
     "repo": "emanuelg-gaming/flar-expansion",
     "name": "Flar Expansion",
     "author": "Emanuel G",
@@ -3771,17 +3683,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
-  },
-  {
-    "repo": "wshon/minertools135",
-    "name": "MinerTools 135",
-    "author": "miner, adapter by wshon",
-    "lastUpdated": "2022-06-05T01:13:11Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry 135.2"
   },
   {
     "repo": "teeworldsfun/mindustry-teeworlds",
@@ -4453,17 +4354,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Use mod with router language setting"
-  },
-  {
-    "repo": "danieljb5/loredustry",
-    "name": "Loredustry",
-    "author": "Danieljb5 & ...",
-    "lastUpdated": "2021-09-16T17:14:30Z",
-    "stars": 2,
-    "minGameVersion": "123.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that extends the vanilla campaign, adding more items, fluids, factories, turrets and more."
   },
   {
     "repo": "felixhelixihare/mindustrypaintmod",
@@ -5885,17 +5775,6 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
-    "repo": "genericsomeone/infinity-liquid",
-    "name": "Infinity Liquid",
-    "author": "Inconsequential",
-    "lastUpdated": "2021-10-24T16:12:03Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Infinity Liquid from NewHorizon back into Mindustry."
-  },
-  {
     "repo": "nemesistheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "author": "NemesisTheory",
@@ -6358,17 +6237,6 @@
     "description": "Some Superized Items! With Fun Stuffs!"
   },
   {
-    "repo": "clintflames/mendless",
-    "name": "Mendless",
-    "author": "ClintFlames",
-    "lastUpdated": "2022-04-30T20:13:23Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes Mindustry more Mendless. DOESN'T WORK NOW, PLEASE DO NOT INSTALL IT."
-  },
-  {
     "repo": "icewav3/mindustry-vanilla-expanded",
     "name": "Vanilla Expanded",
     "author": "Icewave, AiviriX, Wolfette",
@@ -6444,17 +6312,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Moddification that adds a few more resources"
-  },
-  {
-    "repo": "thatonebepis/chiptunestry",
-    "name": "chiptunestry",
-    "author": " Bepis",
-    "lastUpdated": "2022-05-24T17:21:26Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "First custom music pack. Probably."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -6768,7 +6625,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-14T19:56:48Z",
+    "lastUpdated": "2022-08-14T21:53:39Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7062,17 +6919,6 @@
     "description": "Turns crawlers into creepers from Minecraft."
   },
   {
-    "repo": "qwertyq1234-programming/qq-mod",
-    "name": "QQ-Mod",
-    "author": "QwertyQ1234",
-    "lastUpdated": "2021-04-07T17:04:02Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Niezależny mod kompatybilny z G-Modem"
-  },
-  {
     "repo": "teslacoil69/slag",
     "name": "SLAG",
     "author": "TeslaCoil",
@@ -7093,17 +6939,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Courier Intersector Comunication and Transport "
-  },
-  {
-    "repo": "jgonc19/mindustry_mods",
-    "name": "Pointer",
-    "author": "Juan",
-    "lastUpdated": "2021-04-21T00:17:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "erisfiregamer1/seibuffrevert",
@@ -7546,17 +7381,6 @@
     "description": "duo"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/flarogus",
-    "name": "Flarogus",
-    "author": "MQ1337",
-    "lastUpdated": "2021-12-20T08:31:57Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sussy Flarogus (Updated with more buff and more SUS)"
-  },
-  {
     "repo": "vernaon/mppm",
     "name": "mppm",
     "author": "NothingImportant",
@@ -7808,17 +7632,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "aarrbba123/test-mod",
-    "name": "Harraf's Test Mod",
-    "author": "Harraf",
-    "lastUpdated": "2022-06-14T08:31:21Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
   },
   {
     "repo": "mbtiamo712dev/parachutists-mod",

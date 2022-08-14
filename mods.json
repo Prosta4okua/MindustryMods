@@ -2013,7 +2013,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2024,7 +2024,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -6779,7 +6779,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-14T02:31:57Z",
+    "lastUpdated": "2022-08-14T04:20:00Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6796,17 +6796,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Don't play it"
-  },
-  {
-    "repo": "thinkystuff7/mindustrymod-1",
-    "name": "Mind ustry Mod1",
-    "author": "thinkystuff7",
-    "lastUpdated": "2020-10-19T16:39:48Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
     "repo": "aweguy/pixelcraft",

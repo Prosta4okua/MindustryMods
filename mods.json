@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-14T09:34:09Z",
+    "lastUpdated": "2022-08-14T12:17:26Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -883,7 +883,7 @@
     "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-08-07T19:46:22Z",
+    "lastUpdated": "2022-08-14T10:31:09Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1969,17 +1969,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "teamneiaron/ion",
-    "name": "Ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-08T14:20:55Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "zeniku/heavymachineryjava",
     "name": "HeavyMachineryJava",
     "author": "Zeniku",
@@ -2033,6 +2022,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
+  },
+  {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-08-14T11:17:00Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -6779,7 +6779,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-14T07:59:54Z",
+    "lastUpdated": "2022-08-14T11:35:43Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,

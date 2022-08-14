@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-13T23:38:56Z",
+    "lastUpdated": "2022-08-14T09:03:40Z",
     "stars": 180,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -36,7 +36,7 @@
     "repo": "yuria-shikibe/newhorizonmod",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-08-14T07:30:58Z",
+    "lastUpdated": "2022-08-14T08:23:13Z",
     "stars": 160,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -246,7 +246,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2022-08-13T07:15:23Z",
-    "stars": 38,
+    "stars": 39,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-13T21:27:33Z",
+    "lastUpdated": "2022-08-14T09:34:09Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2013,7 +2013,7 @@
     "description": "A bag of content."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2024,7 +2024,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -4675,6 +4675,17 @@
     "description": "Texture pack that makes some blocks look cursed"
   },
   {
+    "repo": "freezemandu/invisibleblocks",
+    "name": "Invisible Blocks",
+    "author": "Mandu",
+    "lastUpdated": "2021-12-20T17:26:27Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
+  },
+  {
     "repo": "dryehm/build-buff",
     "name": "Build Buff (BB)",
     "author": "Dryehm",
@@ -5192,17 +5203,6 @@
     "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
-    "repo": "purplesushi22/oh-no-random-pack",
-    "name": "Oh no & Negative Tails",
-    "author": "PurpleSushi22",
-    "lastUpdated": "2022-07-26T07:41:36Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
-  },
-  {
     "repo": "prosta4okua/ukrajinisator",
     "name": "Ukrainian translation",
     "author": "Prosta4ok_ua#6336",
@@ -5355,6 +5355,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Idk"
+  },
+  {
+    "repo": "purplesushi22/oh-no-random-pack",
+    "name": "Oh no & Negative Tails",
+    "author": "PurpleSushi22",
+    "lastUpdated": "2022-08-14T08:27:33Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7854,6 +7865,17 @@
     "description": "I like sand. It's coarse and rough and irritating and it's everywhere. Wish I could shoot sand at my enemies, or build stuff with it. Huh."
   },
   {
+    "repo": "kapzduke/publicmod",
+    "name": "Public Mod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-08T22:12:28Z",
+    "stars": 0,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
+  },
+  {
     "repo": "routerxdd/drift-units",
     "name": "Drift units",
     "author": "Router Xdd",
@@ -8061,5 +8083,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "konkitoman/speedctlman",
+    "name": "Speed Ctl Man",
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-14T09:01:52Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
   }
 ]

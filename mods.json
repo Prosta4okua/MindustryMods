@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-15T11:25:00Z",
+    "lastUpdated": "2022-08-15T15:15:32Z",
     "stars": 180,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -53,17 +53,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The other way around"
-  },
-  {
-    "repo": "bluewolf3682/exotic-mod",
-    "name": "Exotic Mod",
-    "author": "BlueWolf",
-    "lastUpdated": "2022-08-15T08:57:14Z",
-    "stars": 111,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "liplum/cyberio",
@@ -883,7 +872,7 @@
     "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-08-15T09:20:23Z",
+    "lastUpdated": "2022-08-15T15:26:48Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1188,17 +1177,6 @@
     "description": "Short for: How-do-I-name-a-mod-that-can-end-with-dustry-so-that-it-sounds-mainstream dustry"
   },
   {
-    "repo": "spmlk/dreamscapemod",
-    "name": "Dreamscape Mod",
-    "author": "smk",
-    "lastUpdated": "2021-06-24T05:26:08Z",
-    "stars": 9,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Harness the power of dreams in this content mod."
-  },
-  {
     "repo": "solokil/v6adventureu",
     "name": "Solokil Underground Adventure",
     "author": "Solokil",
@@ -1241,17 +1219,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
-  },
-  {
-    "repo": "deltanedas/anuke-logic",
-    "name": "Anuke Logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-24T16:44:09Z",
-    "stars": 9,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1991,7 +1958,7 @@
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2002,7 +1969,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2429,17 +2396,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that contains an OP yet super expensive weapon."
-  },
-  {
-    "repo": "i-hope1/mod.make",
-    "name": "mod.make",
-    "author": "I hope...",
-    "lastUpdated": "2022-08-06T04:09:32Z",
-    "stars": 5,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
     "repo": "liplum/bottledliquid",
@@ -2959,17 +2915,6 @@
     "description": "A mod that adds a few items and liquids, and a whole new tier of upgrades, along with arc. Made by Chickenloser and Oreo with help from Duvent.\n\nAdds 95 new blocks, 5 items, 2 liquids, and 31 units, with plans to add even more."
   },
   {
-    "repo": "als39175/infinity-cheat",
-    "name": "Infinity Cheat",
-    "author": "SMIPE444",
-    "lastUpdated": "2022-07-18T19:26:21Z",
-    "stars": 4,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry Mod Adds Cheat Blocks For Campaign To Pass It Easily. I am 444."
-  },
-  {
     "repo": "reborntrack970/sandbox-mode",
     "name": "Sandbox Mode",
     "author": "RTOmega",
@@ -3078,17 +3023,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
-  },
-  {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-15T00:56:52Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -3331,17 +3265,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a description."
-  },
-  {
-    "repo": "thebestkillertbk/anukenmod",
-    "name": "Anuken mod",
-    "author": "TBK",
-    "lastUpdated": "2021-05-26T11:34:55Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Anuken"
   },
   {
     "repo": "freezemandu/minzoom",
@@ -4235,17 +4158,6 @@
     "description": "A mod that creates the most powerful material ever made"
   },
   {
-    "repo": "qmelz/computer-begone",
-    "name": "Computer Begone",
-    "author": "QmelZ",
-    "lastUpdated": "2021-05-16T18:27:39Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "basically your computer will be gone"
-  },
-  {
     "repo": "memedustry/motivation",
     "name": "Motivation",
     "author": "Memedustry",
@@ -4312,17 +4224,6 @@
     "description": "block.fast block.underfined"
   },
   {
-    "repo": "azhurniybaklan/sand-expansion",
-    "name": "Game just got sand-er!",
-    "author": "CancerGuy",
-    "lastUpdated": "2021-06-17T22:29:53Z",
-    "stars": 2,
-    "minGameVersion": "122.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Does stuff. Easy as that."
-  },
-  {
     "repo": "azhurniybaklan/coalgone",
     "name": "Coalgone",
     "author": "CancerGuy\"",
@@ -4343,17 +4244,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
-  },
-  {
-    "repo": "freezemandu/infinite-processor",
-    "name": "Infinite Processor",
-    "author": "Mandu",
-    "lastUpdated": "2021-07-14T08:20:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "austin5003/mohole",
@@ -4686,17 +4576,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "dryehm/build-buff",
-    "name": "Build Buff (BB)",
-    "author": "Dryehm",
-    "lastUpdated": "2022-01-09T23:46:24Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "hhahahahahahahahhaahhahahaha pls kill me"
-  },
-  {
     "repo": "emanuelg-gaming/barrier",
     "name": "Barrier",
     "author": "Emanuel G or Antumbra",
@@ -4827,17 +4706,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
-  },
-  {
-    "repo": "jirocab/facebookglass",
-    "name": "FaceBook Glass",
-    "author": "Rush/JiroDoesStuff",
-    "lastUpdated": "2022-04-11T05:04:41Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Meta is evolving just backwards \n Im not sorry"
   },
   {
     "repo": "vladtheevilcat/electro-magnetic-weaponry",
@@ -5069,17 +4937,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Includes nothing about gold or silicon. I just didn't have any mod name ideas."
-  },
-  {
-    "repo": "weathercold/extralogging",
-    "name": "Extra Logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-06-09T17:25:13Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5360,7 +5217,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "JoBert Factories",
     "author": "JoBert Industries™",
-    "lastUpdated": "2022-08-15T12:50:34Z",
+    "lastUpdated": "2022-08-15T15:37:59Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5720,17 +5577,6 @@
     "description": "Bigger versions of basic blocks. Because I can."
   },
   {
-    "repo": "delourians/mindustry-mod",
-    "name": "Mindustry-mod",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
-  },
-  {
     "repo": "kerbalboy/mindustry-test-mod",
     "name": "TestMod",
     "author": "KerbalBoy",
@@ -5795,17 +5641,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The very culmination of everyone's dumb ideas."
-  },
-  {
-    "repo": "notmeepoffaith/cooler-poly",
-    "name": "Cooler Poly",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2021-08-22T15:27:33Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "jhdreemurr/bruh-mod",
@@ -6853,17 +6688,6 @@
     "description": "test mod"
   },
   {
-    "repo": "firegoesblue/automatic_connections_disabled",
-    "name": "Auto Connections bye bye!",
-    "author": "Eldoofus, extracted by Bbsx",
-    "lastUpdated": "2020-12-27T04:58:53Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "disables automatic power nodes. It does not affect gameplay. "
-  },
-  {
     "repo": "sonnicon/groovymodmod",
     "name": "Groovy Mod Mod",
     "author": "[#8738ff]Sonnicon[]",
@@ -7126,17 +6950,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a golden duo"
-  },
-  {
-    "repo": "kotmilkmeow/milkmod",
-    "name": "MilkMod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod for Mindustry"
   },
   {
     "repo": "memedustry/generic-mod",
@@ -7964,17 +7777,6 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "2938137849/mindustry-morelogicmod",
-    "name": "更多逻辑",
-    "author": "bin",
-    "lastUpdated": "2022-08-06T04:27:27Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "添加更多逻辑条：打印缓存处理逻辑"
-  },
-  {
     "repo": "electronicsarchiver/the-new-tech-mod",
     "name": "< The new tech mod >",
     "author": "TheEE145",
@@ -8072,17 +7874,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Decaling is destroying all thing. Or not?"
-  },
-  {
-    "repo": "konkitoman/speedctlman",
-    "name": "Speed Ctl Man",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-14T19:16:51Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
   },
   {
     "repo": "zeutd/degradation",

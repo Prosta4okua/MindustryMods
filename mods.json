@@ -1991,7 +1991,7 @@
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2002,7 +2002,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2027,7 +2027,7 @@
     "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-15T04:28:02Z",
+    "lastUpdated": "2022-08-15T06:54:03Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5786,6 +5786,17 @@
     "description": "The very culmination of everyone's dumb ideas."
   },
   {
+    "repo": "notmeepoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
+  },
+  {
     "repo": "jhdreemurr/bruh-mod",
     "name": "jh dreemurr's mod",
     "author": "jh_dreemurr",
@@ -7986,17 +7997,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "zeutd/degradation",
-    "name": "degradation",
-    "author": "zeutd",
-    "lastUpdated": "2022-08-10T12:11:54Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "teaeempire/gghv7",
     "name": "GGH2.4",
     "author": "TeaGryn",
@@ -8083,5 +8083,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
+  },
+  {
+    "repo": "zeutd/degradation",
+    "name": "degradation",
+    "author": "zeutd",
+    "lastUpdated": "2022-08-15T06:47:17Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   }
 ]

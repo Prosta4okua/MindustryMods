@@ -399,7 +399,7 @@
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-15T18:28:37Z",
+    "lastUpdated": "2022-08-15T20:44:53Z",
     "stars": 28,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -1991,7 +1991,7 @@
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
-    "repo": "driftheque/thenewwave",
+    "repo": "driftheque/manualdustry",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -2002,7 +2002,7 @@
     "description": "manual machines go brrr.\n\nmade by Driftheque (Drifted Notes + contributors)."
   },
   {
-    "repo": "driftheque/manualdustry",
+    "repo": "driftheque/thenewwave",
     "name": "Manualdustry",
     "author": "Driftheque",
     "lastUpdated": "2022-08-14T00:04:27Z",
@@ -5731,17 +5731,6 @@
     "description": "Finish the campaign....NOW"
   },
   {
-    "repo": "kerbalboy/mindustry-test-mod",
-    "name": "TestMod",
-    "author": "KerbalBoy",
-    "lastUpdated": "2021-06-13T09:18:28Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An unstable Mindustry mod only used for testing"
-  },
-  {
     "repo": "smolkeys/uicu",
     "name": "UICU",
     "author": "SMOLKEYS",
@@ -5938,17 +5927,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Texture pack that makes mindustry into amogus for no reason"
-  },
-  {
-    "repo": "cbmshadowgd/terrariamod",
-    "name": "terarria Mod",
-    "author": "CBMShadowGD",
-    "lastUpdated": "2021-12-05T09:59:09Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "my first mod."
   },
   {
     "repo": "smolkeys/carry",
@@ -8094,5 +8072,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "grvasl/thorium-conveyor-mod",
+    "name": "thorium conveyor",
+    "author": "tester124",
+    "lastUpdated": "2022-08-15T21:27:57Z",
+    "stars": 0,
+    "minGameVersion": "107.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
   }
 ]

@@ -14,8 +14,8 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-15T15:15:32Z",
-    "stars": 180,
+    "lastUpdated": "2022-08-15T22:51:56Z",
+    "stars": 181,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -3083,7 +3083,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-15T00:56:52Z",
+    "lastUpdated": "2022-08-16T00:55:11Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -5313,17 +5313,6 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-12T16:10:15Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
-  },
-  {
     "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
@@ -5366,6 +5355,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds lot of things that are not existant for now."
+  },
+  {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-16T00:57:59Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5731,6 +5731,17 @@
     "description": "Finish the campaign....NOW"
   },
   {
+    "repo": "kerbalboy/mindustry-test-mod",
+    "name": "TestMod",
+    "author": "KerbalBoy",
+    "lastUpdated": "2021-06-13T09:18:28Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An unstable Mindustry mod only used for testing"
+  },
+  {
     "repo": "smolkeys/uicu",
     "name": "UICU",
     "author": "SMOLKEYS",
@@ -5927,6 +5938,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Texture pack that makes mindustry into amogus for no reason"
+  },
+  {
+    "repo": "cbmshadowgd/terrariamod",
+    "name": "terarria Mod",
+    "author": "CBMShadowGD",
+    "lastUpdated": "2021-12-05T09:59:09Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "my first mod."
   },
   {
     "repo": "smolkeys/carry",

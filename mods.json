@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-15T22:51:56Z",
-    "stars": 181,
+    "stars": 182,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -1692,6 +1692,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "evo04taser/super-cheat",
+    "name": "Super Cheat",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-08-05T04:21:58Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
     "repo": "deltanedas/no",
@@ -5344,17 +5355,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds lot of things that are not existant for now."
-  },
-  {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-16T03:38:27Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
   },
   {
     "repo": "sirmachinegun/ebm",

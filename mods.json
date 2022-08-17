@@ -473,6 +473,17 @@
     "description": "Adds inverted versions of crafters."
   },
   {
+    "repo": "gennaowl/upgraded-factories",
+    "name": "Upgraded Factories",
+    "author": "genNAowl",
+    "lastUpdated": "2022-02-02T05:10:24Z",
+    "stars": 23,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds upgraded versions of existing factories."
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
@@ -3366,6 +3377,17 @@
     "description": "Vanguard"
   },
   {
+    "repo": "ahrumjungle/fast-duo",
+    "name": "Fast Duo",
+    "author": "OCRumjungle",
+    "lastUpdated": "2021-08-12T04:46:59Z",
+    "stars": 3,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a faster Duo (and other stuff)"
+  },
+  {
     "repo": "l0615t1c5-216ac-9437/automaticmodupdator",
     "name": "automatic mod updater",
     "author": "L0615T1C5.216AC#9437",
@@ -4290,6 +4312,17 @@
     "description": "block.fast block.underfined"
   },
   {
+    "repo": "azhurniybaklan/sand-expansion",
+    "name": "Game just got sand-er!",
+    "author": "CancerGuy",
+    "lastUpdated": "2021-06-17T22:29:53Z",
+    "stars": 2,
+    "minGameVersion": "122.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Does stuff. Easy as that."
+  },
+  {
     "repo": "azhurniybaklan/coalgone",
     "name": "Coalgone",
     "author": "CancerGuy\"",
@@ -5170,6 +5203,17 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
+    "repo": "cluet-op/green-technology",
+    "name": "Green-Technologies",
+    "author": " CLUET",
+    "lastUpdated": "2022-08-01T04:34:33Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
+  },
+  {
     "repo": "deltanedas/routorio",
     "name": "routorio",
     "author": "deltanedas",
@@ -5973,17 +6017,6 @@
     "description": "A mod made to break mindustry"
   },
   {
-    "repo": "auseawesome/mindustryplus-agricultureaddon",
-    "name": "Mindustry+ Agriculture Addon",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T16:41:48Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made to add more plants into Mindustry"
-  },
-  {
     "repo": "radio-silence-1/cursedunits",
     "name": "Weird Textures",
     "author": "Radio Silence",
@@ -6224,6 +6257,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Do you need more?"
+  },
+  {
+    "repo": "routerxdd/hellfraction-industries",
+    "name": "HFI",
+    "author": "Router Xdd",
+    "lastUpdated": "2022-04-15T04:37:47Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
     "repo": "cocucka-xd/reloadedmod",
@@ -6488,6 +6532,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java Mod that adds powerful things to the game."
+  },
+  {
+    "repo": "jafetlamval17/wetworks",
+    "name": "Wetworks",
+    "author": "JafetLamVal",
+    "lastUpdated": "2022-06-28T06:34:46Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Use the power of SCIENCE to turn LIQUIDS into SOLIDS and then back to LIQUIDS. Or shoot the solids at your enemies, I don't know, i'm not your dad. Adds several blocks capable of turning liquids into items for ease of transportation and storage, and then back to liquids. Also includes a way to do the same to power. All of the items can be used in two special turrets."
   },
   {
     "repo": "mindustry-space/pulverizer",
@@ -6851,6 +6906,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds blocks that allow you to play music!"
+  },
+  {
+    "repo": "destrux/mega-battery-mod",
+    "name": "More Batteries",
+    "author": "Destrux",
+    "lastUpdated": "2021-01-23T17:08:16Z",
+    "stars": 0,
+    "minGameVersion": "123.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is a mod adding multiple tiers of more powerful batteries"
   },
   {
     "repo": "memfacego/mod",

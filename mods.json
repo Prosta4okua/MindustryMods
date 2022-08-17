@@ -3652,17 +3652,6 @@
     "description": "Adds a few smaller units parallel to the Flare tiers."
   },
   {
-    "repo": "niruvu-ruche/unstable-industrial",
-    "name": "Unstable Industrial(不稳定工业)",
-    "author": "Nirv_lucE",
-    "lastUpdated": "2022-04-09T12:10:12Z",
-    "stars": 3,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod which has a few lines of contents and some ugly sprites."
-  },
-  {
     "repo": "mintustry/duonrouter",
     "name": "inception duo",
     "author": "mintustry",

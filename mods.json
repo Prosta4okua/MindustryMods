@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-16T22:09:07Z",
+    "lastUpdated": "2022-08-17T11:01:14Z",
     "stars": 78,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -625,17 +625,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
-    "repo": "ballgamer56/vanillaextended",
-    "name": "VanillaExtended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2022-08-12T21:00:36Z",
-    "stars": 18,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -2055,17 +2044,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
-    "repo": "reborntrack970/multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 5,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
   },
   {
     "repo": "bloool/solarworks",
@@ -5104,17 +5082,6 @@
     "description": "This mod make this game difficult."
   },
   {
-    "repo": "youngterror3/mindustryjavamod",
-    "name": "Mindustry Java Mod",
-    "author": "youngterror3",
-    "lastUpdated": "2022-06-26T13:25:55Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new features."
-  },
-  {
     "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
@@ -6015,6 +5982,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod made to break mindustry"
+  },
+  {
+    "repo": "auseawesome/mindustryplus-agricultureaddon",
+    "name": "Mindustry+ Agriculture Addon",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-02-02T16:41:48Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made to add more plants into Mindustry"
   },
   {
     "repo": "radio-silence-1/cursedunits",
@@ -7920,17 +7898,6 @@
     "description": "Yet another attempt at making a satire mod. Most content needs payload sources to access."
   },
   {
-    "repo": "swirek3331/altanic",
-    "name": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-08-05T11:15:08Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
     "repo": "2938137849/mindustry-morelogicmod",
     "name": "更多逻辑",
     "author": "bin",
@@ -7984,6 +7951,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "群:606757250"
+  },
+  {
+    "repo": "swirek3331/zpgm-connector-v7",
+    "name": "ZPGM-Connector-v7",
+    "author": "swirek3331",
+    "lastUpdated": "2022-08-11T13:27:16Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Are you a ZPGM member? No? So just ignore this."
   },
   {
     "repo": "no9527dada/skin",
@@ -8083,5 +8061,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sets your camera position to your best core"
+  },
+  {
+    "repo": "swirek3331/altanic",
+    "name": "Altanic",
+    "author": "swirek3331",
+    "lastUpdated": "2022-08-17T11:48:24Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   }
 ]

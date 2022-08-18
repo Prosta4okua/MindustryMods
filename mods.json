@@ -2497,6 +2497,17 @@
     "description": "Similar to NeonNights, but actually updated."
   },
   {
+    "repo": "xjamiex/creativecores",
+    "name": "Creative Cores",
+    "author": "xjammuux",
+    "lastUpdated": "2022-08-17T19:37:17Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
     "repo": "cyberneticsquid/self-destruct",
     "name": "Unit Self-Destruct",
     "author": "CyberneticSquid",
@@ -2539,17 +2550,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "gennaowl/extra-walls",
-    "name": "Extra Walls",
-    "author": "genNAowl",
-    "lastUpdated": "2021-02-07T21:46:31Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds walls made of every buildable material"
   },
   {
     "repo": "cherriodude/jac",
@@ -3080,17 +3080,6 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "xjamiex/creativecores",
-    "name": "Creative Cores",
-    "author": "xjammuux",
-    "lastUpdated": "2022-08-17T19:37:17Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
-  },
-  {
     "repo": "slotterleet/crazy-militaries",
     "name": "Crazy-Militaries",
     "author": "The Slaylord",
@@ -3575,6 +3564,17 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
+    "repo": "txar/densecreations",
+    "name": "Dense Creations",
+    "author": "Txar",
+    "lastUpdated": "2022-02-10T21:16:41Z",
+    "stars": 3,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+  },
+  {
     "repo": "error-in-code/relics-mod",
     "name": "Relics",
     "author": "[Error_in_Code]",
@@ -3914,6 +3914,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
+    "repo": "mythril382/thisthing",
+    "name": "This Thing",
+    "author": "Mythril",
+    "lastUpdated": "2022-08-18T06:10:07Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Is a thing."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4266,17 +4277,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "willoizcitron/the-spaceship-mindustry",
-    "name": "Project Eboy Plays",
-    "author": "Eboy Plays - Mindustry Channel",
-    "lastUpdated": "2021-05-24T04:03:52Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Bullet Hell, Titan Units, Bullet Hell Players, Difficulties, And Maps, Also Has A Built-in Freelancer Soundtracks Are Non-Copyright"
   },
   {
     "repo": "pietro303hd/dynamics",
@@ -4816,6 +4816,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "add beautiful bullet"
+  },
+  {
+    "repo": "abaines/kizraks-radar",
+    "name": "Kizrak's Radar",
+    "author": "Kizrak",
+    "lastUpdated": "2022-04-06T05:37:22Z",
+    "stars": 2,
+    "minGameVersion": "112",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
   },
   {
     "repo": "jirocab/facebookglass",
@@ -6721,26 +6732,26 @@
     "description": "A Rand0m m0d."
   },
   {
+    "repo": "driftheque/breakingmindustry",
+    "name": "Breaking Mindustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-17T13:55:59Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
+  },
+  {
     "repo": "mega-industries/mega-additions",
     "name": "Mega Additions",
     "author": "Mega Industries",
-    "lastUpdated": "2022-08-18T01:49:26Z",
+    "lastUpdated": "2022-08-18T04:57:31Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of content."
-  },
-  {
-    "repo": "mythril382/thisthing",
-    "name": "This Thing",
-    "author": "Mythril",
-    "lastUpdated": "2022-08-18T03:37:25Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Is a thing."
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -6928,17 +6939,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "mmt007/dustry-verse",
-    "name": "Dustry Verse ",
-    "author": "Will#7435 and MMT007_backUP#9499",
-    "lastUpdated": "2021-02-08T22:12:09Z",
-    "stars": 0,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An extension that doesn't limit itself from this game only..."
   },
   {
     "repo": "purplepikachu/mindustry-back-to-classic-mod",
@@ -7357,6 +7357,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays Reach soundtracks, let's just hope you don't go MIA when playing campaign with this mod on."
+  },
+  {
+    "repo": "cyberman-42/cybermod",
+    "name": "Cybermod",
+    "author": "Cyberman",
+    "lastUpdated": "2021-11-01T15:28:50Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Some cool Mindustry stuff"
   },
   {
     "repo": "lantice3720/mindustrial-thermodynamics",

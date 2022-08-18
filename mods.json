@@ -300,7 +300,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-18T10:57:55Z",
+    "lastUpdated": "2022-08-18T14:58:21Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -366,7 +366,7 @@
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-18T09:46:18Z",
+    "lastUpdated": "2022-08-18T13:33:45Z",
     "stars": 29,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -440,6 +440,17 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
+    "repo": "p101q/uni",
+    "name": "UNI",
+    "author": "code: Qwaka\nsprites: plolq",
+    "lastUpdated": "2021-08-19T12:15:37Z",
+    "stars": 24,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
+  },
+  {
     "repo": "flintyx/animalia",
     "name": "Animalia",
     "author": "Flin",
@@ -449,17 +460,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
-    "repo": "p101q/uni",
-    "name": "UNI",
-    "author": "code: Qwaka\nsprites: plolq",
-    "lastUpdated": "2021-08-19T12:15:37Z",
-    "stars": 23,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
     "repo": "happygingerwolf/inverted-machines",
@@ -693,6 +693,17 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
+    "repo": "smolkeys/bundles",
+    "name": "Bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-08-18T11:02:41Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt"
+  },
+  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "author": "DeltaNedas",
@@ -702,17 +713,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "smolkeys/bundles",
-    "name": "Bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-08-18T11:02:41Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt"
   },
   {
     "repo": "drullkus/unnerf-core-units",
@@ -1323,7 +1323,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-18T01:27:44Z",
+    "lastUpdated": "2022-08-18T12:31:03Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1334,7 +1334,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-08-18T11:58:41Z",
+    "lastUpdated": "2022-08-18T13:53:17Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1617,6 +1617,17 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
+    "repo": "ark-source/solarys",
+    "name": "Project Solarys",
+    "author": "Arkanic",
+    "lastUpdated": "2022-04-08T04:10:34Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "project Solarys\n<unstable version> 1.0 alpha\n."
+  },
+  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "author": "deltanedas",
@@ -1703,6 +1714,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
+  },
+  {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-08-16T05:10:37Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "lightertimes/block-placer",
@@ -1892,17 +1914,6 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "ark-source/solarys",
-    "name": "Project Solarys",
-    "author": "Arkanic",
-    "lastUpdated": "2022-04-08T04:10:34Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "project Solarys\n<unstable version> 1.0 alpha\n."
-  },
-  {
     "repo": "vvseangtvv/v5-classic",
     "name": "V5 Reborn",
     "author": "VvSeanGtvV",
@@ -2011,17 +2022,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superiour to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "teamneiaron/ion",
-    "name": "Ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-16T05:10:37Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3047,6 +3047,17 @@
     "description": "for Aim"
   },
   {
+    "repo": "mythril382/loudustry",
+    "name": "Loudustry",
+    "author": "Mythril",
+    "lastUpdated": "2022-08-12T15:15:29Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING! SERIOUSLY!"
+  },
+  {
     "repo": "xzxadixzx/crawler-language",
     "name": "Crawler Language",
     "author": "xzxADIxzx",
@@ -3892,17 +3903,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for plague\n\nit is a cool mod"
-  },
-  {
-    "repo": "mythril382/loudustry",
-    "name": "Loudustry",
-    "author": "Mythril",
-    "lastUpdated": "2022-08-12T15:15:29Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes sounds and musics louder.\n\nVERY LOUD WARNING! SERIOUSLY!"
   },
   {
     "repo": "willoizcitron/siuuu",
@@ -6768,7 +6768,7 @@
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-18T12:09:32Z",
+    "lastUpdated": "2022-08-18T12:37:36Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,

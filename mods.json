@@ -44,6 +44,17 @@
     "description": "Warning: Unfinished For V7"
   },
   {
+    "repo": "slava0135/revision",
+    "name": "reVision",
+    "author": "Slava0135",
+    "lastUpdated": "2022-04-06T08:14:34Z",
+    "stars": 116,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The other way around"
+  },
+  {
     "repo": "bluewolf3682/exotic-mod",
     "name": "Exotic Mod",
     "author": "BlueWolf",
@@ -125,7 +136,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-07-29T06:14:20Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -185,6 +196,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
+  },
+  {
+    "repo": "petruchiorus/lead_ind",
+    "name": "Lead Industries",
+    "author": "PetruCHIOrus",
+    "lastUpdated": "2021-01-17T18:21:16Z",
+    "stars": 46,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "sharlottes/sharustry",
@@ -2552,17 +2574,6 @@
     "description": "Adds more production blocks."
   },
   {
-    "repo": "yaroslav242/recompensator-mod",
-    "name": "recompensator-mod",
-    "author": "Yaroslav242",
-    "lastUpdated": "2021-02-17T17:47:45Z",
-    "stars": 4,
-    "minGameVersion": "124",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
-  },
-  {
     "repo": "1qwaka/adronium-mod",
     "name": "Adronium mod",
     "author": "Дикая пчела",
@@ -3375,17 +3386,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanguard"
-  },
-  {
-    "repo": "ahrumjungle/fast-duo",
-    "name": "Fast Duo",
-    "author": "OCRumjungle",
-    "lastUpdated": "2021-08-12T04:46:59Z",
-    "stars": 3,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a faster Duo (and other stuff)"
   },
   {
     "repo": "l0615t1c5-216ac-9437/automaticmodupdator",
@@ -4266,17 +4266,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds fun little things, brought to you by Toaster Gaming."
-  },
-  {
-    "repo": "willoizcitron/the-spaceship-mindustry",
-    "name": "Project Eboy Plays",
-    "author": "Eboy Plays - Mindustry Channel",
-    "lastUpdated": "2021-05-24T04:03:52Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Bullet Hell, Titan Units, Bullet Hell Players, Difficulties, And Maps, Also Has A Built-in Freelancer Soundtracks Are Non-Copyright"
   },
   {
     "repo": "pietro303hd/dynamics",
@@ -6732,17 +6721,6 @@
     "description": "A Rand0m m0d."
   },
   {
-    "repo": "driftheque/breakingmindustry",
-    "name": "Breaking Mindustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-18T12:37:36Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "routerxdd/xsoverd-remake",
     "name": "Xsoverd Remake",
     "author": "Router Xdd",
@@ -6752,6 +6730,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "driftheque/breakingmindustry",
+    "name": "Breaking Mindustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-19T04:43:13Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7194,17 +7183,6 @@
     "description": "Because you can't have too much convinience"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-abcde-whiteplanet",
-    "name": "abcde",
-    "author": "initiate",
-    "lastUpdated": "2021-07-10T14:56:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "planet test"
-  },
-  {
     "repo": "luihum/bigschematics",
     "name": "BigSchematics",
     "author": "Luihum",
@@ -7225,17 +7203,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "boredom took over me and this is why i made this mod"
-  },
-  {
-    "repo": "yagoi23/yagois-mindustry-mod",
-    "name": "Yagois-Mindustry-Mod",
-    "author": "Yagoi",
-    "lastUpdated": "2021-08-12T05:39:16Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "????"
   },
   {
     "repo": "haywyre124/diamond-mod-naub",

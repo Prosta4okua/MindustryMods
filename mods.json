@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-19T17:55:09Z",
+    "lastUpdated": "2022-08-19T18:22:46Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -473,6 +473,17 @@
     "description": "Adds inverted versions of crafters."
   },
   {
+    "repo": "gennaowl/upgraded-factories",
+    "name": "Upgraded Factories",
+    "author": "genNAowl",
+    "lastUpdated": "2022-02-02T05:10:24Z",
+    "stars": 23,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds upgraded versions of existing factories."
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
@@ -669,6 +680,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
+  },
+  {
+    "repo": "paulieg626/cheat",
+    "name": "CheatMod",
+    "author": "paulieg626",
+    "lastUpdated": "2022-07-29T07:00:21Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "smolkeys/bundles",
@@ -891,6 +913,17 @@
     "description": "pain and suffering"
   },
   {
+    "repo": "mindustryinside/autoupdater",
+    "name": "AutoUpdater",
+    "author": "Skat",
+    "lastUpdated": "2021-08-13T16:05:47Z",
+    "stars": 12,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
+  },
+  {
     "repo": "snakkizxz/coppermod",
     "name": "Coppermod",
     "author": "Snakki",
@@ -990,6 +1023,17 @@
     "description": "A fun mod that adds yeeters and other small additions."
   },
   {
+    "repo": "goobrr/shitass",
+    "name": "Shitass",
+    "author": "Goober",
+    "lastUpdated": "2021-01-13T14:27:11Z",
+    "stars": 11,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds shitass to the game"
+  },
+  {
     "repo": "goobrr/goobriculture",
     "name": "Goobriculture",
     "author": "Goober",
@@ -1087,6 +1131,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
+  },
+  {
+    "repo": "mnemotechnician/ckat",
+    "name": "Скат [kotlin]",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-25T13:51:40Z",
+    "stars": 10,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
     "repo": "cynthion21x/prismatic",
@@ -1342,6 +1397,17 @@
     "description": "Please no..."
   },
   {
+    "repo": "pietro303hd/shitshow",
+    "name": "Shit Show",
+    "author": "Pietro",
+    "lastUpdated": "2021-08-14T03:16:59Z",
+    "stars": 8,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "pixecoz/better-menders",
     "name": "Better menders",
     "author": "pixecoz",
@@ -1395,6 +1461,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
+  },
+  {
+    "repo": "zelaux/gaslibrary",
+    "name": "GasLibrary",
+    "author": "Zelaux",
+    "lastUpdated": "2022-06-04T13:44:58Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -1659,6 +1736,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
+  },
+  {
+    "repo": "deltanedas/no",
+    "name": "no",
+    "author": "deltanedas",
+    "lastUpdated": "2020-11-28T21:45:21Z",
+    "stars": 6,
+    "minGameVersion": "114",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "there is no escape"
   },
   {
     "repo": "deltanedas/yes",
@@ -2145,6 +2233,17 @@
     "description": "BetaMindy music assets. Does nothing on its own!"
   },
   {
+    "repo": "pietro303hd/modding-tools",
+    "name": "Modding Tools",
+    "author": "Pietro",
+    "lastUpdated": "2021-10-11T23:40:52Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "no9527dada/free-campaign",
     "name": "free-campaign-自由战役",
     "author": "呵呵哒",
@@ -2539,6 +2638,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "调试的工具。/Utilities for debugging."
+  },
+  {
+    "repo": "genericsomeone/rejectedustry",
+    "name": "RejecteDustry",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-06-13T00:20:03Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
   },
   {
     "repo": "janssendel/roombandustry",
@@ -3047,6 +3157,17 @@
     "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
+    "repo": "ovcaa/chaos-of-the-particle",
+    "name": "Chaos of the particle",
+    "author": "Ovca",
+    "lastUpdated": "2021-02-18T07:49:52Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New normal mod"
+  },
+  {
     "repo": "ar01zar/newworldmod",
     "name": "NewWorldMod",
     "author": "ArZar",
@@ -3188,6 +3309,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Small mod that currently only adds turrets focused on scripting."
+  },
+  {
+    "repo": "leyn-pl/leynmod",
+    "name": "LEYNmod",
+    "author": "_LEYN",
+    "lastUpdated": "2021-05-21T20:10:03Z",
+    "stars": 3,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ВНИМАНИЕ:\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\nhttps://discord.gg/kqRsRCN"
   },
   {
     "repo": "lordreddx/mindustry-creator-mod",
@@ -3575,6 +3707,17 @@
     "description": "OP Things which game more easy, but isn't a hack."
   },
   {
+    "repo": "rexaliis/quality-implementations-mod",
+    "name": "Quality Implementations",
+    "author": "RexHm (Discord ID: 612122239428722720)",
+    "lastUpdated": "2022-05-06T19:45:15Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A quality of life content mod made with the purpose of complementing other larger mods.\nUse the issues option in github to leave suggestions."
+  },
+  {
     "repo": "deltanedas/tracker",
     "name": "Tracker",
     "author": "deltanedas",
@@ -3837,6 +3980,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod allowing trading one metal for the next"
+  },
+  {
+    "repo": "amateurpotion/nuclearjavamod",
+    "name": "Nuclear Mod for Java",
+    "author": "Namedo",
+    "lastUpdated": "2020-12-28T16:01:59Z",
+    "stars": 2,
+    "minGameVersion": "20416",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
+    "repo": "leyn-pl/theworstmod2",
+    "name": "TheWorstMod2",
+    "author": "Leyn-pl",
+    "lastUpdated": "2021-01-18T19:50:30Z",
+    "stars": 2,
+    "minGameVersion": "121",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Worst mod! Never play with it!"
   },
   {
     "repo": "gkggg/red-alert-2",
@@ -4774,6 +4939,17 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "ka4ok52/f-mod",
+    "name": "F-MOD",
+    "author": "Ka4ok52_",
+    "lastUpdated": "2022-05-08T21:00:16Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
     "repo": "wedro023/frestorm",
     "name": "Frestorm",
     "author": "Wedro, Darkness",
@@ -4904,6 +5080,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod written in Clojure!"
+  },
+  {
+    "repo": "mythril382/goldensilicon",
+    "name": "Golden Silicon",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-05T13:57:58Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Includes nothing about gold or silicon. I just didn't have any mod name ideas."
   },
   {
     "repo": "weathercold/extralogging",
@@ -6193,6 +6380,17 @@
     "description": "Vanilla Extension for Mindustry"
   },
   {
+    "repo": "raoul1808/routermageddon",
+    "name": "Routermageddon",
+    "author": "Raoul1808",
+    "lastUpdated": "2022-05-08T16:12:39Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
+  },
+  {
     "repo": "azhurniybaklan/erekir-utilities",
     "name": "Erekir Utilities",
     "author": "AzhurniyBaklan",
@@ -6259,6 +6457,17 @@
     "description": "First custom music pack. Probably."
   },
   {
+    "repo": "warcry98/speedcontrol",
+    "name": "Speed Control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-28T04:14:09Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
+  },
+  {
     "repo": "nekit508/mindustryextendedrecipemodule",
     "name": "Extending Erekir generation",
     "author": "nekit508",
@@ -6279,6 +6488,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Some Superized Items! With Fun Stuffs!"
+  },
+  {
+    "repo": "routerxdd/challenge-maps",
+    "name": "Challenge maps",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-06-05T08:34:38Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds the challenges"
   },
   {
     "repo": "routerxdd/sc-music-pack",
@@ -6699,6 +6919,17 @@
     "description": "Makes almost everything have tons of value. Happy new year xD"
   },
   {
+    "repo": "amateurpotion/crystal",
+    "name": "Crystal edition",
+    "author": "AmateurPotion",
+    "lastUpdated": "2021-01-04T12:47:40Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
+  },
+  {
     "repo": "ghvtv/music-mod-mindustry",
     "name": "Music Mod1.0",
     "author": "Chen Rhong",
@@ -6840,6 +7071,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Niezależny mod kompatybilny z G-Modem"
+  },
+  {
+    "repo": "teslacoil69/slag",
+    "name": "SLAG",
+    "author": "TeslaCoil",
+    "lastUpdated": "2021-04-18T05:40:32Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a mod that allows you to turn copper into slag, since many maps are missing this resource"
   },
   {
     "repo": "wayfarertechnologies/courier-mod",
@@ -7126,6 +7368,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 Mod that add modded maps"
+  },
+  {
+    "repo": "yunaakaishi08/plusalfer",
+    "name": "PlusAlfer",
+    "author": "YuNA彁",
+    "lastUpdated": "2021-10-27T16:36:38Z",
+    "stars": 0,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add a few content."
   },
   {
     "repo": "nemesistheory/reach-soundtracks",
@@ -7579,6 +7832,17 @@
     "description": "To be filled"
   },
   {
+    "repo": "jafetlamval17/sandworks",
+    "name": "Sandworks",
+    "author": "JafetLamVal",
+    "lastUpdated": "2022-06-28T04:27:10Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I like sand. It's coarse and rough and irritating and it's everywhere. Wish I could shoot sand at my enemies, or build stuff with it. Huh."
+  },
+  {
     "repo": "kapzduke/publicmod",
     "name": "Public Mod",
     "author": "luxDuck",
@@ -7786,6 +8050,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod, please be kind."
+  },
+  {
+    "repo": "konkitoman/speedctlman",
+    "name": "Speed Ctl Man",
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-14T19:16:51Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Default is setting the speed, LCtrl for multiply the speed and LAlt for add, LShift + LCtrl for subdivide and LShift + LAlt to subtract\n\nMultiplayer Supported but every player can control the speed!"
   },
   {
     "repo": "zeutd/degradation",

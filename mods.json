@@ -418,6 +418,17 @@
     "description": "Alerts you to enemy tech progression and unit production"
   },
   {
+    "repo": "p101q/uni",
+    "name": "UNI",
+    "author": "code: Qwaka\nsprites: plolq",
+    "lastUpdated": "2021-08-19T12:15:37Z",
+    "stars": 25,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "author": "oxynoe",
@@ -869,6 +880,17 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
+    "repo": "slotterleet/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-08-16T14:59:40Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
+  },
+  {
     "repo": "gdeft/bleach",
     "name": "Bleach",
     "author": "Gdeft",
@@ -1285,6 +1307,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
+    "repo": "mnemotechnician/new-controls-public",
+    "name": "New controls",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-22T18:24:40Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "mindustryinside/l1337n",
@@ -1967,6 +2000,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "r-omnom/z.p.g.m._mod",
+    "name": "Z.P.G.M._Mod",
+    "author": "r_omnom7",
+    "lastUpdated": "2022-08-11T16:42:50Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
     "repo": "mnemotechnician/new-console",
@@ -3729,6 +3773,17 @@
     "description": "A java mod for Mindustry 135.2"
   },
   {
+    "repo": "teeworldsfun/mindustry-teeworlds",
+    "name": "Teeworlds Developers Coming!(Tws/DDNet)",
+    "author": "FlowerFell-Sans & Ninecloud",
+    "lastUpdated": "2022-06-12T10:49:09Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Write some developers of teeworks into the game!"
+  },
+  {
     "repo": "mythril382/colorednames",
     "name": "Colored Names",
     "author": "Mythril",
@@ -3738,17 +3793,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
-  },
-  {
-    "repo": "uujuju1/poost",
-    "name": "Project Oblivion Ost",
-    "author": "Uujuju, 12three7 and DJ Silin",
-    "lastUpdated": "2022-07-02T02:41:46Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -3881,6 +3925,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Is a thing."
+  },
+  {
+    "repo": "uujuju1/poost",
+    "name": "Project Oblivion Ost",
+    "author": "Uujuju, 12three7 and DJ Silin",
+    "lastUpdated": "2022-08-18T23:36:09Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4444,6 +4499,17 @@
     "description": "A mod that adds colored walls and conveyors."
   },
   {
+    "repo": "uujuju1/soulfuelmod",
+    "name": "Soul Fuel Mod",
+    "author": "Uujuju",
+    "lastUpdated": "2021-09-26T00:09:07Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "totallylemon/improved-core-units",
     "name": "Improved Core Units",
     "author": "TotallyLemon",
@@ -4618,6 +4684,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "something and nothing"
+  },
+  {
+    "repo": "mrduck557/hersysprites",
+    "name": "Heresy Sprites",
+    "author": "MrDuck557",
+    "lastUpdated": "2021-12-19T15:23:54Z",
+    "stars": 2,
+    "minGameVersion": "126.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Texture pack that makes some blocks look cursed"
   },
   {
     "repo": "freezemandu/invisibleblocks",
@@ -5258,17 +5335,6 @@
     "description": "Dark-Mode Texture pack for Mindustry!"
   },
   {
-    "repo": "hubertbdlb/jobert_factories",
-    "name": "Stellar Mind",
-    "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-16T23:25:00Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds lot of things that are not existant for now."
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -5289,6 +5355,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a lot of content."
+  },
+  {
+    "repo": "hubertbdlb/jobert_factories",
+    "name": "Stellar Mind",
+    "author": "Jobert Industries™",
+    "lastUpdated": "2022-08-18T23:37:02Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds lot of things that are not existant for now."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5509,6 +5586,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
+  },
+  {
+    "repo": "reborntrack970/mindustrynt",
+    "name": "Mindustryn't",
+    "author": "RTOmega",
+    "lastUpdated": "2021-04-01T10:03:25Z",
+    "stars": 1,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
     "repo": "daves1245/mindustry_mod",
@@ -5927,6 +6015,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Future curse the enemy and help them stronger,somehow...."
+  },
+  {
+    "repo": "mrduck557/esoterum2",
+    "name": "Esoterum2",
+    "author": "MrDuck557",
+    "lastUpdated": "2022-01-19T15:22:45Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A casual recode of Goobrr/Esoterum that I hope is more stable"
   },
   {
     "repo": "danteslr/shaders",
@@ -7612,17 +7711,6 @@
     "description": "Still in development(only started since Ian 2022)"
   },
   {
-    "repo": "somecoder1/mindustrymod",
-    "name": "Mindustry Mod",
-    "author": "This mod doesn't have a theme, I just add random cool things.",
-    "lastUpdated": "2022-02-20T15:38:58Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod with random things."
-  },
-  {
     "repo": "easyplay-community/bbm",
     "name": "BBM",
     "author": "Master-Rus",
@@ -7731,6 +7819,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "To be filled"
+  },
+  {
+    "repo": "jafetlamval17/sandworks",
+    "name": "Sandworks",
+    "author": "JafetLamVal",
+    "lastUpdated": "2022-06-28T04:27:10Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I like sand. It's coarse and rough and irritating and it's everywhere. Wish I could shoot sand at my enemies, or build stuff with it. Huh."
   },
   {
     "repo": "kapzduke/publicmod",
@@ -7973,6 +8072,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
+  },
+  {
+    "repo": "pointifix/coreview",
+    "name": "Core View",
+    "author": "Pointifix",
+    "lastUpdated": "2022-08-16T13:15:44Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sets your camera position to your best core"
   },
   {
     "repo": "swirek3331/altanic",

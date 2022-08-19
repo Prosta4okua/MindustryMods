@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-19T18:22:46Z",
+    "lastUpdated": "2022-08-19T21:43:17Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -416,17 +416,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alerts you to enemy tech progression and unit production"
-  },
-  {
-    "repo": "p101q/uni",
-    "name": "UNI",
-    "author": "code: Qwaka\nsprites: plolq",
-    "lastUpdated": "2021-08-19T12:15:37Z",
-    "stars": 25,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1881,17 +1870,6 @@
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
   },
   {
-    "repo": "deltanedas/mindustry-2",
-    "name": "Mindustry 2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
-  },
-  {
     "repo": "l0615t1c5-216ac-9437/maxratecalculatorv6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "author": "L0615T1C5.216AC#9437",
@@ -3157,17 +3135,6 @@
     "description": "Adds an Item Transfer that allows you to exchange items with another teams"
   },
   {
-    "repo": "ovcaa/chaos-of-the-particle",
-    "name": "Chaos of the particle",
-    "author": "Ovca",
-    "lastUpdated": "2021-02-18T07:49:52Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New normal mod"
-  },
-  {
     "repo": "ar01zar/newworldmod",
     "name": "NewWorldMod",
     "author": "ArZar",
@@ -4365,17 +4332,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
-  },
-  {
-    "repo": "freezemandu/infinite-processor",
-    "name": "Infinite Processor",
-    "author": "Mandu",
-    "lastUpdated": "2021-07-14T08:20:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "austin5003/mohole",
@@ -5720,17 +5676,6 @@
     "description": "Bigger versions of basic blocks. Because I can."
   },
   {
-    "repo": "delourians/mindustry-mod",
-    "name": "Mindustry-mod",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
-  },
-  {
     "repo": "kerbalboy/mindustry-test-mod",
     "name": "TestMod",
     "author": "KerbalBoy",
@@ -6136,17 +6081,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make use of Exogenesis units."
-  },
-  {
-    "repo": "xenoforce/opmod",
-    "name": "opmod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-02-23T06:32:03Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod is over-powered. It makes the player stronger, and the enemy weaker."
   },
   {
     "repo": "choobyshroom8450/moreunitsmod",
@@ -7137,17 +7071,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a golden duo"
-  },
-  {
-    "repo": "kotmilkmeow/milkmod",
-    "name": "MilkMod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod for Mindustry"
   },
   {
     "repo": "memedustry/generic-mod",

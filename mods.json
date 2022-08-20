@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-20T03:39:28Z",
+    "lastUpdated": "2022-08-20T05:43:25Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -768,17 +768,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "mq-1175/vanilla-extension",
-    "name": "Vanilla Extension",
-    "author": "M.Q.",
-    "lastUpdated": "2022-08-07T06:07:23Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "thatonebepis/infinitodustry",
@@ -6768,7 +6757,7 @@
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-19T15:12:20Z",
+    "lastUpdated": "2022-08-20T06:06:13Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -8107,17 +8096,6 @@
     "description": "Are you a ZPGM member? No? So just ignore this."
   },
   {
-    "repo": "routerxdd/decaling",
-    "name": "Decaling",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-08-19T07:30:47Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Decaling is destroying all thing. Or not?"
-  },
-  {
     "repo": "yaminox7/mindustryneworesmod",
     "name": "Ores mod",
     "author": "Yaminox7",
@@ -8138,5 +8116,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"
+  },
+  {
+    "repo": "routerxdd/decaling",
+    "name": "Decaling",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-08-20T05:54:43Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Decaling is destroying all thing. Or not?"
   }
 ]

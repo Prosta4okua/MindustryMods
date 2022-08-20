@@ -136,7 +136,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-08-19T08:13:35Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -5357,6 +5357,17 @@
     "description": "Adds lot of things that are not existant for now."
   },
   {
+    "repo": "driftheque/breakingmindustry",
+    "name": "Breaking Mindustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-20T08:01:34Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
+  },
+  {
     "repo": "sirmachinegun/ebm",
     "name": "Experimental Blocks",
     "author": "SirMachinegun (EMPEROR#5403)",
@@ -6754,17 +6765,6 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
-    "repo": "driftheque/breakingmindustry",
-    "name": "Breaking Mindustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-20T06:06:13Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "nikisos/thebattlemod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -8127,5 +8127,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Decaling is destroying all thing. Or not?"
+  },
+  {
+    "repo": "jasmarkelina/tantros-mod",
+    "name": "Tantros",
+    "author": "Jasmarkelina",
+    "lastUpdated": "2022-08-20T08:07:41Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
   }
 ]

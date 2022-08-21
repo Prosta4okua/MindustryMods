@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-21T09:14:00Z",
-    "stars": 184,
+    "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -108,6 +108,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
+  },
+  {
+    "repo": "what42pizza/mindustry-production-mod",
+    "name": "Mindustry-Production-Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2022-08-21T20:19:51Z",
+    "stars": 67,
+    "minGameVersion": "126.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "slotterleet/goldmod",
@@ -407,17 +418,6 @@
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
-    "repo": "xeloboyo/pvp-notifs",
-    "name": "PvP notifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
-    "stars": 27,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
-  },
-  {
     "repo": "p101q/uni",
     "name": "UNI",
     "author": "code: Qwaka\nsprites: plolq",
@@ -462,6 +462,17 @@
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
+    "repo": "xstabux/omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "author": "StaBU",
+    "lastUpdated": "2022-08-13T03:12:00Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "happygingerwolf/inverted-machines",
     "name": "Inverted Machines",
     "author": "GingerWolf and MEEPofFaith",
@@ -504,17 +515,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "xstabux/omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "author": "StaBU",
-    "lastUpdated": "2022-08-13T03:12:00Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "meepoffaith/testing-utilities-java",
@@ -3930,12 +3930,34 @@
     "repo": "rayanz22/op-mod",
     "name": "OP Things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-21T20:06:12Z",
+    "lastUpdated": "2022-08-21T20:45:50Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things which game more easy, but isn't a hack."
+  },
+  {
+    "repo": "hubertbdlb/jobert_factories",
+    "name": "Stellar Mind",
+    "author": "Jobert Industries™",
+    "lastUpdated": "2022-08-21T21:40:19Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds lot of things that are not existant for now."
+  },
+  {
+    "repo": "hubertbdlb/stellarmind",
+    "name": "Stellar Mind",
+    "author": "Jobert Industries™",
+    "lastUpdated": "2022-08-21T21:40:19Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds lot of things that are not existant for now."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4541,17 +4563,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
-  },
-  {
-    "repo": "stacktrace-error/lithium-texture-pack",
-    "name": "Lithium Pack",
-    "author": "null/stacktrace-error",
-    "lastUpdated": "2021-10-18T11:18:39Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Texture pack that mimics the style of an older iteration of Mindustry's logic system. I've provided a couple alternative sprites in the mod's files and encourage you to PR your own ones if you'd like."
   },
   {
     "repo": "ilya246/quotestrings",
@@ -5355,28 +5366,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
-  },
-  {
-    "repo": "hubertbdlb/jobert_factories",
-    "name": "Stellar Mind",
-    "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-21T20:11:32Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds lot of things that are not existant for now."
-  },
-  {
-    "repo": "hubertbdlb/stellarmind",
-    "name": "Stellar Mind",
-    "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-21T20:11:32Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds lot of things that are not existant for now."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7491,17 +7480,6 @@
     "description": "adds Oxypoly"
   },
   {
-    "repo": "thomasthings/arcanealloys",
-    "name": "Arcane Alloys Mod",
-    "author": "Thomas's Things YT",
-    "lastUpdated": "2021-11-13T19:00:07Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An Hjson version of the mod I want to make in java because I'm dumb."
-  },
-  {
     "repo": "boople-beep/untiled-mindustry-mod",
     "name": "Boo's Mod.",
     "author": "Yourself",
@@ -8154,9 +8132,9 @@
     "repo": "yaminox7/mindustryneworesmod",
     "name": "Ores mod",
     "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T18:01:44Z",
+    "lastUpdated": "2022-08-21T21:18:38Z",
     "stars": 0,
-    "minGameVersion": "126.2",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"
@@ -8165,9 +8143,9 @@
     "repo": "yaminox7/oresmod",
     "name": "Ores mod",
     "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T18:01:44Z",
+    "lastUpdated": "2022-08-21T21:18:38Z",
     "stars": 0,
-    "minGameVersion": "126.2",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"

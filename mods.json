@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-08-21T09:14:00Z",
-    "stars": 183,
+    "stars": 184,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-21T06:16:40Z",
+    "lastUpdated": "2022-08-21T15:45:36Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -212,8 +212,8 @@
     "repo": "sharlottes/sharustry",
     "name": "Sharustry",
     "author": "Sharlottes",
-    "lastUpdated": "2022-08-21T03:15:22Z",
-    "stars": 45,
+    "lastUpdated": "2022-08-21T15:00:52Z",
+    "stars": 46,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -300,7 +300,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-21T14:03:20Z",
+    "lastUpdated": "2022-08-21T15:58:21Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2014,9 +2014,9 @@
   },
   {
     "repo": "slotterleet/hard-mode-mod",
-    "name": "hard-mode-mod",
+    "name": "Hard Mode",
     "author": "Slotterleet",
-    "lastUpdated": "2022-08-21T09:29:11Z",
+    "lastUpdated": "2022-08-21T15:42:46Z",
     "stars": 6,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -3930,7 +3930,7 @@
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
-    "lastUpdated": "2022-08-21T11:40:38Z",
+    "lastUpdated": "2022-08-21T15:34:49Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5346,17 +5346,6 @@
     "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
   },
   {
-    "repo": "cluet-op/green-technology",
-    "name": "Green-Technologies",
-    "author": " CLUET",
-    "lastUpdated": "2022-08-21T10:55:32Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
-  },
-  {
     "repo": "hubertbdlb/jobert_factories",
     "name": "Stellar Mind",
     "author": "Jobert Industries™",
@@ -5377,6 +5366,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds lot of things that are not existant for now."
+  },
+  {
+    "repo": "cluet-op/green-technology",
+    "name": "Green-Technologies",
+    "author": " CLUET",
+    "lastUpdated": "2022-08-21T15:34:27Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -8107,17 +8107,6 @@
     "description": "Sets all bundle values to their keys. Useful when scraping data using Pulverizer."
   },
   {
-    "repo": "rly4498/hmm",
-    "name": "Hmm",
-    "author": "Rly4498",
-    "lastUpdated": "2022-08-21T09:17:00Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary) content to the game."
-  },
-  {
     "repo": "zeutd/degradation",
     "name": "degradation",
     "author": "zeutd",
@@ -8171,5 +8160,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"
+  },
+  {
+    "repo": "rly4498/hmm",
+    "name": "Hmm",
+    "author": "Rly4498",
+    "lastUpdated": "2022-08-21T15:20:23Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary) content to the game."
   }
 ]

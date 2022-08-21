@@ -300,7 +300,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-21T15:58:21Z",
+    "lastUpdated": "2022-08-21T17:59:10Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1980,17 +1980,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "r-omnom/z.p.g.m._mod",
-    "name": "Z.P.G.M._Mod",
-    "author": "r_omnom7",
-    "lastUpdated": "2022-08-11T16:42:50Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
-  },
-  {
     "repo": "mnemotechnician/new-console",
     "name": "New Console",
     "author": "Mnemotechnician",
@@ -2022,6 +2011,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Wave enemies have 1.6x health. Power generators are 33.(3)% less effective."
+  },
+  {
+    "repo": "r-omnom/z.p.g.m._mod",
+    "name": "Z.P.G.M._Mod",
+    "author": "r_omnom7",
+    "lastUpdated": "2022-08-21T17:14:36Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3916,17 +3916,6 @@
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
-    "repo": "rayanz22/op-mod",
-    "name": "OP Things",
-    "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-20T20:51:01Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "OP Things which game more easy, but isn't a hack."
-  },
-  {
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
@@ -3936,6 +3925,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Is a thing."
+  },
+  {
+    "repo": "rayanz22/op-mod",
+    "name": "OP Things",
+    "author": "ABÊ#8931",
+    "lastUpdated": "2022-08-21T17:46:06Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "OP Things which game more easy, but isn't a hack."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -8140,10 +8140,21 @@
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
+    "repo": "rly4498/hmm",
+    "name": "Hmm",
+    "author": "Rly4498",
+    "lastUpdated": "2022-08-21T15:20:23Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary) content to the game."
+  },
+  {
     "repo": "yaminox7/mindustryneworesmod",
     "name": "Ores mod",
     "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T13:09:27Z",
+    "lastUpdated": "2022-08-21T18:01:44Z",
     "stars": 0,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -8154,22 +8165,11 @@
     "repo": "yaminox7/oresmod",
     "name": "Ores mod",
     "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T13:09:27Z",
+    "lastUpdated": "2022-08-21T18:01:44Z",
     "stars": 0,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"
-  },
-  {
-    "repo": "rly4498/hmm",
-    "name": "Hmm",
-    "author": "Rly4498",
-    "lastUpdated": "2022-08-21T15:20:23Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary) content to the game."
   }
 ]

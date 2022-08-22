@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-22T07:59:25Z",
+    "lastUpdated": "2022-08-22T10:03:03Z",
     "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-21T15:45:36Z",
+    "lastUpdated": "2022-08-22T10:10:01Z",
     "stars": 80,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -223,7 +223,7 @@
     "repo": "sharlottes/sharustry",
     "name": "Sharustry",
     "author": "Sharlottes",
-    "lastUpdated": "2022-08-21T15:00:52Z",
+    "lastUpdated": "2022-08-22T08:30:39Z",
     "stars": 46,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -352,17 +352,6 @@
     "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
-    "repo": "goobrr/amogus",
-    "name": "amogus",
-    "author": "Goober",
-    "lastUpdated": "2022-01-25T09:00:29Z",
-    "stars": 30,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "amogus"
-  },
-  {
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
@@ -383,6 +372,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JavaScript only mindustry mod."
+  },
+  {
+    "repo": "goobrr/amogus",
+    "name": "amogus",
+    "author": "Goober",
+    "lastUpdated": "2022-01-25T09:00:29Z",
+    "stars": 29,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "amogus"
   },
   {
     "repo": "pixecoz/mindustryschematics",
@@ -2057,6 +2057,17 @@
     "description": "Добавляет счётчик урона в секунду. Adds a damage per second meter."
   },
   {
+    "repo": "qmelz/v5dustry",
+    "name": "v5dustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-01-29T15:34:02Z",
+    "stars": 5,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds v5 features"
+  },
+  {
     "repo": "spaceearthex/letter-sound-effect",
     "name": "Letter sound effect",
     "author": "SpaceEarthEX",
@@ -2528,17 +2539,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Buffs Gamma"
-  },
-  {
-    "repo": "qmelz/v5dustry",
-    "name": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 4,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
   },
   {
     "repo": "nuclear-bomb/inverse",

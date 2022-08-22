@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-21T09:14:00Z",
+    "lastUpdated": "2022-08-21T23:51:37Z",
     "stars": 185,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -113,7 +113,7 @@
     "repo": "what42pizza/mindustry-production-mod",
     "name": "Mindustry-Production-Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-21T20:19:51Z",
+    "lastUpdated": "2022-08-21T23:08:33Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -416,6 +416,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
+  },
+  {
+    "repo": "xeloboyo/pvp-notifs",
+    "name": "PvP notifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 27,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "p101q/uni",
@@ -1760,17 +1771,6 @@
     "description": "A mod that thats various factorio things"
   },
   {
-    "repo": "emanuelg-gaming/emanuels-mod",
-    "name": "Emanuel's Mod",
-    "author": "Emanuel G",
-    "lastUpdated": "2021-01-05T19:54:27Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds a bunch of stuff"
-  },
-  {
     "repo": "gdeft/hackdustry",
     "name": "Hackdustry",
     "author": "Gdeft",
@@ -2552,17 +2552,6 @@
     "description": "A mod that adds walls made of every buildable material"
   },
   {
-    "repo": "cherriodude/jac",
-    "name": "Just Another Crafter",
-    "author": "Cherrio",
-    "lastUpdated": "2021-02-11T11:16:37Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds more production blocks."
-  },
-  {
     "repo": "yaroslav242/recompensator-mod",
     "name": "recompensator-mod",
     "author": "Yaroslav242",
@@ -2583,17 +2572,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that made in a week.\nМод, сделанный за неделю"
-  },
-  {
-    "repo": "janssendel/roomber-n-wack",
-    "name": "[ff000]Roomber-N -Wack",
-    "author": "Roomber",
-    "lastUpdated": "2021-04-17T04:24:58Z",
-    "stars": 4,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod. Demonstrates how to make wack  and stuff."
   },
   {
     "repo": "pixaxeofpixie/azureflaretech",
@@ -3773,6 +3751,17 @@
     "description": "Write some developers of teeworks into the game!"
   },
   {
+    "repo": "yukusoh/hardustry-mod",
+    "name": "Hardustry",
+    "author": "YukuSOH",
+    "lastUpdated": "2022-06-21T12:58:58Z",
+    "stars": 3,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod make this game difficult."
+  },
+  {
     "repo": "mythril382/colorednames",
     "name": "Colored Names",
     "author": "Mythril",
@@ -3941,7 +3930,7 @@
     "repo": "hubertbdlb/jobert_factories",
     "name": "Stellar Mind",
     "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-21T21:40:19Z",
+    "lastUpdated": "2022-08-21T22:49:42Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3952,7 +3941,7 @@
     "repo": "hubertbdlb/stellarmind",
     "name": "Stellar Mind",
     "author": "Jobert Industries™",
-    "lastUpdated": "2022-08-21T21:40:19Z",
+    "lastUpdated": "2022-08-21T22:49:42Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4035,17 +4024,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " a test mod that adds useless gold\n also adds a useless miner\n also make u can hear the legendary musicof red alert 2\n oh you dont know what is red alert 2, google it"
-  },
-  {
-    "repo": "scolarironfist/unitcapmod",
-    "name": "unit cap modifier",
-    "author": "Scolar Iron Fist",
-    "lastUpdated": "2021-02-06T22:35:33Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modifies unit cap"
   },
   {
     "repo": "sakuralilly/powered-by-nature",
@@ -4554,15 +4532,15 @@
     "description": "The mod displays more information ingame, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
-    "repo": "theefficientinefficient/progressivetech",
-    "name": "Progressive Tech",
-    "author": "TheEfficientInefficient",
-    "lastUpdated": "2021-10-10T13:44:12Z",
+    "repo": "stacktrace-error/lithium-texture-pack",
+    "name": "Lithium Pack",
+    "author": "null/stacktrace-error",
+    "lastUpdated": "2021-10-18T11:18:39Z",
     "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": false,
+    "minGameVersion": "126",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
+    "description": "Texture pack that mimics the style of an older iteration of Mindustry's logic system. I've provided a couple alternative sprites in the mod's files and encourage you to PR your own ones if you'd like."
   },
   {
     "repo": "ilya246/quotestrings",
@@ -5102,17 +5080,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
-  },
-  {
-    "repo": "yukusoh/hardustry-mod",
-    "name": "Hardustry",
-    "author": "YukuSOH",
-    "lastUpdated": "2022-06-21T12:58:58Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod make this game difficult."
   },
   {
     "repo": "youngterror3/mindustryjavamod",
@@ -5819,17 +5786,6 @@
     "description": "this mod adds stuff and things."
   },
   {
-    "repo": "mnemotechnician/testarea-public",
-    "name": "Testarea",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-09-25T16:13:10Z",
-    "stars": 1,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some random java things, useful or not. Basically I'm implementing my random ideas here.\n\nMay and will not be compatible with multiplayer.\n\nNow introducing: a core with 8 independent turrets!\nAnti-routerchain protection!"
-  },
-  {
     "repo": "mikka6489/engineer-gaming",
     "name": "engineer-gaming",
     "author": "Mikka & Westycj",
@@ -6237,17 +6193,6 @@
     "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
-    "repo": "routerxdd/td-mod",
-    "name": "TD mod",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-03-26T06:20:10Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for TD maps"
-  },
-  {
     "repo": "ixgamerxl/gsfsbars",
     "name": "GSF's Bars",
     "author": "GSF",
@@ -6314,17 +6259,6 @@
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
-    "repo": "cocucka-xd/reloadedmod",
-    "name": "Reloaded",
-    "author": "CoCuCka",
-    "lastUpdated": "2022-04-16T11:03:50Z",
-    "stars": 1,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
-  },
-  {
     "repo": "gavitsra/tsr-easy-reusable-commands",
     "name": "TSR Easy Reusable Commands",
     "author": "GaviTSRA",
@@ -6378,17 +6312,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
-  },
-  {
-    "repo": "raoul1808/routermageddon",
-    "name": "Routermageddon",
-    "author": "Raoul1808",
-    "lastUpdated": "2022-05-08T16:12:39Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
   },
   {
     "repo": "azhurniybaklan/erekir-utilities",
@@ -7480,6 +7403,17 @@
     "description": "adds Oxypoly"
   },
   {
+    "repo": "thomasthings/arcanealloys",
+    "name": "Arcane Alloys Mod",
+    "author": "Thomas's Things YT",
+    "lastUpdated": "2021-11-13T19:00:07Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An Hjson version of the mod I want to make in java because I'm dumb."
+  },
+  {
     "repo": "boople-beep/untiled-mindustry-mod",
     "name": "Boo's Mod.",
     "author": "Yourself",
@@ -8130,17 +8064,6 @@
   },
   {
     "repo": "yaminox7/mindustryneworesmod",
-    "name": "Ores mod",
-    "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T21:18:38Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is my first mod on Mindustry"
-  },
-  {
-    "repo": "yaminox7/oresmod",
     "name": "Ores mod",
     "author": "Yaminox7",
     "lastUpdated": "2022-08-21T21:18:38Z",

@@ -1628,6 +1628,17 @@
     "description": "project Solarys\n<unstable version> 1.0 alpha\n."
   },
   {
+    "repo": "vvseangtvv/v5-classic",
+    "name": "V5 Reborn",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2022-05-02T00:44:56Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
+  },
+  {
     "repo": "deltanedas/speed",
     "name": "Speed",
     "author": "deltanedas",
@@ -1912,17 +1923,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Collection of joke blocks"
-  },
-  {
-    "repo": "vvseangtvv/v5-classic",
-    "name": "V5 Reborn",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2022-05-02T00:44:56Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
   },
   {
     "repo": "deltanedas/waisa",
@@ -4486,6 +4486,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New units and defenses for  all stages of the game.  Not complete also Looking for spriter!"
+  },
+  {
+    "repo": "smolkeys/animebundles",
+    "name": "Anime Bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-09-08T15:52:16Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "death awaits me"
   },
   {
     "repo": "farmerthanos/music-replacer",
@@ -8129,17 +8140,6 @@
     "description": "群:606757250"
   },
   {
-    "repo": "konkitoman/speedctlman",
-    "name": "SpeedCtlMan",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-21T12:49:34Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
-  },
-  {
     "repo": "rly4498/hmm",
     "name": "Hmm",
     "author": "Rly4498",
@@ -8171,5 +8171,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is my first mod on Mindustry"
+  },
+  {
+    "repo": "konkitoman/speedctlman",
+    "name": "SpeedCtlMan",
+    "author": "konkitoman",
+    "lastUpdated": "2022-08-22T06:05:19Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   }
 ]

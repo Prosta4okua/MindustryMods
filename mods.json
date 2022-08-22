@@ -1320,17 +1320,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-21T12:24:08Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -1340,6 +1329,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-22T01:18:09Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1716,6 +1716,17 @@
     "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-08-14T13:21:54Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superiour to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "TeamNeiaron",
@@ -1769,6 +1780,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that thats various factorio things"
+  },
+  {
+    "repo": "emanuelg-gaming/emanuels-mod",
+    "name": "Emanuel's Mod",
+    "author": "Emanuel G",
+    "lastUpdated": "2021-01-05T19:54:27Z",
+    "stars": 6,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds a bunch of stuff"
   },
   {
     "repo": "gdeft/hackdustry",
@@ -1978,17 +2000,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-14T13:21:54Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superiour to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2552,6 +2563,17 @@
     "description": "A mod that adds walls made of every buildable material"
   },
   {
+    "repo": "cherriodude/jac",
+    "name": "Just Another Crafter",
+    "author": "Cherrio",
+    "lastUpdated": "2021-02-11T11:16:37Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds more production blocks."
+  },
+  {
     "repo": "yaroslav242/recompensator-mod",
     "name": "recompensator-mod",
     "author": "Yaroslav242",
@@ -2572,6 +2594,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that made in a week.\nМод, сделанный за неделю"
+  },
+  {
+    "repo": "janssendel/roomber-n-wack",
+    "name": "[ff000]Roomber-N -Wack",
+    "author": "Roomber",
+    "lastUpdated": "2021-04-17T04:24:58Z",
+    "stars": 4,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod. Demonstrates how to make wack  and stuff."
   },
   {
     "repo": "pixaxeofpixie/azureflaretech",
@@ -4026,6 +4059,17 @@
     "description": " a test mod that adds useless gold\n also adds a useless miner\n also make u can hear the legendary musicof red alert 2\n oh you dont know what is red alert 2, google it"
   },
   {
+    "repo": "scolarironfist/unitcapmod",
+    "name": "unit cap modifier",
+    "author": "Scolar Iron Fist",
+    "lastUpdated": "2021-02-06T22:35:33Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modifies unit cap"
+  },
+  {
     "repo": "sakuralilly/powered-by-nature",
     "name": "Powered by Nature",
     "author": "SakuraLilly",
@@ -4530,6 +4574,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information ingame, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "theefficientinefficient/progressivetech",
+    "name": "Progressive Tech",
+    "author": "TheEfficientInefficient",
+    "lastUpdated": "2021-10-10T13:44:12Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
   },
   {
     "repo": "stacktrace-error/lithium-texture-pack",
@@ -5327,7 +5382,7 @@
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
-    "lastUpdated": "2022-08-21T15:34:27Z",
+    "lastUpdated": "2022-08-22T03:49:00Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5786,6 +5841,17 @@
     "description": "this mod adds stuff and things."
   },
   {
+    "repo": "mnemotechnician/testarea-public",
+    "name": "Testarea",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-09-25T16:13:10Z",
+    "stars": 1,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some random java things, useful or not. Basically I'm implementing my random ideas here.\n\nMay and will not be compatible with multiplayer.\n\nNow introducing: a core with 8 independent turrets!\nAnti-routerchain protection!"
+  },
+  {
     "repo": "mikka6489/engineer-gaming",
     "name": "engineer-gaming",
     "author": "Mikka & Westycj",
@@ -6193,6 +6259,17 @@
     "description": "Experimental mod that allows for creation of custom units based on a mix-and-match weapon mounting system."
   },
   {
+    "repo": "routerxdd/td-mod",
+    "name": "TD mod",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-03-26T06:20:10Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for TD maps"
+  },
+  {
     "repo": "ixgamerxl/gsfsbars",
     "name": "GSF's Bars",
     "author": "GSF",
@@ -6259,6 +6336,17 @@
     "description": "A mod add the 5 fracties: \nElementals \nRouters \nShapes \nEyes \nCores\nThis mod I make to rest from Xsoverd-Remake\nЭтот мод я сделал чтобы отдохнуть от Xsoverd-Remake"
   },
   {
+    "repo": "cocucka-xd/reloadedmod",
+    "name": "Reloaded",
+    "author": "CoCuCka",
+    "lastUpdated": "2022-04-16T11:03:50Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+  },
+  {
     "repo": "gavitsra/tsr-easy-reusable-commands",
     "name": "TSR Easy Reusable Commands",
     "author": "GaviTSRA",
@@ -6312,6 +6400,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
+  },
+  {
+    "repo": "raoul1808/routermageddon",
+    "name": "Routermageddon",
+    "author": "Raoul1808",
+    "lastUpdated": "2022-05-08T16:12:39Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes router chains a lot more efficient at teaching the player why these are bad design choices."
   },
   {
     "repo": "azhurniybaklan/erekir-utilities",
@@ -8064,6 +8163,17 @@
   },
   {
     "repo": "yaminox7/mindustryneworesmod",
+    "name": "Ores mod",
+    "author": "Yaminox7",
+    "lastUpdated": "2022-08-21T21:18:38Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is my first mod on Mindustry"
+  },
+  {
+    "repo": "yaminox7/oresmod",
     "name": "Ores mod",
     "author": "Yaminox7",
     "lastUpdated": "2022-08-21T21:18:38Z",

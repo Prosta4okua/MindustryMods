@@ -213,7 +213,7 @@
     "name": "Lead Industries",
     "author": "PetruCHIOrus",
     "lastUpdated": "2021-01-17T18:21:16Z",
-    "stars": 46,
+    "stars": 47,
     "minGameVersion": "122",
     "hasScripts": true,
     "hasJava": false,
@@ -224,7 +224,7 @@
     "name": "Sharustry",
     "author": "Sharlottes",
     "lastUpdated": "2022-08-24T02:49:18Z",
-    "stars": 46,
+    "stars": 45,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -301,7 +301,7 @@
     "name": "Developer Mode",
     "author": "deltanedas",
     "lastUpdated": "2022-06-29T13:03:00Z",
-    "stars": 33,
+    "stars": 34,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -374,6 +374,17 @@
     "description": "JavaScript only mindustry mod."
   },
   {
+    "repo": "flintyx/diversetech",
+    "name": "DiverseTech",
+    "author": "Flin",
+    "lastUpdated": "2021-12-10T20:17:23Z",
+    "stars": 29,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
+  },
+  {
     "repo": "goobrr/amogus",
     "name": "amogus",
     "author": "Goober",
@@ -383,17 +394,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "flintyx/diversetech",
-    "name": "DiverseTech",
-    "author": "Flin",
-    "lastUpdated": "2021-12-10T20:17:23Z",
-    "stars": 28,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
     "repo": "pixecoz/mindustryschematics",
@@ -429,10 +429,21 @@
     "description": "Alerts you to enemy tech progression and unit production"
   },
   {
+    "repo": "xstabux/omaloon-mod-public",
+    "name": "Omaloon-Mod",
+    "author": "StaBU",
+    "lastUpdated": "2022-08-13T03:12:00Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod. Adds mostly unique content."
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "author": "oxynoe",
-    "lastUpdated": "2022-02-23T02:13:21Z",
+    "lastUpdated": "2022-08-24T10:11:29Z",
     "stars": 25,
     "minGameVersion": "130.1",
     "hasScripts": true,
@@ -471,17 +482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
-    "repo": "xstabux/omaloon-mod-public",
-    "name": "Omaloon-Mod",
-    "author": "StaBU",
-    "lastUpdated": "2022-08-13T03:12:00Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first mod. Adds mostly unique content."
   },
   {
     "repo": "happygingerwolf/inverted-machines",
@@ -539,6 +539,17 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
+    "repo": "aureusstratus/advancements",
+    "name": "Advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-04-03T00:43:31Z",
+    "stars": 21,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "mindustryinside/mindustryclassicified",
     "name": "Mindustry Classicified",
     "author": "BasedUser, Félix Córvus",
@@ -548,6 +559,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
+  },
+  {
+    "repo": "therealivyx/moredefences",
+    "name": "MoreDefences Classic",
+    "author": "IvyX",
+    "lastUpdated": "2022-07-06T15:41:13Z",
+    "stars": 21,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -572,17 +594,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "aureusstratus/advancements",
-    "name": "Advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-04-03T00:43:31Z",
-    "stars": 20,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
-  },
-  {
     "repo": "sk7725/testers",
     "name": "Testers",
     "author": "sk7725",
@@ -592,17 +603,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "therealivyx/moredefences",
-    "name": "MoreDefences Classic",
-    "author": "IvyX",
-    "lastUpdated": "2022-07-06T15:41:13Z",
-    "stars": 20,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "ferlern/extended-ui",
@@ -858,6 +858,17 @@
     "description": "EXP Library for 6.0!"
   },
   {
+    "repo": "snakkizxz/coppermod",
+    "name": "Coppermod",
+    "author": "Snakki",
+    "lastUpdated": "2021-10-22T17:05:44Z",
+    "stars": 13,
+    "minGameVersion": "115",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Немного читов"
+  },
+  {
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "author": "Uujuju",
@@ -878,6 +889,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Trying Kotlin."
+  },
+  {
+    "repo": "just-a-unity-dev/atomdustry",
+    "name": "Atomdustry",
+    "author": "eclips_e#0001",
+    "lastUpdated": "2022-05-04T08:00:10Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
   },
   {
     "repo": "dagamerfiles/classic-music",
@@ -968,17 +990,6 @@
     "description": "Mindustry auto updater"
   },
   {
-    "repo": "snakkizxz/coppermod",
-    "name": "Coppermod",
-    "author": "Snakki",
-    "lastUpdated": "2021-10-22T17:05:44Z",
-    "stars": 12,
-    "minGameVersion": "115",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Немного читов"
-  },
-  {
     "repo": "goobrr/goobriculture",
     "name": "Goobriculture",
     "author": "Goober",
@@ -988,17 +999,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "just-a-unity-dev/atomdustry",
-    "name": "Atomdustry",
-    "author": "eclips_e#0001",
-    "lastUpdated": "2022-05-04T08:00:10Z",
-    "stars": 12,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
   },
   {
     "repo": "mythril382/roombas",
@@ -2090,17 +2090,6 @@
     "description": "adds v5 features"
   },
   {
-    "repo": "spaceearthex/letter-sound-effect",
-    "name": "Letter sound effect",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2021-03-01T14:02:17Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
     "repo": "reborntrack970/multiplayerntnt",
     "name": "Multiplayern'tn't",
     "author": "RTOmega",
@@ -2497,17 +2486,6 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "cristian-blackture/acm",
-    "name": "ACM",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-15T10:50:50Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
-  },
-  {
     "repo": "wmf-industries/terios",
     "name": "Terios",
     "author": "WMF Industries",
@@ -2539,6 +2517,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds descriptions for the new Erekir content."
+  },
+  {
+    "repo": "cristian-blackture/acm",
+    "name": "ACM",
+    "author": "Cristian BlackTure And Dom",
+    "lastUpdated": "2022-08-24T09:28:20Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -3243,17 +3232,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
-  },
-  {
-    "repo": "nyancat1234/water-god-mod",
-    "name": "Water God Mod",
-    "author": "nyancat1234",
-    "lastUpdated": "2021-04-12T06:03:33Z",
-    "stars": 3,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod allows us to extract all materials in water"
   },
   {
     "repo": "glennfolker/enumodify-mod",
@@ -3971,17 +3949,6 @@
     "description": "Adds a few blocks and logic instructions."
   },
   {
-    "repo": "emanuelg-gaming/mindustry-raycaster",
-    "name": "Mindustry Raycaster",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-23T14:03:31Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Toggles a flashlight when there is ambient light. Purely a visual mod."
-  },
-  {
     "repo": "hubertbdlb/stellarmind",
     "name": "Stellar Mind",
     "author": "Jobert [#bebebe]Industries[]",
@@ -3991,6 +3958,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not that much, still very new.\n\nSupport Language: English and French."
+  },
+  {
+    "repo": "emanuelg-gaming/mindustry-raycaster",
+    "name": "Mindustry Raycaster",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-24T08:47:58Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Toggles a flashlight when there is ambient light. Purely a visual mod."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -5223,17 +5201,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
-  },
-  {
-    "repo": "mythril382/yawym",
-    "name": "Y. A. W. Y. M.",
-    "author": "Mythril",
-    "lastUpdated": "2022-07-26T04:56:30Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
     "repo": "mcdra135/sorterimages",
@@ -6801,7 +6768,7 @@
     "repo": "mnemotechnician/ui-debugger",
     "name": "UI Debugger",
     "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-23T15:37:38Z",
+    "lastUpdated": "2022-08-24T09:16:22Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8198,7 +8165,7 @@
     "repo": "duvent-mindustry/rust_dadditions",
     "name": "Rust_d Additions",
     "author": "Rust_d",
-    "lastUpdated": "2022-08-24T07:13:04Z",
+    "lastUpdated": "2022-08-24T09:05:08Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,

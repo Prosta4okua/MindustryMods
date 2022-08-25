@@ -781,17 +781,6 @@
     "description": "Explore minerals and mechanisms."
   },
   {
-    "repo": "z0mbiesrock/larger-cores",
-    "name": "Larger Cores",
-    "author": "z0mbiesrock",
-    "lastUpdated": "2022-07-06T10:29:29Z",
-    "stars": 15,
-    "minGameVersion": "112",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds T4 and T5 Cores."
-  },
-  {
     "repo": "thatonebepis/infinitodustry",
     "name": "Infinitodustry",
     "author": "Bepis",
@@ -1345,7 +1334,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-24T12:29:17Z",
+    "lastUpdated": "2022-08-25T01:35:16Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1494,17 +1483,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
-  },
-  {
-    "repo": "lightertimes/block-placer",
-    "name": "Block Placer",
-    "author": "Light",
-    "lastUpdated": "2022-08-17T21:59:08Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
   },
   {
     "repo": "lottievixen/2xconveyors",
@@ -2605,17 +2583,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
-  },
-  {
-    "repo": "1qwaka/adronium-mod",
-    "name": "Adronium mod",
-    "author": "Дикая пчела",
-    "lastUpdated": "2021-03-28T21:20:34Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that made in a week.\nМод, сделанный за неделю"
   },
   {
     "repo": "janssendel/roomber-n-wack",
@@ -4301,17 +4268,6 @@
     "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
   },
   {
-    "repo": "bluetechnocat/infinitum-mod",
-    "name": "Infinitum Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-05-13T21:56:13Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that creates the most powerful material ever made"
-  },
-  {
     "repo": "qmelz/computer-begone",
     "name": "Computer Begone",
     "author": "QmelZ",
@@ -5093,17 +5049,6 @@
     "description": "its all alpha-chan"
   },
   {
-    "repo": "iarkn/riim",
-    "name": "Riim",
-    "author": "iarkn",
-    "lastUpdated": "2022-05-28T06:34:13Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "TBA"
-  },
-  {
     "repo": "balam314/no-invasions",
     "name": "No Invasions",
     "author": "BalaM314",
@@ -5393,7 +5338,7 @@
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina",
-    "lastUpdated": "2022-08-24T17:21:37Z",
+    "lastUpdated": "2022-08-25T01:56:53Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5751,17 +5696,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Bigger versions of basic blocks. Because I can."
-  },
-  {
-    "repo": "delourians/mindustry-mod",
-    "name": "Mindustry-mod",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Finish the campaign....NOW"
   },
   {
     "repo": "kerbalboy/mindustry-test-mod",

@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-08-24T14:41:44Z",
-    "stars": 112,
+    "stars": 113,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -311,7 +311,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-25T14:06:15Z",
+    "lastUpdated": "2022-08-25T15:21:36Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -2533,7 +2533,7 @@
     "repo": "cristian-blackture/acm",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-24T09:28:20Z",
+    "lastUpdated": "2022-08-25T15:45:48Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3364,6 +3364,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a description."
+  },
+  {
+    "repo": "thebestkillertbk/anukenmod",
+    "name": "Anuken mod",
+    "author": "TBK",
+    "lastUpdated": "2021-05-26T11:34:55Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Anuken"
   },
   {
     "repo": "freezemandu/minzoom",
@@ -8173,17 +8184,6 @@
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
-    "repo": "darealmonika/eriker-logic",
-    "name": "Erekir Logic",
-    "author": "Akinom",
-    "lastUpdated": "2022-08-23T13:02:56Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds logic blocks for erekir."
-  },
-  {
     "repo": "duvent-mindustry/rust_dadditions",
     "name": "Rust_d Additions",
     "author": "Rust_d",
@@ -8193,5 +8193,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "random content i think of once in a while"
+  },
+  {
+    "repo": "darealmonika/eriker-logic",
+    "name": "Erekir Logic",
+    "author": "Akinom",
+    "lastUpdated": "2022-08-25T14:24:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
   }
 ]

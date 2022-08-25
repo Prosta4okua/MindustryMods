@@ -5379,17 +5379,6 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
-    "repo": "driftheque/breakingmindustry",
-    "name": "Breaking Mindustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-24T14:24:02Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina",
@@ -5399,6 +5388,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
+  },
+  {
+    "repo": "driftheque/breakingmindustry",
+    "name": "Breaking Mindustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-25T12:14:47Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "sirmachinegun/ebm",

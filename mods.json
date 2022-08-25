@@ -158,7 +158,7 @@
     "name": "UI Lib",
     "author": "deltanedas",
     "lastUpdated": "2022-07-16T02:37:54Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -311,7 +311,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-25T15:21:36Z",
+    "lastUpdated": "2022-08-25T16:57:54Z",
     "stars": 33,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1760,6 +1760,17 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
+    "repo": "slotterleet/hard-mode-mod",
+    "name": "Hard Mode",
+    "author": "Slotterleet",
+    "lastUpdated": "2022-08-21T18:47:59Z",
+    "stars": 7,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
+  },
+  {
     "repo": "mnemotechnician/new-console",
     "name": "New Console",
     "author": "Mnemotechnician",
@@ -2044,17 +2055,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
-  },
-  {
-    "repo": "slotterleet/hard-mode-mod",
-    "name": "Hard Mode",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-08-21T18:47:59Z",
-    "stars": 6,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3985,12 +3985,12 @@
     "repo": "rayanz22/op-mod",
     "name": "OP Things",
     "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-24T22:08:00Z",
+    "lastUpdated": "2022-08-25T18:07:29Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "OP Things which game more easy, but isn't a hack. /n A lot of the mod things are just some shit."
+    "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -6644,6 +6644,17 @@
     "description": "A small pack of units and turrets made to test out modding in v7"
   },
   {
+    "repo": "blackdeluxecat/vanillatoolkittexturepack",
+    "name": "VanillaToolkitTexturePack",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-07-21T14:17:53Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Texture Pack For Better Vanilla Gameplay."
+  },
+  {
     "repo": "pankiwi/router-corruption",
     "name": "router Birus",
     "author": "'\nMod Creator: Pankiwi ",
@@ -7907,17 +7918,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "alpha 0.1"
-  },
-  {
-    "repo": "blackdeluxecat/vanillatoolkittexturepack",
-    "name": "VanillaToolkitTexturePack",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-07-21T14:17:53Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Texture Pack For Better Vanilla Gameplay."
   },
   {
     "repo": "smolkeys/experiments",

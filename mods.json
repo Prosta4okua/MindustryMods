@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 161,
+    "stars": 163,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -1345,7 +1345,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-26T01:24:33Z",
+    "lastUpdated": "2022-08-26T12:29:26Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -8151,17 +8151,6 @@
     "description": "Roll the dice.\n\nAdds totally appropriate, befitting, felicitous, fit, fitting, meet, proper, right, suitable (source: an online dictionary) content to the game."
   },
   {
-    "repo": "yaminox7/oresmod",
-    "name": "Ores mod",
-    "author": "Yaminox7",
-    "lastUpdated": "2022-08-21T21:18:38Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is my first mod on Mindustry"
-  },
-  {
     "repo": "konkitoman/speedctlman",
     "name": "SpeedCtlMan",
     "author": "konkitoman",
@@ -8204,5 +8193,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fügt Sachen hinzu"
+  },
+  {
+    "repo": "yaminox7/oresmod",
+    "name": "Ores mod",
+    "author": "Yaminox7",
+    "lastUpdated": "2022-08-26T13:57:07Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is my first mod on Mindustry"
   }
 ]

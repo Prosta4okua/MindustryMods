@@ -1345,7 +1345,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-25T12:30:22Z",
+    "lastUpdated": "2022-08-26T01:24:33Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1582,17 +1582,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
-  },
-  {
-    "repo": "p101q/snowdustry",
-    "name": "Snowydustry",
-    "author": "Mindustry [RU] inc.",
-    "lastUpdated": "2021-12-30T12:54:28Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A fun mod for a fun New Year's event"
   },
   {
     "repo": "pixecoz/maps-pack",
@@ -5357,17 +5346,6 @@
     "description": "- 全新ui\n- 修复一些bug"
   },
   {
-    "repo": "mega-industries/mega-additions",
-    "name": "Mega Additions",
-    "author": "Mega Industries",
-    "lastUpdated": "2022-08-22T20:37:52Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a lot of content."
-  },
-  {
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
@@ -5399,6 +5377,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done"
+  },
+  {
+    "repo": "mega-industries/mega-additions",
+    "name": "Mega Additions",
+    "author": "Mega Industries",
+    "lastUpdated": "2022-08-26T03:16:05Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a lot of content."
   },
   {
     "repo": "sirmachinegun/ebm",

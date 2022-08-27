@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-08-21T07:10:58Z",
-    "stars": 163,
+    "stars": 164,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -729,7 +729,7 @@
     "repo": "driftheque/binary0011",
     "name": "Binary0011",
     "author": "1237",
-    "lastUpdated": "2022-08-23T13:58:49Z",
+    "lastUpdated": "2022-08-27T08:37:48Z",
     "stars": 16,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1188,6 +1188,17 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-08-27T07:26:40Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
     "repo": "sk7725/immundustry",
     "name": "Immundustry",
     "author": "sk7725",
@@ -1329,17 +1340,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
-  },
-  {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-22T04:35:58Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "mindustryinside/l1337n",
@@ -1505,6 +1505,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
+  },
+  {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-08-26T20:32:15Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "lottievixen/2xconveyors",
@@ -1769,17 +1780,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-26T20:32:15Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "deltanedas/no",
@@ -2563,6 +2563,17 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "mindustrydagger/vanillaplus",
+    "name": "VanillaPlus",
+    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-08-27T08:14:31Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF]Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+  },
+  {
     "repo": "cyberneticsquid/self-destruct",
     "name": "Unit Self-Destruct",
     "author": "CyberneticSquid",
@@ -2948,6 +2959,17 @@
     "description": "Kanna mod"
   },
   {
+    "repo": "mythril382/colorednames",
+    "name": "Colored Names",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-21T17:43:42Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
+  },
+  {
     "repo": "a5tr0spud/astro-additions",
     "name": "Astronomical Additions [pre alpha]",
     "author": "A5TR0spud",
@@ -3100,17 +3122,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
-  },
-  {
-    "repo": "mindustrydagger/vanillaplus",
-    "name": "VanillaPlus",
-    "author": "[#FFC000]Mindustry[#00FF00]Dagger[#FFFFFF]([#00FF00]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-08-26T11:03:27Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF]Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF]Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "sh1penfire/welcome-to-the-frostscape",
@@ -3828,17 +3839,6 @@
     "description": "This mod make this game difficult."
   },
   {
-    "repo": "mythril382/colorednames",
-    "name": "Colored Names",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-21T17:43:42Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
-  },
-  {
     "repo": "mythril382/rainpuddles",
     "name": "Rain Puddles",
     "author": "Mythril",
@@ -3985,12 +3985,23 @@
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
-    "lastUpdated": "2022-08-27T03:39:07Z",
+    "lastUpdated": "2022-08-27T06:08:41Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a few blocks and logic instructions."
+  },
+  {
+    "repo": "driftheque/breakingmindustry",
+    "name": "Breaking Mindustry",
+    "author": "Driftheque",
+    "lastUpdated": "2022-08-27T09:44:43Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -5357,17 +5368,6 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
-    "repo": "driftheque/breakingmindustry",
-    "name": "Breaking Mindustry",
-    "author": "Driftheque",
-    "lastUpdated": "2022-08-26T11:58:49Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
-  },
-  {
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
@@ -5393,7 +5393,7 @@
     "repo": "mega-industries/mega-additions",
     "name": "Mega Additions",
     "author": "Mega Industries",
-    "lastUpdated": "2022-08-27T04:51:52Z",
+    "lastUpdated": "2022-08-27T05:21:32Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -8215,5 +8215,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "大型アップデート！ 新たなユニットやタレットを駆使して山神に挑もう！"
+  },
+  {
+    "repo": "936338156/mindustry-interplanetary-industries-mod",
+    "name": "Interplanetary_Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-08-27T08:04:42Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "一些破坏性操作，解决了部分语法上的问题"
   }
 ]

@@ -1309,17 +1309,6 @@
     "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
   },
   {
-    "repo": "blackdeluxecat/mi2-utilities",
-    "name": "MI2 Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-20T15:23:31Z",
-    "stars": 9,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
     "repo": "flintyx/autoresearch",
     "name": "Auto Research",
     "author": "Flin",
@@ -1727,6 +1716,17 @@
     "description": "Mindustry Erekir mod moment"
   },
   {
+    "repo": "reborntrack970/multiplayernt",
+    "name": "Multiplayern't",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T07:54:06Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Download this Mindustry Mod NOW!"
+  },
+  {
     "repo": "fabizocker456/test",
     "name": "Test mod",
     "author": "Fabizocker456",
@@ -1760,7 +1760,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1771,7 +1771,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -2651,6 +2651,17 @@
     "description": "A simple mod. Demonstrates how to make wack  and stuff."
   },
   {
+    "repo": "pixaxeofpixie/azureflaretech",
+    "name": "Azure Flare Technologies",
+    "author": "PixaxeOfPixie",
+    "lastUpdated": "2021-04-18T17:20:34Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that targets on visual effects and sprites."
+  },
+  {
     "repo": "mindustryinside/classicmusic",
     "name": "Mindustry Classic Music",
     "author": "Summet, A Drop A Day (music)",
@@ -3265,6 +3276,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "qwerytty/more-walls",
+    "name": "More Walls",
+    "author": "Qweryt",
+    "lastUpdated": "2021-05-08T00:53:22Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few more resources and walls. I can't draw so no sprites for some blocks"
   },
   {
     "repo": "mrduck557/homebrewmindustry",
@@ -3985,7 +4007,7 @@
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-28T05:16:51Z",
+    "lastUpdated": "2022-08-28T06:53:43Z",
     "stars": 3,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -5393,7 +5415,7 @@
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina & Plastel",
-    "lastUpdated": "2022-08-28T06:02:32Z",
+    "lastUpdated": "2022-08-28T07:56:55Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5652,6 +5674,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry mod that disables logic displays in multiplayer, except displays you have last placed/edited. Useful for keeping seizure-inducing, nsfw, or other displays made with malicious intent."
+  },
+  {
+    "repo": "anukenn/the-best-mod",
+    "name": "The Best Mod",
+    "author": "",
+    "lastUpdated": "2021-04-17T14:52:18Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "..."
   },
   {
     "repo": "superhurley/vannillaplus-md",
@@ -6037,6 +6070,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Future curse the enemy and help them stronger,somehow...."
+  },
+  {
+    "repo": "mrduck557/esoterum2",
+    "name": "Esoterum2",
+    "author": "MrDuck557",
+    "lastUpdated": "2022-01-19T15:22:45Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A casual recode of Goobrr/Esoterum that I hope is more stable"
   },
   {
     "repo": "danteslr/shaders",
@@ -6589,17 +6633,6 @@
     "description": "Use the power of SCIENCE to turn LIQUIDS into SOLIDS and then back to LIQUIDS. Or shoot the solids at your enemies, I don't know, i'm not your dad. Adds several blocks capable of turning liquids into items for ease of transportation and storage, and then back to liquids. Also includes a way to do the same to power. All of the items can be used in two special turrets."
   },
   {
-    "repo": "qwertyuiop265000/random-content",
-    "name": "random-content",
-    "author": "qwertyuiop",
-    "lastUpdated": "2022-07-12T12:06:36Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Does what it says on the tin. Also try BTDustry + Terradustry!"
-  },
-  {
     "repo": "routerxdd/drift-units",
     "name": "Drift units",
     "author": "Router Xdd",
@@ -7104,17 +7137,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Turns crawlers into creepers from Minecraft."
-  },
-  {
-    "repo": "qwertyq1234-programming/qq-mod",
-    "name": "QQ-Mod",
-    "author": "QwertyQ1234",
-    "lastUpdated": "2021-04-07T17:04:02Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Niezależny mod kompatybilny z G-Modem"
   },
   {
     "repo": "teslacoil69/slag",
@@ -7821,17 +7843,6 @@
     "description": "adds bitches"
   },
   {
-    "repo": "knacko/mindustrymods",
-    "name": "Radar mod",
-    "author": "Yourself",
-    "lastUpdated": "2022-06-01T03:29:01Z",
-    "stars": 0,
-    "minGameVersion": "126.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Bbfashbjhcbabfhsbafbhajbf"
-  },
-  {
     "repo": "yuri2967/diamond-ore-mod-reloaded",
     "name": "Diamond Ore Mod Reloaded",
     "author": "z0mbiesrock renewed by Yuri2967",
@@ -8006,17 +8017,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "此MOD对两个星球T3核心单位添加了动态效果皮肤，可以在多人服务器上使用"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-08-13T13:34:09Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "从蓝图详情页直接复制逻辑和信息板。蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. "
   },
   {
     "repo": "him-python/mindustry-mod",
@@ -8198,7 +8198,7 @@
     "repo": "duvent-mindustry/rust_dadditions",
     "name": "Rust_d Additions",
     "author": "Rust_d",
-    "lastUpdated": "2022-08-28T06:05:16Z",
+    "lastUpdated": "2022-08-28T07:02:58Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,

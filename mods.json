@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-08-24T14:41:44Z",
-    "stars": 113,
+    "stars": 114,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -531,7 +531,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-08-13T18:55:42Z",
+    "lastUpdated": "2022-08-28T00:48:57Z",
     "stars": 22,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1345,7 +1345,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-27T01:20:42Z",
+    "lastUpdated": "2022-08-27T12:28:57Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1760,17 +1760,6 @@
     "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
-    "repo": "teamneiaron/ion",
-    "name": "Ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-08-16T05:10:37Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "slotterleet/hard-mode-mod",
     "name": "Hard Mode",
     "author": "Slotterleet",
@@ -1780,6 +1769,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
+  },
+  {
+    "repo": "pkchaos/ion",
+    "name": "Ion",
+    "author": "PKChaos",
+    "lastUpdated": "2022-08-27T11:24:38Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
+  },
+  {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "PKChaos",
+    "lastUpdated": "2022-08-27T11:24:38Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "deltanedas/no",
@@ -3036,17 +3047,6 @@
     "description": "welcome to separator HELL this mod add many separator"
   },
   {
-    "repo": "nilederg/galactustry",
-    "name": "Galactustry",
-    "author": "Nilederg",
-    "lastUpdated": "2022-08-08T10:18:26Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Revived after 17 months, now in Java! Nowhere near done."
-  },
-  {
     "repo": "aawwaaa/aimclient",
     "name": "AimClient",
     "author": "awa",
@@ -3127,9 +3127,9 @@
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2022-08-27T01:17:39Z",
+    "lastUpdated": "2022-08-27T16:49:31Z",
     "stars": 4,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
@@ -3905,6 +3905,17 @@
     "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
   },
   {
+    "repo": "nilederg/galactustry",
+    "name": "Galactustry",
+    "author": "Nilederg",
+    "lastUpdated": "2022-08-08T10:18:26Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Revived after 17 months, now in Java! Nowhere near done."
+  },
+  {
     "repo": "willoizcitron/mindustry-devilish-mod",
     "name": "Devilish Mode Shitass edition",
     "author": "[THREAT LEVEL: HIGH] Plays",
@@ -3949,17 +3960,6 @@
     "description": "Adds a button that sends colorful  in chat\n\nRequires DeltaNedas/ui-lib to work"
   },
   {
-    "repo": "uujuju1/poost",
-    "name": "Project Oblivion Ost",
-    "author": "Uujuju, 12three7 and DJ Silin",
-    "lastUpdated": "2022-08-18T23:36:09Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
     "repo": "hubertbdlb/stellarmind",
     "name": "Stellar Mind",
     "author": "Jobert [#bebebe]Industries[]",
@@ -3993,13 +3993,24 @@
     "description": "Adds a few blocks and logic instructions."
   },
   {
+    "repo": "driftheque/windstormhjson",
+    "name": "Windstorm (HJSON)",
+    "author": "Drifted Notes & 1237",
+    "lastUpdated": "2022-08-27T11:03:05Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "hjson port of Codename: Windstorm. renamed to \"Windstorm\" because the name \"Codename: Windstorm\" is too long.\n\nmade by Drifted Notes & 1237."
+  },
+  {
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-27T09:44:43Z",
+    "lastUpdated": "2022-08-28T00:11:23Z",
     "stars": 3,
     "minGameVersion": "136.1",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
     "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
@@ -5368,10 +5379,21 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
+    "repo": "darealmonika/eriker-logic",
+    "name": "Erekir Logic",
+    "author": "Akinom",
+    "lastUpdated": "2022-08-25T14:24:59Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
+  },
+  {
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
-    "lastUpdated": "2022-08-27T02:37:29Z",
+    "lastUpdated": "2022-08-27T15:51:21Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5382,7 +5404,7 @@
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina & Plastel",
-    "lastUpdated": "2022-08-27T04:49:21Z",
+    "lastUpdated": "2022-08-27T23:23:50Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5393,10 +5415,10 @@
     "repo": "mega-industries/mega-additions",
     "name": "Mega Additions",
     "author": "Mega Industries",
-    "lastUpdated": "2022-08-27T05:21:32Z",
+    "lastUpdated": "2022-08-28T00:55:28Z",
     "stars": 2,
     "minGameVersion": "136.1",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of content."
   },
@@ -6655,17 +6677,6 @@
     "description": "A Texture Pack For Better Vanilla Gameplay."
   },
   {
-    "repo": "pankiwi/router-corruption",
-    "name": "router Birus",
-    "author": "'\nMod Creator: Pankiwi ",
-    "lastUpdated": "2022-07-22T18:06:36Z",
-    "stars": 1,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "do not install this you can destroy your mindustry games"
-  },
-  {
     "repo": "theee145/ohnonooh",
     "name": "ohNoNooh",
     "author": "TheEE145",
@@ -6820,21 +6831,21 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
-    "repo": "darealmonika/eriker-logic",
-    "name": "Erekir Logic",
-    "author": "Akinom",
-    "lastUpdated": "2022-08-25T14:24:59Z",
+    "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
+    "name": "Red alert 3 music",
+    "author": "Zerattel",
+    "lastUpdated": "2022-08-27T12:18:03Z",
     "stars": 1,
-    "minGameVersion": "136",
+    "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
+    "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
   },
   {
     "repo": "manuwar73/remodeled_industry-",
     "name": "remodeled-industry",
     "author": "ManuWar73",
-    "lastUpdated": "2022-08-26T15:08:41Z",
+    "lastUpdated": "2022-08-27T18:02:28Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -8173,17 +8184,6 @@
     "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
   },
   {
-    "repo": "duvent-mindustry/rust_dadditions",
-    "name": "Rust_d Additions",
-    "author": "Rust_d",
-    "lastUpdated": "2022-08-24T09:05:08Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "random content i think of once in a while"
-  },
-  {
     "repo": "routerxdd/decaling",
     "name": "Decaling",
     "author": "RouterXdd",
@@ -8226,5 +8226,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "一些破坏性操作，解决了部分语法上的问题"
+  },
+  {
+    "repo": "duvent-mindustry/rust_dadditions",
+    "name": "Rust_d Additions",
+    "author": "Rust_d",
+    "lastUpdated": "2022-08-27T16:07:04Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "random content i think of once in a while"
   }
 ]

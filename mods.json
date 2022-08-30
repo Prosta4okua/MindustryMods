@@ -396,6 +396,17 @@
     "description": "amogus"
   },
   {
+    "repo": "pixecoz/mindustryschematics",
+    "name": "Schematics Pack",
+    "author": "pixecoz",
+    "lastUpdated": "2022-07-28T10:58:37Z",
+    "stars": 28,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
     "repo": "xamionex/opore-mod",
     "name": "Opore-Mod",
     "author": "amione#0663",
@@ -438,6 +449,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
+  },
+  {
+    "repo": "w1-beyek/rl_mindustry",
+    "name": "Real Life Mod",
+    "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
+    "lastUpdated": "2021-01-26T19:08:34Z",
+    "stars": 24,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "p101q/uni",
@@ -548,6 +570,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reverts sprites to as early as b40."
+  },
+  {
+    "repo": "therealivyx/moredefences",
+    "name": "MoreDefences Classic",
+    "author": "IvyX",
+    "lastUpdated": "2022-07-06T15:41:13Z",
+    "stars": 21,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "THIS MOD WILL SOON BECOME OUTDATED! Check #annoucements in this mod's discord server for more details.\n\nA mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nDoes not work on iOS.\nDiscord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "anuken/wind3",
@@ -1122,6 +1155,17 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "cynthion21x/prismatic",
+    "name": "Prismatic",
+    "author": "ice100k, thecrisperson",
+    "lastUpdated": "2022-07-30T18:40:23Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
     "repo": "qmelz/launchpad-redirect",
     "name": "Launchpad Redirect",
     "author": "QmelZ",
@@ -1461,6 +1505,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "lightertimes/block-placer",
+    "name": "Block Placer",
+    "author": "Light",
+    "lastUpdated": "2022-08-17T21:59:08Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that places all kinds of blocks (even modded and hidden) into the world.\n\n \t star me on Github!  (please) \t "
   },
   {
     "repo": "mnemotechnician/new-console",
@@ -2090,6 +2145,17 @@
     "description": "A mod that adds walls made of every buildable material"
   },
   {
+    "repo": "spaceearthex/letter-sound-effect",
+    "name": "Letter sound effect",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-03-01T14:02:17Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod that changes all SFX into TTS sam voice."
+  },
+  {
     "repo": "reborntrack970/multiplayerntnt",
     "name": "Multiplayern'tn't",
     "author": "RTOmega",
@@ -2165,6 +2231,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that enables developer console and removes restrictions on access of classes."
+  },
+  {
+    "repo": "nichrosia/acceleration",
+    "name": "Acceleration",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-06-29T01:31:32Z",
+    "stars": 5,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A kotlin mod."
   },
   {
     "repo": "sirvoid/mindustryvcode",
@@ -3267,6 +3344,17 @@
     "description": "Small mod that currently only adds turrets focused on scripting."
   },
   {
+    "repo": "leyn-pl/leynmod",
+    "name": "LEYNmod",
+    "author": "_LEYN",
+    "lastUpdated": "2021-05-21T20:10:03Z",
+    "stars": 3,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ВНИМАНИЕ:\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\nhttps://discord.gg/kqRsRCN"
+  },
+  {
     "repo": "lordreddx/mindustry-creator-mod",
     "name": "创世神-creator",
     "author": "编号9527",
@@ -3441,6 +3529,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes the Flare the nemesis. Also known as The Wasp Bossfight."
+  },
+  {
+    "repo": "antlrr/dryehm-corvus",
+    "name": "Dryehm Corvus",
+    "author": "Antlrr, Dryehm",
+    "lastUpdated": "2021-11-16T04:19:59Z",
+    "stars": 3,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns Corvus op"
   },
   {
     "repo": "antlrr/thorium-thorium-walls",
@@ -3894,6 +3993,17 @@
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "driftheque/windstormhjson",
+    "name": "Windstorm (HJSON)",
+    "author": "Drifted Notes & 1237",
+    "lastUpdated": "2022-08-27T11:03:05Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "hjson port of Codename: Windstorm. renamed to \"Windstorm\" because the name \"Codename: Windstorm\" is too long.\n\nmade by Drifted Notes & 1237."
+  },
+  {
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
@@ -4026,6 +4136,17 @@
     "description": "v3.5 power system rebirth"
   },
   {
+    "repo": "thunder4lpha/underthewater",
+    "name": "UnDeRtHeWaTeR",
+    "author": "thunder4lpha",
+    "lastUpdated": "2021-02-19T09:16:11Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description."
+  },
+  {
     "repo": "souvikpodder/mindustry-souvy-mod",
     "name": "Souvy Help Block",
     "author": "Souvy",
@@ -4145,6 +4266,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Just adds v5 music (which means that it adds game4.ogg to the game because all the other songs are the same)"
+  },
+  {
+    "repo": "nichrosia/tweaks",
+    "name": "Tweaks",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-04-07T18:59:24Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds several settings for additional graphical content."
   },
   {
     "repo": "yamiyoshinlevi/musicpack",
@@ -4453,6 +4585,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds colored walls and conveyors."
+  },
+  {
+    "repo": "uujuju1/soulfuelmod",
+    "name": "Soul Fuel Mod",
+    "author": "Uujuju",
+    "lastUpdated": "2021-09-26T00:09:07Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "totallylemon/improved-core-units",
@@ -4884,6 +5027,17 @@
     "description": "This is a mod that adds multiple turrets and a wall"
   },
   {
+    "repo": "spaceearthex/banana",
+    "name": "Banana",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2022-05-11T17:19:23Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "you chilled with new joke: surge banana joke. Very small texturepack that changes surge into banana"
+  },
+  {
     "repo": "littelcat456/team-changer",
     "name": "Team Changer",
     "author": "Littlecat456",
@@ -5258,17 +5412,6 @@
     "description": "Can this be considered a 'vanilla' mod?"
   },
   {
-    "repo": "jasmarkelina/tantros-mod",
-    "name": "Tantros",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-08-30T06:04:30Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
-  },
-  {
     "repo": "manuwar73/remodeled_industry-",
     "name": "remodeled-industry",
     "author": "ManuWar73",
@@ -5289,6 +5432,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "i don't know what to do today.\n\nmade by Drifted Notes."
+  },
+  {
+    "repo": "jasmarkelina/tantros-mod",
+    "name": "Tantros",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-08-30T21:18:31Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5940,6 +6094,17 @@
     "description": "Future curse the enemy and help them stronger,somehow...."
   },
   {
+    "repo": "mrduck557/esoterum2",
+    "name": "Esoterum2",
+    "author": "MrDuck557",
+    "lastUpdated": "2022-01-19T15:22:45Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A casual recode of Goobrr/Esoterum that I hope is more stable"
+  },
+  {
     "repo": "danteslr/shaders",
     "name": "Shaders-DaNtesLr",
     "author": "DaNtesLr",
@@ -6028,6 +6193,17 @@
     "description": "Mod with nice weapons"
   },
   {
+    "repo": "xenoforce/use-tomorrow-units",
+    "name": "Use Tomorrow Units",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-15T18:32:46Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Make use of New Horizon units."
+  },
+  {
     "repo": "xenoforce/use-exobegin-units",
     "name": "Use ExoBegin Units",
     "author": "XenoTale",
@@ -6094,6 +6270,17 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
+    "repo": "gamestuffoffical/balancingideasfromdiscord",
+    "name": "BalancingIdeasFromdiscord",
+    "author": "GameStuffOffical",
+    "lastUpdated": "2022-03-05T19:37:16Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
+  },
+  {
     "repo": "regrettabledanger21/rise-of-the-ancients",
     "name": "Rise Of The Ancients",
     "author": "Regrettabledanger10, Oscar56 & Johan.",
@@ -6158,6 +6345,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
+    "repo": "kapzduke/sandcastle",
+    "name": "Sandcastle",
+    "author": "kapzduke",
+    "lastUpdated": "2022-04-08T19:39:53Z",
+    "stars": 1,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play in the sand.\nNot quite practical against vanilla forces."
   },
   {
     "repo": "mindustry-antigrief/multiplayer-pause",
@@ -6488,6 +6686,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small pack of units and turrets made to test out modding in v7"
+  },
+  {
+    "repo": "blackdeluxecat/vanillatoolkittexturepack",
+    "name": "VanillaToolkitTexturePack",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-07-21T14:17:53Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Texture Pack For Better Vanilla Gameplay."
   },
   {
     "repo": "pankiwi/router-corruption",
@@ -6952,6 +7161,17 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
+    "repo": "abrasmag3/creeper-crawlers",
+    "name": "Creeper Crawlers",
+    "author": "AbrasMage",
+    "lastUpdated": "2021-04-03T16:56:08Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Turns crawlers into creepers from Minecraft."
+  },
+  {
     "repo": "qwertyq1234-programming/qq-mod",
     "name": "QQ-Mod",
     "author": "QwertyQ1234",
@@ -7370,6 +7590,17 @@
     "description": "An Hjson version of the mod I want to make in java because I'm dumb."
   },
   {
+    "repo": "boople-beep/untiled-mindustry-mod",
+    "name": "Boo's Mod.",
+    "author": "Yourself",
+    "lastUpdated": "2021-11-13T20:11:22Z",
+    "stars": 0,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "IGNORE IF SEEN- i'm learning to mod"
+  },
+  {
     "repo": "bergiu/hyperprocessor",
     "name": "Hyper Processor",
     "author": "Bergiu",
@@ -7434,6 +7665,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sussy Flarogus (Updated with more buff and more SUS)"
+  },
+  {
+    "repo": "vernaon/mppm",
+    "name": "mppm",
+    "author": "NothingImportant",
+    "lastUpdated": "2021-12-29T22:29:02Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining\n\nRequires ui-lib"
   },
   {
     "repo": "smolkeys/cursed-units",
@@ -7865,6 +8107,17 @@
     "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
   },
   {
+    "repo": "pointifix/coreview",
+    "name": "Core View",
+    "author": "Pointifix",
+    "lastUpdated": "2022-08-16T13:15:44Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sets your camera position to your best core"
+  },
+  {
     "repo": "cynthion21x/prismaticexperimental",
     "name": "Prismatic",
     "author": "cynthion21x & thekayperson",
@@ -8020,13 +8273,24 @@
   },
   {
     "repo": "valkovy/marsmodmindustry",
-    "name": "Kotlin Mod Template",
-    "author": "You",
-    "lastUpdated": "2022-08-30T20:01:17Z",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-08-30T20:54:48Z",
     "stars": 0,
-    "minGameVersion": "129",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
+    "description": "A Mindustry Kotlin mod."
+  },
+  {
+    "repo": "valkovy/marsiummodmindustry",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-08-30T20:54:48Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod."
   }
 ]

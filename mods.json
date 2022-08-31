@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-29T15:54:39Z",
+    "lastUpdated": "2022-08-31T08:23:31Z",
     "stars": 186,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -1793,7 +1793,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1804,7 +1804,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -2541,17 +2541,6 @@
     "description": "Similar to NeonNights, but actually updated."
   },
   {
-    "repo": "yesc48/erekirbundles",
-    "name": "Erekir Bundles",
-    "author": "yesC48",
-    "lastUpdated": "2022-08-23T04:28:59Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds descriptions for the new Erekir content."
-  },
-  {
     "repo": "cristian-blackture/acm",
     "name": "Another Chaotic Mod",
     "author": "Cristian BlackTure And Dom",
@@ -2594,6 +2583,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks"
+  },
+  {
+    "repo": "yesc48/erekirbundles",
+    "name": "Erekir Bundles",
+    "author": "yesC48",
+    "lastUpdated": "2022-08-31T11:10:16Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds descriptions for the new Erekir content."
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -6889,7 +6889,7 @@
     "repo": "936338156/mindustry-interplanetary-industries-mod",
     "name": "Interplanetary_Industries",
     "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-31T08:01:58Z",
+    "lastUpdated": "2022-08-31T10:34:08Z",
     "stars": 1,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -8261,21 +8261,10 @@
     "description": "random content i think of once in a while"
   },
   {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-31T07:35:29Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
-  },
-  {
     "repo": "valkovy/marsmodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-31T08:07:35Z",
+    "lastUpdated": "2022-08-31T09:24:51Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8286,11 +8275,22 @@
     "repo": "valkovy/marsiummodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-31T08:07:35Z",
+    "lastUpdated": "2022-08-31T09:24:51Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod."
+  },
+  {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-08-31T12:16:41Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
   }
 ]

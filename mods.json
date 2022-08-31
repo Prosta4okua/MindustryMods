@@ -113,7 +113,7 @@
     "repo": "what42pizza/mindustry-production-mod",
     "name": "Mindustry-Production-Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-31T03:44:00Z",
+    "lastUpdated": "2022-08-31T21:01:39Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -146,9 +146,9 @@
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-08-19T08:13:35Z",
+    "lastUpdated": "2022-08-31T13:06:50Z",
     "stars": 60,
-    "minGameVersion": "136",
+    "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
@@ -308,17 +308,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "fresh791/fading-revelations",
-    "name": "Fading Revelations",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-30T16:36:43Z",
-    "stars": 33,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "xzxadixzx/scheme-size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
@@ -328,6 +317,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
+    "repo": "fresh791/fading-revelations",
+    "name": "Fading Revelations",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2022-08-31T12:43:09Z",
+    "stars": 33,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "nickname73/gravillaso",
@@ -803,17 +803,6 @@
     "description": "Attempt at prosperity."
   },
   {
-    "repo": "thirstyboi/abominations",
-    "name": "Abominations - TexturePack",
-    "author": "Thristy",
-    "lastUpdated": "2021-10-23T12:37:01Z",
-    "stars": 14,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Turns everything into disgusting organic beings"
-  },
-  {
     "repo": "glennfolker/confictura",
     "name": "Confictura",
     "author": "GlennFolker",
@@ -955,6 +944,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "teamoct/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-08-28T16:51:29Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
   },
   {
     "repo": "slotterleet/fictional-octo-system",
@@ -1345,7 +1345,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-31T01:52:31Z",
+    "lastUpdated": "2022-08-31T12:30:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1793,7 +1793,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1804,7 +1804,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -3127,7 +3127,7 @@
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2022-08-30T12:19:22Z",
+    "lastUpdated": "2022-08-31T12:44:07Z",
     "stars": 4,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -4018,7 +4018,7 @@
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
-    "lastUpdated": "2022-08-30T14:49:51Z",
+    "lastUpdated": "2022-08-31T17:18:26Z",
     "stars": 3,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -5192,17 +5192,6 @@
     "description": "A mod that adds more processing of materials in game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "purplesushi22/mindustry-ohnoandknuckles",
-    "name": "Oh no & Knuckles",
-    "author": "PurpleSushi22",
-    "lastUpdated": "2022-07-04T08:18:36Z",
-    "stars": 2,
-    "minGameVersion": "136.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "What the oh no mod doin?\n\nuh im bored can i download the mod pls\n\n\nTuri ip ip ip\nIp ip ip sho ik\nIp tua o ip ip\nTeri teri ip ik sho ip ik\n"
-  },
-  {
     "repo": "maxsmokeskaarj/smoa-modpack",
     "name": "SMoke of Anarchy New",
     "author": "MaxSMoke, Snake",
@@ -5401,10 +5390,21 @@
     "description": "WIP"
   },
   {
+    "repo": "driftednotes/whattodo",
+    "name": "What to do",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-08-31T14:03:36Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
+  },
+  {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-08-30T21:18:31Z",
+    "lastUpdated": "2022-08-31T17:57:34Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
@@ -5415,7 +5415,7 @@
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
-    "lastUpdated": "2022-08-31T01:19:36Z",
+    "lastUpdated": "2022-08-31T19:06:37Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5426,23 +5426,12 @@
     "repo": "mega-industries/mega-additions",
     "name": "Mega Additions",
     "author": "Mega Industries",
-    "lastUpdated": "2022-08-31T04:37:02Z",
+    "lastUpdated": "2022-08-31T19:30:44Z",
     "stars": 2,
     "minGameVersion": "136.1",
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of content."
-  },
-  {
-    "repo": "driftednotes/whattodo",
-    "name": "What to do",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-08-31T07:40:02Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5641,17 +5630,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "in developpement"
-  },
-  {
-    "repo": "skydraco-8bit/mindustry-extented",
-    "name": "Mindustry Extented",
-    "author": "SkyDraco",
-    "lastUpdated": "2021-03-24T06:15:56Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod for mindustry"
   },
   {
     "repo": "dylanc-rgb/advanced-warfare",
@@ -8151,17 +8129,6 @@
     "description": "Sets all bundle values to their keys. Useful when scraping data using Pulverizer."
   },
   {
-    "repo": "zeutd/degradation",
-    "name": "degradation",
-    "author": "zeutd",
-    "lastUpdated": "2022-08-21T11:33:11Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "rly4498/hmm",
     "name": "Hmm",
     "author": "Rly4498",
@@ -8261,10 +8228,32 @@
     "description": "random content i think of once in a while"
   },
   {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-08-31T12:43:23Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
+  },
+  {
+    "repo": "zeutd/degradation",
+    "name": "degradation",
+    "author": "zeutd",
+    "lastUpdated": "2022-08-31T13:03:56Z",
+    "stars": 0,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "valkovy/marsmodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-31T09:24:51Z",
+    "lastUpdated": "2022-08-31T20:04:41Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8275,22 +8264,11 @@
     "repo": "valkovy/marsiummodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-31T09:24:51Z",
+    "lastUpdated": "2022-08-31T20:04:41Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Kotlin mod."
-  },
-  {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-31T12:16:41Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
   }
 ]

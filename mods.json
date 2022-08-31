@@ -113,7 +113,7 @@
     "repo": "what42pizza/mindustry-production-mod",
     "name": "Mindustry-Production-Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-26T23:49:03Z",
+    "lastUpdated": "2022-08-31T03:44:00Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -319,6 +319,17 @@
     "description": "\nA huge, fun & balanced content extension.\n\n\nFeatures\nA custom map and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish\n- Ukrainian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
+    "repo": "xzxadixzx/scheme-size",
+    "name": "Scheme Size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-08-31T08:12:44Z",
+    "stars": 33,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "nickname73/gravillaso",
     "name": "GRavillaso",
     "author": "NickName73 (NiTiS-Dev)",
@@ -339,17 +350,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "xzxadixzx/scheme-size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-08-30T19:10:48Z",
-    "stars": 32,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "meepoffaith/missing-category-units",
@@ -1345,7 +1345,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-30T12:31:14Z",
+    "lastUpdated": "2022-08-31T01:52:31Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1505,6 +1505,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
+  },
+  {
+    "repo": "evo04taser/super-cheat",
+    "name": "Super Cheat",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-08-05T04:21:58Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
     "repo": "lightertimes/block-placer",
@@ -1771,17 +1782,6 @@
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
-    "repo": "evo04taser/super-cheat",
-    "name": "Super Cheat",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-08-05T04:21:58Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
-  },
-  {
     "repo": "slotterleet/hard-mode-mod",
     "name": "Hard Mode",
     "author": "Slotterleet",
@@ -1793,7 +1793,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1804,7 +1804,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -5368,17 +5368,6 @@
     "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
   },
   {
-    "repo": "mega-industries/mega-additions",
-    "name": "Mega Additions",
-    "author": "Mega Industries",
-    "lastUpdated": "2022-08-29T02:05:17Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of content."
-  },
-  {
     "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
@@ -5401,17 +5390,6 @@
     "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
-    "repo": "uujuju1/monolith",
-    "name": "Monolith",
-    "author": "Uujuju",
-    "lastUpdated": "2022-08-29T23:13:45Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Can this be considered a 'vanilla' mod?"
-  },
-  {
     "repo": "manuwar73/remodeled_industry-",
     "name": "remodeled-industry",
     "author": "ManuWar73",
@@ -5423,17 +5401,6 @@
     "description": "WIP"
   },
   {
-    "repo": "driftednotes/whattodo",
-    "name": "What to do",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-08-30T14:05:18Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
-  },
-  {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina,Plastel & RouterXdd",
@@ -5443,6 +5410,39 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+  },
+  {
+    "repo": "uujuju1/monolith",
+    "name": "Monolith",
+    "author": "Uujuju",
+    "lastUpdated": "2022-08-31T01:19:36Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Can this be considered a 'vanilla' mod?"
+  },
+  {
+    "repo": "mega-industries/mega-additions",
+    "name": "Mega Additions",
+    "author": "Mega Industries",
+    "lastUpdated": "2022-08-31T04:37:02Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a lot of content."
+  },
+  {
+    "repo": "driftednotes/whattodo",
+    "name": "What to do",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-08-31T07:40:02Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6886,6 +6886,17 @@
     "description": "Crushes Mindustry content into fine JSON.\n\nMore information is available in the README."
   },
   {
+    "repo": "936338156/mindustry-interplanetary-industries-mod",
+    "name": "Interplanetary_Industries",
+    "author": "羊叫兽OwO",
+    "lastUpdated": "2022-08-31T08:01:58Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "一些破坏性操作，解决了部分语法上的问题"
+  },
+  {
     "repo": "nikisos/thebattlemod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -8206,17 +8217,6 @@
     "description": "大型アップデート！ 新たなユニットやタレットを駆使して山神に挑もう！"
   },
   {
-    "repo": "936338156/mindustry-interplanetary-industries-mod",
-    "name": "Interplanetary_Industries",
-    "author": "羊叫兽OwO",
-    "lastUpdated": "2022-08-28T02:05:07Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "一些破坏性操作，解决了部分语法上的问题"
-  },
-  {
     "repo": "swirek3331/zpgm-connector",
     "name": "ZPGM-Connector",
     "author": "swirek3331",
@@ -8237,17 +8237,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-30T09:10:48Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
   },
   {
     "repo": "xxxuan42/coreunloader",
@@ -8272,10 +8261,21 @@
     "description": "random content i think of once in a while"
   },
   {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-08-31T07:35:29Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
+  },
+  {
     "repo": "valkovy/marsmodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-30T20:54:48Z",
+    "lastUpdated": "2022-08-31T08:07:35Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8286,7 +8286,7 @@
     "repo": "valkovy/marsiummodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
-    "lastUpdated": "2022-08-30T20:54:48Z",
+    "lastUpdated": "2022-08-31T08:07:35Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,

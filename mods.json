@@ -146,7 +146,7 @@
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-08-31T13:06:50Z",
+    "lastUpdated": "2022-09-01T06:40:53Z",
     "stars": 60,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -207,17 +207,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
-  },
-  {
-    "repo": "petruchiorus/lead_ind",
-    "name": "Lead Industries",
-    "author": "PetruCHIOrus",
-    "lastUpdated": "2021-01-17T18:21:16Z",
-    "stars": 47,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "sharlottes/sharustry",
@@ -443,7 +432,7 @@
     "repo": "xstabux/omaloon-mod-public",
     "name": "Omaloon-Mod",
     "author": "StaBU",
-    "lastUpdated": "2022-08-30T07:36:48Z",
+    "lastUpdated": "2022-09-01T07:07:08Z",
     "stars": 25,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -957,7 +946,7 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "slotterleet/fictional-octo-system",
+    "repo": "teamoct/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-08-28T16:51:29Z",
@@ -968,7 +957,7 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "teamoct/fictional-octo-system",
+    "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-08-28T16:51:29Z",
@@ -1202,7 +1191,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-09-01T06:13:45Z",
+    "lastUpdated": "2022-09-01T07:37:05Z",
     "stars": 10,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -1804,7 +1793,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1815,7 +1804,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1956,17 +1945,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
-  },
-  {
-    "repo": "deltanedas/mindustry-2",
-    "name": "Mindustry 2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "l0615t1c5-216ac-9437/maxratecalculatorv6",
@@ -2165,17 +2143,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod that changes all SFX into TTS sam voice."
-  },
-  {
-    "repo": "reborntrack970/multiplayerntnt",
-    "name": "Multiplayern'tn't",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-02T06:13:05Z",
-    "stars": 5,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Mindustry Mod that Reverts Multiplayernt"
   },
   {
     "repo": "bloool/solarworks",
@@ -3630,17 +3597,6 @@
     "description": "A mindustry mods that added maybe lot of content."
   },
   {
-    "repo": "txar/densecreations",
-    "name": "Dense Creations",
-    "author": "Txar",
-    "lastUpdated": "2022-02-10T21:16:41Z",
-    "stars": 3,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
-  },
-  {
     "repo": "error-in-code/relics-mod",
     "name": "Relics",
     "author": "[Error_in_Code]",
@@ -3905,17 +3861,6 @@
     "description": "My very first mod! credit to: MaxSmoke"
   },
   {
-    "repo": "rintadev/wisp",
-    "name": "Wisp",
-    "author": "RintaDev",
-    "lastUpdated": "2022-08-02T23:02:02Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
-  },
-  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "Nilederg",
@@ -4040,7 +3985,7 @@
     "repo": "driftednotes/whattodo",
     "name": "What to do",
     "author": "Drifted Notes",
-    "lastUpdated": "2022-09-01T06:16:33Z",
+    "lastUpdated": "2022-09-01T07:11:31Z",
     "stars": 3,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5346,17 +5291,6 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
-    "repo": "rexaliis/colorful-darkness-mod",
-    "name": "Colorful Darkness",
-    "author": "RexHm (Discord ID: 612122239428722720)",
-    "lastUpdated": "2022-08-14T23:16:13Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Dark-Mode Texture pack for Mindustry!"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -6281,17 +6215,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "gamestuffoffical/balancingideasfromdiscord",
-    "name": "BalancingIdeasFromdiscord",
-    "author": "GameStuffOffical",
-    "lastUpdated": "2022-03-05T19:37:16Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "regrettabledanger21/rise-of-the-ancients",
     "name": "Rise Of The Ancients",
     "author": "Regrettabledanger10, Oscar56 & Johan.",
@@ -7183,17 +7106,6 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
-    "repo": "abrasmag3/creeper-crawlers",
-    "name": "Creeper Crawlers",
-    "author": "AbrasMage",
-    "lastUpdated": "2021-04-03T16:56:08Z",
-    "stars": 0,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Turns crawlers into creepers from Minecraft."
-  },
-  {
     "repo": "qwertyq1234-programming/qq-mod",
     "name": "QQ-Mod",
     "author": "QwertyQ1234",
@@ -7500,17 +7412,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 Mod that add modded maps"
-  },
-  {
-    "repo": "yunaakaishi08/plusalfer",
-    "name": "PlusAlfer",
-    "author": "YuNA彁",
-    "lastUpdated": "2021-10-27T16:36:38Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add a few content."
   },
   {
     "repo": "nemesistheory/reach-soundtracks",
@@ -8297,7 +8198,7 @@
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-09-01T00:31:31Z",
+    "lastUpdated": "2022-09-01T07:24:41Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,

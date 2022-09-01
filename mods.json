@@ -957,7 +957,7 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "teamoct/fictional-octo-system",
+    "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-08-28T16:51:29Z",
@@ -968,7 +968,7 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "slotterleet/fictional-octo-system",
+    "repo": "teamoct/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-08-28T16:51:29Z",
@@ -1188,17 +1188,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2022-08-27T07:26:40Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
@@ -1208,6 +1197,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2022-09-01T06:13:45Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "sk7725/immundustry",
@@ -3124,17 +3124,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-29T22:57:16Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
@@ -3144,6 +3133,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-09-01T06:16:50Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -4004,6 +4004,17 @@
     "description": "OP Things which game more easy, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "driftheque/windstormhjson",
+    "name": "Windstorm (HJSON)",
+    "author": "Drifted Notes & 1237",
+    "lastUpdated": "2022-08-27T11:03:05Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "hjson port of Codename: Windstorm. renamed to \"Windstorm\" because the name \"Codename: Windstorm\" is too long.\n\nmade by Drifted Notes & 1237."
+  },
+  {
     "repo": "driftheque/breakingmindustry",
     "name": "Breaking Mindustry",
     "author": "Driftheque",
@@ -4024,6 +4035,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a few logic instructions. No other content for now."
+  },
+  {
+    "repo": "driftednotes/whattodo",
+    "name": "What to do",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-09-01T06:16:33Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -5399,17 +5421,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP"
-  },
-  {
-    "repo": "driftednotes/whattodo",
-    "name": "What to do",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-08-31T14:03:36Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
   },
   {
     "repo": "jasmarkelina/tantros-mod",
